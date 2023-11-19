@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Menu vertical flip"
+  m_Controller: {fileID: 9100000, guid: 5752ffe46f8c44cb968758f02fde281e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 679eb9c5d18b46748e4cc74757acc788, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 193b093039b345a7bcb66d0154ae484f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5e5fd287ecff4fbba8d5d2289e0f660d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e7027b31094f4e4b8d7f7b4e4648cec5, type: 2}

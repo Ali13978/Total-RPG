@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Player - Dualist"
+  m_Controller: {fileID: 9100000, guid: 729b917af59a41eaa02c5ee2bae3a38e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c1567cf6b8d24e3b9d5f19142fcba2e4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0d4bbcc9420946468d5578b42196c56e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 90e1a95978514e53824a9027df94ecf2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 67c598229fa6483c824ba9b788bd644b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 21fcb92f688547b1a0fcdab4b9279877, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 36dd604157ca408d800e64bcc9683a72, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4aa1f19791d243eab982bbe6f6666091, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2cadbcf997c3439a9c25d9a5c71c807e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 35487c5c75eb4122af68370db4f4af19, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d22a7e87db6c4027ae6cd03954de4cf6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e46322f4f2524800a65226e83e130a45, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e46322f4f2524800a65226e83e130a45, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 45e3ed6e449540779470471a1e55fb24, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 83d63f68104d4844ace4bc389365c717, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 47f7811494b54d599de75fe26d5785e2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8910dd4deb748f7a1698df6c4c79a5c, type: 2}

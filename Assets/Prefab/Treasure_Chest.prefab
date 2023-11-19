@@ -1,0 +1,587 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1791239302789288935}
+  m_IsPrefabParent: 1
+--- !u!4 &1791239302839620621
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288935}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1791239302839620648}
+  - {fileID: 1791239302839620653}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1791239302839620648
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288959}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_Children:
+  - {fileID: 1791239302839620627}
+  m_Father: {fileID: 1791239302839620621}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1791239302839620653
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288958}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1791239302839620621}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1791239302839620627
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288940}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.0007324219, y: 0.4420013, z: 0.3453827}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1791239302839620648}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1791239302789288935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1791239302839620621}
+  - component: {fileID: 1791239304685114579}
+  - component: {fileID: 1791239304685114562}
+  - component: {fileID: 1791239304685114583}
+  - component: {fileID: 1791239304685114584}
+  - component: {fileID: 1791239304148243645}
+  - component: {fileID: 1791239304685114573}
+  - component: {fileID: 1791239304685114568}
+  m_Layer: 11
+  m_Name: "Treasure_Chest"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1791239302789288940
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1791239302839620627}
+  - component: {fileID: 1791239303326159981}
+  - component: {fileID: 1791239303158387769}
+  m_Layer: 11
+  m_Name: "Treasure_Chest_lid_01"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1791239302789288958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1791239302839620653}
+  m_Layer: 11
+  m_Name: "Spawn position"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1791239302789288959
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1791239302839620648}
+  - component: {fileID: 1791239303863030968}
+  - component: {fileID: 1791239303326159985}
+  - component: {fileID: 1791239303158387784}
+  - component: {fileID: 1791239304366347454}
+  - component: {fileID: 1791239306262172863}
+  m_Layer: 11
+  m_Name: "Treasure_Chest_01"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &1791239303158387769
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288940}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 51d55fd80f3c4442adc2b6729730cdaa, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &1791239303158387784
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288959}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 51d55fd80f3c4442adc2b6729730cdaa, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &1791239303326159981
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288940}
+  m_Mesh: {fileID: 4300000, guid: 8d5601a533e3497cbb8e560fe0d57531, type: 2}
+--- !u!33 &1791239303326159985
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288959}
+  m_Mesh: {fileID: 4300000, guid: 834152ba09a64d1bb4337d2f746c40aa, type: 2}
+--- !u!65 &1791239303863030968
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288959}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.9, y: 0.55, z: 0.7}
+  m_Center: {x: 0, y: 0.26, z: 0}
+--- !u!82 &1791239304148243645
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288935}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 587855e9a8a341bfbeffa5bf6f4ebe4b, type: 2}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!95 &1791239304366347454
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288959}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3f290937ecfa42419fcfd6952ddaffba, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!208 &1791239306262172863
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288959}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.45, y: 0.275, z: 0.35}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.26, z: 0}
+  m_TimeToStationary: 0.5
+--- !u!114 &1791239304685114562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82a2ee56c4a60212fc6cd41995e5dfc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  character: {fileID: 1791239304685114579}
+  OnAttackStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: "UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null"
+  OnSpawn:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: "TzarGames.TzarHero.CharacterEvent, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null"
+  OnDead:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1791239304366347454}
+        m_MethodName: "SetTrigger"
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: "UnityEngine.Object, UnityEngine"
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "Open"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1791239304685114583}
+        m_MethodName: "PlayRandom"
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: "UnityEngine.Object, UnityEngine"
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "Open"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1791239304685114573}
+        m_MethodName: "SpawnLoot"
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: "UnityEngine.Object, UnityEngine"
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: "TzarGames.TzarHero.CharacterDeadEvent, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null"
+  OnAlive:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: "TzarGames.TzarHero.CharacterEvent, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null"
+  OnTakeHit:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1791239304685114584}
+        m_MethodName: "OnDamageHit"
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: "UnityEngine.Object, UnityEngine"
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: "TzarGames.TzarHero.CharacterHitEvent, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null"
+  OnLevelUp:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: "TzarGames.TzarHero.CharacterEvent, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null"
+  OnTakeItem:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: "TzarGames.GameFramework.Events.ItemTakeEvent, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null"
+--- !u!114 &1791239304685114568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b268f85dc6efdac272b43cd87398a6ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  character: {fileID: 1791239304685114579}
+  changeMode: 0
+  levelAddition: 0
+  stageMultiplier: 1
+--- !u!114 &1791239304685114573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb821ea2fdba87a37436c85b833b3ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  character: {fileID: 1791239304685114579}
+  spawnPosition: {fileID: 1791239302839620653}
+  spawnDelay: 1
+  onSpawnStarted:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1791239304685114583}
+        m_MethodName: "PlayRandom"
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: "UnityEngine.Object, UnityEngine"
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "Loot Spawned"
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: "UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null"
+--- !u!114 &1791239304685114579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88ec7c0c75ace123dd8ee73f8bfc9f12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  groundPivotDisplacement: {x: 0, y: 0.1, z: 0}
+  attackHeightOffset: 1.4
+  authoritative:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 0
+  traceCollideLayer:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  traceTriggerInteraction: 0
+  syncData: 1
+  characterTemplate: {fileID: 11400000, guid: b813be0d71d54e0581ff45a5f89d0be8, type: 2}
+  characterTemplateInstance: {fileID: 0}
+  InstantiatedInPlayMode: 0
+  meleeCombatSystem: {fileID: 0}
+  rangeCombatSystem: {fileID: 0}
+  useAnimBasedCombatSystem: 0
+  animBasedCombatSystem: {fileID: 0}
+  surfaceType: "Wood"
+  _rotationRate: 0
+  rotationBody: {fileID: 0}
+  _destroyDelayAfterDeath: 0
+  _minDistanceToWaypoint: 0.2
+  radiusScale: 1
+  DefaultRadius: 0.9
+  characterAnimation: {fileID: 0}
+  audioSource: {fileID: 0}
+  ignoreDamage:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 0
+  canBeAttacked:
+    currentCryptoKey: 215
+    hiddenValue: 2
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 0
+  enableBodyRotation: 0
+  pathfinder: {fileID: 0}
+  stuckCheckTime: 1
+  allowLocalControl: 0
+  enableAllRigidBodiesOnDeath: 0
+  ragdollRoot: {fileID: 0}
+  disableCharacterControllerOnDeath: 0
+  changeLayerOnDeath: 0
+  DeathLayerName: "Ragdoll"
+  checkFollowingRate1: 0.5
+  checkFollowingRate2: 0.5
+--- !u!114 &1791239304685114583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ba36f5e2ccc5e24d15c45750b59f12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  groups:
+  - name: "Open"
+    clips:
+    - {fileID: 8300000, guid: 589e08c5a473460bb717f3ab437e3a66, type: 3}
+    source: {fileID: 1791239304148243645}
+    optionalMixerGroup: {fileID: 0}
+    randomizeVolume: 1
+    minVolume: 0.8
+    maxVolume: 1
+    randomizePitch: 1
+    minPitch: 0.9
+    maxPitch: 1
+    spatializeBlend: 1
+  - name: "Loot Spawned"
+    clips:
+    - {fileID: 8300000, guid: 29f888921b0346748b875497d06956cc, type: 3}
+    source: {fileID: 1791239304148243645}
+    optionalMixerGroup: {fileID: 0}
+    randomizeVolume: 1
+    minVolume: 0.8
+    maxVolume: 1
+    randomizePitch: 1
+    minPitch: 0.9
+    maxPitch: 1
+    spatializeBlend: 1
+--- !u!114 &1791239304685114584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1791239302789288935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9b349f5724fe4a99c195b9505cc2f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minVolume: 0.8
+  maxVolume: 1
+  minPitch: 0.9
+  maxPitch: 1.1
+  source: {fileID: 1791239304148243645}
+  mixerGroup: {fileID: 0}

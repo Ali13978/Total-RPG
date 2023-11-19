@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "EnemyBossSpider"
+  m_Controller: {fileID: 9100000, guid: 4a96075ca9a14f2091e52d55ce162e96, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bf5cec7066164604860a440e78261393, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 92a385df40c64eb097bdadc69ab7c8a3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8d757951552d4f15b9c1fce59357b780, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 64194b9734314a2bbf3ebeb262b87094, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 77620d2c6e4448dbb11298d653488647, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4244c9fc997b44968f652cee8ad2799e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 871b6f6462c94d12aca7c7ec5cca89bb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3f821040f00f434abfcfe83ca1916a85, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 78bb7009feab4678a3506be35d627318, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 42a746ded1014fd2bf999a40a4ea4fdd, type: 2}

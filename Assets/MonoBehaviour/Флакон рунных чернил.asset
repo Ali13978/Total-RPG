@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a0fc3a6567164d02b61294461f5b92, type: 3}
+  m_Name: "\u0424\u043B\u0430\u043A\u043E\u043D \u0440\u0443\u043D\u043D\u044B\u0445 \u0447\u0435\u0440\u043D\u0438\u043B"
+  m_EditorClassIdentifier: 
+  id: 151
+  UniqueInstanceIdRequired: 1
+  itemName: "\u0424\u043B\u0430\u043A\u043E\u043D \u0440\u0443\u043D\u043D\u044B\u0445 \u0447\u0435\u0440\u043D\u0438\u043B"
+  localizedName: {fileID: 11400000, guid: 9348605d413b4b03af6ba3c5b0ed0d16, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789290566, guid: dece25655f9ae244a969ad77628a9026, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes:
+  - {fileID: 11400000, guid: d1c8a36255ea48f88342bcb4f59ab618, type: 2}
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300000, guid: 8c13f177598d496794aca174395a7872, type: 3}
+  ConsumptionType: 1
+  Cost: 0
+  PremiumCost: 0
+  MinimumLevel: 0
+  localizedStory: {fileID: 0}

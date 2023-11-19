@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2d8ec5a752a647bc309e8bc58cfd18, type: 3}
+  m_Name: "\u0414\u0438\u0430\u043B\u043E\u0433 \u043F\u043E\u0441\u043B\u0435 \u0431\u043E\u0441\u0441\u0430 \u043D\u0430 5 \u044D\u0442\u0430\u0436\u0435"
+  m_EditorClassIdentifier: 
+  id: 69
+  _name: "\u0414\u0438\u0430\u043B\u043E\u0433 \u043F\u043E\u0441\u043B\u0435 \u0431\u043E\u0441\u0441\u0430 \u043D\u0430 5 \u044D\u0442\u0430\u0436\u0435"
+  _entries:
+  - Icon: {fileID: 0}
+    LocalizedMessage: {fileID: 11400000, guid: 8d51999c27014cbe9339e87de82beaad, type: 2}
+  - Icon: {fileID: 0}
+    LocalizedMessage: {fileID: 11400000, guid: de8e438048e04169aa140e9f024539c0, type: 2}
+  - Icon: {fileID: 0}
+    LocalizedMessage: {fileID: 11400000, guid: 6c4d55f06d9449b0a981ca585a4aa799, type: 2}

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a30c8035dc6ea85384206b243e326be, type: 3}
+  m_Name: "(Clone)(Clone)(Clone)"
+  m_EditorClassIdentifier: 
+  id: 38
+  characterName: "\u0410\u043C\u0430\u0437\u043E\u043D\u043A\u0430 (\u043F\u0440\u0438\u0437\u044B\u0432\u0430\u0435\u043C\u0430\u044F)"
+  localizedName: {fileID: 11400000, guid: 96278071d87645ac9231d9b3fe6a61e0, type: 2}
+  group: {fileID: 11400000, guid: 5b7d89dbf49a40dbbcea2741ed354153, type: 2}
+  tags: []
+  hitPoints:
+    baseValue: 80
+  hitPointsRegenerationSpeed:
+    baseValue: 0.5
+  damage:
+    baseValue: 2
+  attackSpeed:
+    baseValue: 1.5
+  defence:
+    baseValue: 2
+  walkingSpeed:
+    baseValue: 4.5
+  xpRate:
+    baseValue: 0.5
+  critChance:
+    baseValue: 2
+  critMultiplier:
+    baseValue: 2
+  hitPointsCoefficient: 0.18
+  hitPointRegenSpeedCoefficient: 0.2
+  damageCoefficient: 0.4
+  attackSpeedCoefficient: 0.003
+  defenceCoefficient: 0.2
+  walkingSpeedCoefficient: 0.001
+  critChanceCoefficient: 0
+  critMultiplierCoefficient: 0.02
+  enableUpdateStats: 1
+  loot: {fileID: 0}
+  additionalLoot: []
+  additionalLootInfos: []
+  skills:
+  - {fileID: 11400000, guid: fc0dea448941415083ad9e1a8b26ee1d, type: 2}
+  - {fileID: 11400000, guid: 46ca56ee2a384101bda585c1c410e0aa, type: 2}

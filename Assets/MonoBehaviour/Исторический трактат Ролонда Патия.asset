@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a0fc3a6567164d02b61294461f5b92, type: 3}
+  m_Name: "\u0418\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0442\u0440\u0430\u043A\u0442\u0430\u0442 \u0420\u043E\u043B\u043E\u043D\u0434\u0430 \u041F\u0430\u0442\u0438\u044F"
+  m_EditorClassIdentifier: 
+  id: 142
+  UniqueInstanceIdRequired: 1
+  itemName: "\u0418\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0442\u0440\u0430\u043A\u0442\u0430\u0442 \u0420\u043E\u043B\u043E\u043D\u0434\u0430 \u041F\u0430\u0442\u0438\u044F"
+  localizedName: {fileID: 11400000, guid: a9595b58c8b34b8981921c3cc673a0c4, type: 2}
+  localizedDescription: {fileID: 11400000, guid: 33c393eac7594efb880b8a38fd08e4ef, type: 2}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789290459, guid: 15303cb99ec477b48a3001e79e79ea1f, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes:
+  - {fileID: 11400000, guid: d1c8a36255ea48f88342bcb4f59ab618, type: 2}
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300000, guid: 1cfa2ac5c6414d51b15ea306788864e7, type: 3}
+  ConsumptionType: 1
+  Cost: 0
+  PremiumCost: 0
+  MinimumLevel: 0
+  localizedStory: {fileID: 11400000, guid: 33c393eac7594efb880b8a38fd08e4ef, type: 2}

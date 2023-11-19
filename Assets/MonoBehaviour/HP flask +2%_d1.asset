@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 004587781b09cbbca2119f2d96a2d251, type: 3}
+  m_Name: "HP flask +2%"
+  m_EditorClassIdentifier: 
+  id: 195
+  UniqueInstanceIdRequired: 1
+  itemName: "HP flask +2%"
+  localizedName: {fileID: 11400000, guid: 981347d667d84b579e1554918fb63b3e, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789290175, guid: 9e22edc5614ab934ba9173ff1f676da8, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300056, guid: 5cbf5f8856724c1ebd911211c37dcf39, type: 3}
+  ConsumptionType: 1
+  Cost: 15000
+  PremiumCost: 0
+  MinimumLevel: 0
+  bonus:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 187
+      b2: 10
+      b3: 129
+      b4: 63
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 1.02
+    fakeValueActive: 1
+  modificatorOperator: 2

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5918b5cd62bbada7e3e974a95d2b7cb, type: 3}
+  m_Name: "Defence medallion +3"
+  m_EditorClassIdentifier: 
+  id: 192
+  UniqueInstanceIdRequired: 1
+  itemName: "Defence medallion +3"
+  localizedName: {fileID: 11400000, guid: b936925cae7d4751a5aaaae77600693a, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789290129, guid: 6b681511ffd1af64aab9e58cd98432e1, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300078, guid: 5cbf5f8856724c1ebd911211c37dcf39, type: 3}
+  ConsumptionType: 1
+  Cost: 60000
+  PremiumCost: 0
+  MinimumLevel: 0
+  bonus:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 231
+      b2: 133
+      b3: 67
+      b4: 64
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 3
+    fakeValueActive: 1
+  modificatorOperator: 0

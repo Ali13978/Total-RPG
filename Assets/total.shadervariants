@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "total"
+  m_Shaders:
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: UNITY_UI_ALPHACLIP
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHABLEND_ON _EMISSION
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHABLEND_ON _EMISSION
+        passType: 4
+      - keywords: SHADOWS_DEPTH _ALPHABLEND_ON
+        passType: 8
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP
+        passType: 0
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP
+        passType: 0
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP
+        passType: 0
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTMAP_ON SHADOWS_SCREEN
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH SHADOWS_SCREEN
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTMAP_ON SHADOWS_SCREEN
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP
+        passType: 1
+      - keywords: FOG_EXP2
+        passType: 1
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP
+        passType: 0
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP
+        passType: 0
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP
+        passType: 0
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH SHADOWS_SCREEN
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH SHADOWS_SCREEN
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: UNDERLAY_ON
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH SHADOWS_SCREEN
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second: 
+      variants:
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4

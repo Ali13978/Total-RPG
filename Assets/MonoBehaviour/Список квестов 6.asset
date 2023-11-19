@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9680167e11ec7c7cac2f39405c866a1, type: 3}
+  m_Name: "\u0421\u043F\u0438\u0441\u043E\u043A \u043A\u0432\u0435\u0441\u0442\u043E\u0432 6"
+  m_EditorClassIdentifier: 
+  id: 31
+  _name: "\u0421\u043F\u0438\u0441\u043E\u043A \u043A\u0432\u0435\u0441\u0442\u043E\u0432 6"
+  quests:
+  - {fileID: 11400000, guid: 5199c0a299ca438990d8be4a16aef74b, type: 2}
+  minimumStage: 7

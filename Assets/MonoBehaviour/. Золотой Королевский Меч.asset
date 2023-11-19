@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f406e93e0f596af63ced65c6529b9792, type: 3}
+  m_Name: ". \u0417\u043E\u043B\u043E\u0442\u043E\u0439 \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0438\u0439 \u041C\u0435\u0447"
+  m_EditorClassIdentifier: 
+  id: 293
+  UniqueInstanceIdRequired: 1
+  itemName: ". \u0417\u043E\u043B\u043E\u0442\u043E\u0439 \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0438\u0439 \u041C\u0435\u0447"
+  localizedName: {fileID: 11400000, guid: 3fca17a267884ee48f6670ad5efa6b78, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators:
+    - ModificationMode: 0
+      valueToModify: 1.05
+      Operator: 2
+      EffectTime: 0
+    HitPointsRegenModificators:
+    - ModificationMode: 0
+      valueToModify: 1.05
+      Operator: 2
+      EffectTime: 0
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators:
+    - ModificationMode: 0
+      valueToModify: 5
+      Operator: 0
+      EffectTime: 0
+    CritMultipliierModificators:
+    - ModificationMode: 0
+      valueToModify: 3
+      Operator: 1
+      EffectTime: 0
+  availableInShop: 0
+  Prefab: {fileID: 1791239302789289906, guid: 8ed4f7cad4556c3408db6fba46ac3bd4, type: 2}
+  DroppedPrefab: {fileID: 1791239302789289895, guid: 84707181c012ab847bee1bdafa5f118e, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300012, guid: 9e695ecea73b4e71a3197bdf67929886, type: 3}
+  ConsumptionType: 1
+  Cost: 0
+  PremiumCost: 80
+  MinimumLevel: 22
+  _attackRange: 1.35
+  damageModificator:
+    ModificationMode: 0
+    valueToModify: 38
+    Operator: 1
+    EffectTime: 0
+  attackSpeedModificator:
+    ModificationMode: 0
+    valueToModify: 1.2
+    Operator: 1
+    EffectTime: 0
+  type: 0
+  surfaceTypeName: "Metal"
+  projectilePrefab: {fileID: 0}
+  damageForceMultiplier: 1.3
+  HitModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  rangeAttackThrowTime: 0
+  hideProjectileBeforeLaunch: 1
+  useUniqueNetworkIDForProjectiles: 0

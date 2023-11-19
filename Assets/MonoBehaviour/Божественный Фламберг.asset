@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f406e93e0f596af63ced65c6529b9792, type: 3}
+  m_Name: "\u0411\u043E\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0424\u043B\u0430\u043C\u0431\u0435\u0440\u0433"
+  m_EditorClassIdentifier: 
+  id: 87
+  UniqueInstanceIdRequired: 1
+  itemName: "\u0411\u043E\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0424\u043B\u0430\u043C\u0431\u0435\u0440\u0433"
+  localizedName: {fileID: 11400000, guid: d164c8f21dfa4fb9a76acadb1d967ae9, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators:
+    - ModificationMode: 0
+      valueToModify: 17
+      Operator: 0
+      EffectTime: 0
+    CritMultipliierModificators:
+    - ModificationMode: 0
+      valueToModify: 3
+      Operator: 1
+      EffectTime: 0
+  availableInShop: 1
+  Prefab: {fileID: 1791239302789289303, guid: 768b331f0fff1704b8bcd9a153596a89, type: 2}
+  DroppedPrefab: {fileID: 1791239302789289303, guid: 768b331f0fff1704b8bcd9a153596a89, type: 2}
+  autoPickup: 0
+  destroyOnPickUp: 1
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300064, guid: f5ca881d932648c088a9d8b4a07084c4, type: 3}
+  ConsumptionType: 1
+  Cost: 1E+07
+  PremiumCost: 0
+  MinimumLevel: 50
+  _attackRange: 1.5
+  damageModificator:
+    ModificationMode: 0
+    valueToModify: 120
+    Operator: 1
+    EffectTime: 0
+  attackSpeedModificator:
+    ModificationMode: 0
+    valueToModify: 1.4
+    Operator: 1
+    EffectTime: 0
+  type: 0
+  surfaceTypeName: "Metal"
+  projectilePrefab: {fileID: 0}
+  damageForceMultiplier: 1.7
+  HitModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  rangeAttackThrowTime: 0
+  hideProjectileBeforeLaunch: 1
+  useUniqueNetworkIDForProjectiles: 0

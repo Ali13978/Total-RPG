@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1b6b624c292ac4442015dcd84dbfcfa, type: 3}
+  m_Name: "\u0429\u0438\u0442 \u041F\u0440\u0430\u0432\u043E\u0441\u0443\u0434\u0438\u044F"
+  m_EditorClassIdentifier: 
+  id: 98
+  UniqueInstanceIdRequired: 1
+  itemName: "\u0429\u0438\u0442 \u041F\u0440\u0430\u0432\u043E\u0441\u0443\u0434\u0438\u044F"
+  localizedName: {fileID: 11400000, guid: 69572fc6c7a240e7b7c3585cb8520743, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators:
+    - ModificationMode: 0
+      valueToModify: 1
+      Operator: 0
+      EffectTime: 0
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators:
+    - ModificationMode: 0
+      valueToModify: 0.95
+      Operator: 2
+      EffectTime: 0
+    WalkingSpeedModificators:
+    - ModificationMode: 0
+      valueToModify: 0.95
+      Operator: 2
+      EffectTime: 0
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 1
+  Prefab: {fileID: 1791239302789289244, guid: 8150533b23915fa409ae30eb59491cc2, type: 2}
+  DroppedPrefab: {fileID: 1791239302789289244, guid: 8150533b23915fa409ae30eb59491cc2, type: 2}
+  autoPickup: 0
+  destroyOnPickUp: 1
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300028, guid: 272578e3f3014e43950e86da8e86e48f, type: 3}
+  ConsumptionType: 1
+  Cost: 150000
+  PremiumCost: 0
+  MinimumLevel: 16
+  defence:
+    ModificationMode: 0
+    valueToModify: 15
+    Operator: 0
+    EffectTime: 0
+  surfaceTypeName: "Metal"
+  blockChance: 6

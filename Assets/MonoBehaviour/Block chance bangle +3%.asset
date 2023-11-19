@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 325cd9f402092c8a4b6b5b3ea64ea2cd, type: 3}
+  m_Name: "Block chance bangle +3%"
+  m_EditorClassIdentifier: 
+  id: 228
+  UniqueInstanceIdRequired: 1
+  itemName: "Block chance bangle +3%"
+  localizedName: {fileID: 11400000, guid: 713b799a2ff0440fa04dc91f15a50a45, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789290487, guid: f9c190a4c6d313e4bb38bf12cdb5d5c0, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300026, guid: 5cbf5f8856724c1ebd911211c37dcf39, type: 3}
+  ConsumptionType: 1
+  Cost: 60000
+  PremiumCost: 0
+  MinimumLevel: 0
+  bonus:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 231
+      b2: 133
+      b3: 67
+      b4: 64
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 3
+    fakeValueActive: 1
+  modificatorOperator: 0

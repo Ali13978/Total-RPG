@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a30c8035dc6ea85384206b243e326be, type: 3}
+  m_Name: "(Clone)(Clone)"
+  m_EditorClassIdentifier: 
+  id: 39
+  characterName: "\u0429\u0443\u043F\u0430\u043B\u044C\u0446\u0435"
+  localizedName: {fileID: 11400000, guid: 5c64defa02b748dc9c92afef84d20909, type: 2}
+  group: {fileID: 11400000, guid: 03629cb480574a46a10c54bc5835b938, type: 2}
+  tags: []
+  hitPoints:
+    baseValue: 6
+  hitPointsRegenerationSpeed:
+    baseValue: 0.2
+  damage:
+    baseValue: 2
+  attackSpeed:
+    baseValue: 1
+  defence:
+    baseValue: 0.5
+  walkingSpeed:
+    baseValue: 0
+  xpRate:
+    baseValue: 0
+  critChance:
+    baseValue: 5
+  critMultiplier:
+    baseValue: 2
+  hitPointsCoefficient: 0.6
+  hitPointRegenSpeedCoefficient: 0.33
+  damageCoefficient: 0.5
+  attackSpeedCoefficient: 0.005
+  defenceCoefficient: 0.12
+  walkingSpeedCoefficient: 0
+  critChanceCoefficient: 0
+  critMultiplierCoefficient: 0.025
+  enableUpdateStats: 1
+  loot: {fileID: 11400000, guid: d7781d66e6964a6b8fcaa966a09668fa, type: 2}
+  additionalLoot: []
+  additionalLootInfos: []
+  skills: []

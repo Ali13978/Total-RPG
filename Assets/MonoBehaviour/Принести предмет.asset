@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e8c46a6b2f93861bd0237862c2fc9a0, type: 3}
+  m_Name: "\u041F\u0440\u0438\u043D\u0435\u0441\u0442\u0438 \u043F\u0440\u0435\u0434\u043C\u0435\u0442"
+  m_EditorClassIdentifier: 
+  id: 19
+  _name: "\u041F\u0440\u0438\u043D\u0435\u0441\u0442\u0438 \u043F\u0440\u0435\u0434\u043C\u0435\u0442"
+  localizedName: {fileID: 11400000, guid: 4e53fdb3eaab4daa878ffbac5860e818, type: 2}
+  description: {fileID: 0}
+  sceneNames: []
+  minimumStage: 0
+  raisesStage: 1
+  gold: 800
+  goldGrowRate: 0.6
+  xp: 70
+  xpGrowRate: 0.5
+  rewardItems:
+  - Item: {fileID: 11400000, guid: 874bc1837c2c41df8e5811e4fdd2ab21, type: 2}
+    Chance: 2
+  - Item: {fileID: 11400000, guid: 5f54c5e1f19b48a1ba6346321bcc5b28, type: 2}
+    Chance: 12
+  items:
+  - {fileID: 11400000, guid: a8e3020e452f4986b90f3f07525c75c8, type: 2}
+  - {fileID: 11400000, guid: eefb6185ec7347bb8154fb5469f02fe4, type: 2}
+  - {fileID: 11400000, guid: 16a8fdef748f451dad5f082d27555205, type: 2}
+  - {fileID: 11400000, guid: 127aea932d4544e695d15c93b82e2082, type: 2}
+  - {fileID: 11400000, guid: 7341261ff13542a9b6d4439e61f8a72c, type: 2}
+  - {fileID: 11400000, guid: 5c747e7e565f496180cc7424e67fb35a, type: 2}
+  - {fileID: 11400000, guid: ca294498de8544859eaf4a519d8b3fa7, type: 2}
+  - {fileID: 11400000, guid: efec9e6ae08940ebb9045bdd03bf2b61, type: 2}
+  - {fileID: 11400000, guid: 976df744a7374982a3357a1cdb376f86, type: 2}
+  - {fileID: 11400000, guid: 09abe6d9a08a413c930a6ec96f09bf21, type: 2}
+  - {fileID: 11400000, guid: e58626b8211c4eb581a6634108b57141, type: 2}
+  - {fileID: 11400000, guid: 2b39d88f0edc4aec8435de04ca27a0ec, type: 2}
+  - {fileID: 11400000, guid: b90b5a1bf0a24bbc826513881d3e129f, type: 2}
+  - {fileID: 11400000, guid: a57631682d0748938a68fd802bb75a46, type: 2}
+  - {fileID: 11400000, guid: 5e25aff785f6448d9eaaf5f9b1dd36bc, type: 2}
+  - {fileID: 11400000, guid: 7dac837708ca463793c6d1c1dec41a3d, type: 2}
+  - {fileID: 11400000, guid: e153d73a8d21401cab8e03db597e5bd5, type: 2}
+  randomPointCount: 8
+  introMessage: {fileID: 11400000, guid: 7f0c06820ef748c39dffbf9d75d9dc3f, type: 2}
+  completedMessage: {fileID: 11400000, guid: 56d94143b97b4e7a96f128d0d5368d79, type: 2}

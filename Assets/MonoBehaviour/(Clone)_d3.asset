@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93f91c542848aaebaf01e325b7fc0e9, type: 3}
+  m_Name: "(Clone)"
+  m_EditorClassIdentifier: 
+  id: 37
+  characterName: "Player - Dualist"
+  localizedName: {fileID: 11400000, guid: 055326ce08184d2799ae53127fc8c388, type: 2}
+  group: {fileID: 11400000, guid: b0809db45182401d94704f179f6d9c95, type: 2}
+  tags: []
+  hitPoints:
+    baseValue: 100
+  hitPointsRegenerationSpeed:
+    baseValue: 0.5
+  damage:
+    baseValue: 2
+  attackSpeed:
+    baseValue: 1.2
+  defence:
+    baseValue: 2
+  walkingSpeed:
+    baseValue: 5
+  xpRate:
+    baseValue: 0.5
+  critChance:
+    baseValue: 1
+  critMultiplier:
+    baseValue: 1
+  hitPointsCoefficient: 0.16
+  hitPointRegenSpeedCoefficient: 0.15
+  damageCoefficient: 0.35
+  attackSpeedCoefficient: 0.002
+  defenceCoefficient: 0.18
+  walkingSpeedCoefficient: 0.001
+  critChanceCoefficient: 0
+  critMultiplierCoefficient: 0.01
+  enableUpdateStats: 1
+  loot: {fileID: 0}
+  additionalLoot: []
+  additionalLootInfos: []
+  skills:
+  - {fileID: 11400000, guid: 92ef5e4a9b8f4fada6848885ec825ece, type: 2}
+  - {fileID: 11400000, guid: 2cb0b0fe786b435f9bc30accb9105713, type: 2}
+  - {fileID: 11400000, guid: c35a3e8bd7cb4d57b6381576e136a0f8, type: 2}
+  - {fileID: 11400000, guid: 6922c404bdb84b08b4c944b1377feb65, type: 2}
+  defaultArmorSet: {fileID: 11400000, guid: 164e889c353c4a6bb4c3c5af1ebbbe88, type: 2}
+  defaultWeapon: {fileID: 11400000, guid: 9fdb05bfbad9454c8e2e2d367ebca6c5, type: 2}
+  blockChance:
+    baseValue: 0
+  blockChanceCoefficient: 0
+  influenceResistance:
+    baseValue: 0
+  influenceResistanceCoefficent: 0
+  critResistance:
+    baseValue: 0
+  critResistanceCoefficent: 0
+  healingPotionUsageInterval:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 231
+      b2: 133
+      b3: 67
+      b4: 64
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 0
+  skillCooldownCoefficient:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 42
+      b2: 73
+      b3: 79
+      b4: 61
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 0
+  skillCommonCoefficient:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 42
+      b2: 73
+      b3: 79
+      b4: 61
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 0
+  animatorController: {fileID: 22100000, guid: 21bd62034c3943dd974c642e011c6283, type: 2}
+  damageUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 231
+        b2: 133
+        b3: 3
+        b4: 64
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 2
+      fakeValueActive: 1
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  defenceUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 231
+        b2: 133
+        b3: 3
+        b4: 64
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 2
+      fakeValueActive: 1
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  attackSpeedUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 42
+        b2: 73
+        b3: 79
+        b4: 61
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 0.05
+      fakeValueActive: 1
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  speedUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 42
+        b2: 73
+        b3: 79
+        b4: 62
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 0.2
+      fakeValueActive: 1
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  hpUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 231
+        b2: 133
+        b3: 3
+        b4: 64
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 2
+      fakeValueActive: 1
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  hpRegenUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 42
+        b2: 73
+        b3: 79
+        b4: 61
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 0.05
+      fakeValueActive: 1
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  critMultiplierUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 237
+        b2: 82
+        b3: 160
+        b4: 60
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 0.02
+      fakeValueActive: 1
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  critChanceUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 231
+        b2: 133
+        b3: 3
+        b4: 63
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 0.5
+      fakeValueActive: 1
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  blockChanceUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 231
+        b2: 133
+        b3: 131
+        b4: 63
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 0
+      fakeValueActive: 0
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  influenceResistanceUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 231
+        b2: 133
+        b3: 131
+        b4: 63
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 0
+      fakeValueActive: 0
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0
+  critResistanceUpgrade:
+    UpgradeCoefficient:
+      currentCryptoKey: 230887
+      hiddenValue:
+        b1: 231
+        b2: 133
+        b3: 131
+        b4: 63
+      hiddenValueOld: 
+      inited: 1
+      fakeValue: 0
+      fakeValueActive: 0
+    Modificator:
+      ModificationMode: 0
+      valueToModify: 0
+      Operator: 0
+      EffectTime: 0

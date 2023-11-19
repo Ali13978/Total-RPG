@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a0fc3a6567164d02b61294461f5b92, type: 3}
+  m_Name: "\u0412\u0441\u0435\u043E\u0447\u0438\u0449\u0430\u044E\u0449\u0435\u0435 \u0437\u0435\u043B\u044C\u0435 \u043B\u0435\u0447\u0435\u043D\u0438\u044F"
+  m_EditorClassIdentifier: 
+  id: 153
+  UniqueInstanceIdRequired: 1
+  itemName: "\u0412\u0441\u0435\u043E\u0447\u0438\u0449\u0430\u044E\u0449\u0435\u0435 \u0437\u0435\u043B\u044C\u0435 \u043B\u0435\u0447\u0435\u043D\u0438\u044F"
+  localizedName: {fileID: 11400000, guid: 36719061e9df457b9ccce793579c17db, type: 2}
+  localizedDescription: {fileID: 11400000, guid: c3ea04fbe8824cb8ab70f6f937af6aa2, type: 2}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789290288, guid: 9a1596be6cce91443921b2b5d6439862, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes:
+  - {fileID: 11400000, guid: d1c8a36255ea48f88342bcb4f59ab618, type: 2}
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300000, guid: 123da605f5cd485d8f75d4563e1da7d4, type: 3}
+  ConsumptionType: 1
+  Cost: 0
+  PremiumCost: 0
+  MinimumLevel: 0
+  localizedStory: {fileID: 11400000, guid: c3ea04fbe8824cb8ab70f6f937af6aa2, type: 2}

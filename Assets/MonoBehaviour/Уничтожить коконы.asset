@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0814dd4c5d4c620b0236da62fcd057, type: 3}
+  m_Name: "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u0438\u0442\u044C \u043A\u043E\u043A\u043E\u043D\u044B"
+  m_EditorClassIdentifier: 
+  id: 22
+  _name: "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u0438\u0442\u044C \u043A\u043E\u043A\u043E\u043D\u044B"
+  localizedName: {fileID: 11400000, guid: 20b9ad53001349d7bf79351778834796, type: 2}
+  description: {fileID: 11400000, guid: 7769cb4b672d4fd293fbf2e28cf87a76, type: 2}
+  sceneNames: []
+  minimumStage: 7
+  raisesStage: 1
+  gold: 1200
+  goldGrowRate: 0.8
+  xp: 100
+  xpGrowRate: 0.5
+  rewardItems:
+  - Item: {fileID: 11400000, guid: 874bc1837c2c41df8e5811e4fdd2ab21, type: 2}
+    Chance: 2
+  - Item: {fileID: 11400000, guid: 5f54c5e1f19b48a1ba6346321bcc5b28, type: 2}
+    Chance: 8
+  introMessage: {fileID: 11400000, guid: 4d9012ed7a8343ec94341eef2392a73b, type: 2}
+  completedMessage: {fileID: 11400000, guid: ba3da46c5a6640ef9b6faf3898cadf11, type: 2}
+  indicatorSprite: {fileID: 21300000, guid: 322bc41f84d04dc79b5b7e5f57bdba7b, type: 3}

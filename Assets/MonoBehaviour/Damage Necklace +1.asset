@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 845662630ff3620d630adea5f746d96b, type: 3}
+  m_Name: "Damage Necklace +1"
+  m_EditorClassIdentifier: 
+  id: 207
+  UniqueInstanceIdRequired: 1
+  itemName: "Damage Necklace +1"
+  localizedName: {fileID: 11400000, guid: ab2fa5f05ac54dfdbabf5ef97fa56146, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789290623, guid: 7d33a8c33bb633e418178b6d359d0b2e, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes:
+  - {fileID: 11400000, guid: bd7e2be9699c4dd090486df9354f28e8, type: 2}
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300068, guid: 5cbf5f8856724c1ebd911211c37dcf39, type: 3}
+  ConsumptionType: 1
+  Cost: 6000
+  PremiumCost: 0
+  MinimumLevel: 0
+  bonus:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 231
+      b2: 133
+      b3: 131
+      b4: 63
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  modificatorOperator: 0

@@ -1,0 +1,938 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b25894b521f49f2e86092a57b3fade59, type: 3}
+  m_Name: "Common Spawn info"
+  m_EditorClassIdentifier: 
+  groups:
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 5 \u041B\u0443\u0447\u043D\u0438\u043A\u0438 4 \u0427\u0435\u043C\u043F\u0438\u043E\u043D 1"
+    delayBetweenObjects: 5
+    minimumStage: 0
+    objects:
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 5
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 10"
+    delayBetweenObjects: 5
+    minimumStage: 2
+    objects:
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 10
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 9 \u0427\u0435\u043C\u043F\u0438\u043E\u043D 1"
+    delayBetweenObjects: 5
+    minimumStage: 0
+    objects:
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 9
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1"
+    delayBetweenObjects: 5
+    minimumStage: 4
+    objects:
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 15"
+    delayBetweenObjects: 5
+    minimumStage: 6
+    objects:
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 15
+      spawnInterval: 1
+  - name: "\u0423\u0440\u043E\u0434\u0446\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 3
+    objects:
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0416\u0438\u0440\u0434\u044F\u0439 1"
+    delayBetweenObjects: 5
+    minimumStage: 10
+    objects:
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 7"
+    delayBetweenObjects: 5
+    minimumStage: 3
+    objects:
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 7
+      spawnInterval: 1
+  - name: "\u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1 \u0423\u0440\u043E\u0434\u0446\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 7
+    objects:
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 8
+    objects:
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 4 \u0427\u0435\u043C\u043F\u0438\u043E\u043D 1"
+    delayBetweenObjects: 5
+    minimumStage: 9
+    objects:
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 4"
+    delayBetweenObjects: 5
+    minimumStage: 10
+    objects:
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 6"
+    delayBetweenObjects: 5
+    minimumStage: 11
+    objects:
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 6
+      spawnInterval: 1
+  - name: "\u0416\u0438\u0440\u0434\u044F\u0439 1 \u0423\u0440\u043E\u0434\u0446\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 15
+    objects:
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u0416\u0438\u0440\u0434\u044F\u0439 1 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 18
+    objects:
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u0416\u0438\u0440\u0434\u044F\u0439 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 3"
+    delayBetweenObjects: 5
+    minimumStage: 21
+    objects:
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0416\u0438\u0440\u0434\u044F\u0439 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 3"
+    delayBetweenObjects: 5
+    minimumStage: 24
+    objects:
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0416\u0438\u0440\u0434\u044F\u0439 1 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 27
+    objects:
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 5 \u0423\u0440\u043E\u0434\u0446\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 10
+    objects:
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 5
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 5 \u0423\u0440\u043E\u0434\u0446\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 11
+    objects:
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 5
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 5 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 0
+    objects:
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 5
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 4 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 4"
+    delayBetweenObjects: 5
+    minimumStage: 0
+    objects:
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 4 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 7"
+    delayBetweenObjects: 5
+    minimumStage: 14
+    objects:
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 7
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 5 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 15
+    objects:
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 5
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 4 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 4 \u0423\u0440\u043E\u0434\u0446\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 3
+    objects:
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 4 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 4 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 2
+    objects:
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 3 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 5 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 15
+    objects:
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 3
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 5
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 5 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 17
+    objects:
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 5
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 4 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 19
+    objects:
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3 \u0423\u0440\u043E\u0434\u0446\u044B 2 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 21
+    objects:
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0423\u0440\u043E\u0434\u0446\u044B 4 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 6"
+    delayBetweenObjects: 5
+    minimumStage: 10
+    objects:
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 4
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 6
+      spawnInterval: 1
+  - name: "\u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1"
+    delayBetweenObjects: 5
+    minimumStage: 15
+    objects:
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1 \u0423\u0440\u043E\u0434\u0446\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 16
+    objects:
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 17
+    objects:
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 4"
+    delayBetweenObjects: 5
+    minimumStage: 18
+    objects:
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 4"
+    delayBetweenObjects: 5
+    minimumStage: 19
+    objects:
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 6"
+    delayBetweenObjects: 5
+    minimumStage: 20
+    objects:
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 6
+      spawnInterval: 1
+  - name: "\u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1 \u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1"
+    delayBetweenObjects: 5
+    minimumStage: 21
+    objects:
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0420\u043E\u0433\u0430\u0442\u044B\u0439 1"
+    delayBetweenObjects: 5
+    minimumStage: 20
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0420\u043E\u0433\u0430\u0442\u044B\u0439 1 \u0423\u0440\u043E\u0434\u0446\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 21
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u0420\u043E\u0433\u0430\u0442\u044B\u0439 1 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 22
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0420\u043E\u0433\u0430\u0442\u044B\u0439 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 4"
+    delayBetweenObjects: 5
+    minimumStage: 22
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u0420\u043E\u0433\u0430\u0442\u044B\u0439 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 4"
+    delayBetweenObjects: 5
+    minimumStage: 23
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u0420\u043E\u0433\u0430\u0442\u044B\u0439 1 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 24
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0420\u043E\u0433\u0430\u0442\u044B\u0439 1 \u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1"
+    delayBetweenObjects: 5
+    minimumStage: 25
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0420\u043E\u0433\u0430\u0442\u044B\u0439 1 \u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1"
+    delayBetweenObjects: 5
+    minimumStage: 27
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0442\u0430\u043D\u0442 1"
+    delayBetweenObjects: 5
+    minimumStage: 25
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0442\u0430\u043D\u0442 1 \u0423\u0440\u043E\u0434\u0446\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 26
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0442\u0430\u043D\u0442 1 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 27
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0442\u0430\u043D\u0442 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 4"
+    delayBetweenObjects: 5
+    minimumStage: 28
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0442\u0430\u043D\u0442 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 4"
+    delayBetweenObjects: 5
+    minimumStage: 29
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0442\u0430\u043D\u0442 1 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 30
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0442\u0430\u043D\u0442 1 \u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1"
+    delayBetweenObjects: 5
+    minimumStage: 31
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041C\u0443\u0442\u0430\u043D\u0442 1 \u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1"
+    delayBetweenObjects: 5
+    minimumStage: 33
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 3"
+    delayBetweenObjects: 5
+    minimumStage: 3
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 9"
+    delayBetweenObjects: 5
+    minimumStage: 3
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 9
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 5"
+    delayBetweenObjects: 5
+    minimumStage: 4
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1"
+    delayBetweenObjects: 5
+    minimumStage: 6
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u0423\u0440\u043E\u0434\u0446\u044B 2"
+    delayBetweenObjects: 5
+    minimumStage: 5
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 10"
+    delayBetweenObjects: 5
+    minimumStage: 8
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 10
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u0416\u0438\u0440\u0434\u044F\u0439 1"
+    delayBetweenObjects: 5
+    minimumStage: 12
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1"
+    delayBetweenObjects: 5
+    minimumStage: 18
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u0420\u043E\u0433\u0430\u0442\u044B\u0439 1"
+    delayBetweenObjects: 5
+    minimumStage: 23
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0427\u0435\u043C\u043F\u0438\u043E\u043D 1 \u041C\u0443\u0442\u0430\u043D\u0442 1"
+    delayBetweenObjects: 5
+    minimumStage: 28
+    objects:
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 15"
+    delayBetweenObjects: 5
+    minimumStage: 2
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 15
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 8 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 5"
+    delayBetweenObjects: 5
+    minimumStage: 3
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 8
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 6 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 6 \u0427\u0435\u043C\u043F\u0438\u043E\u043D 1"
+    delayBetweenObjects: 5
+    minimumStage: 5
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 6
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 6
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 8 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 5"
+    delayBetweenObjects: 5
+    minimumStage: 4
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 8
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 5
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 7 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 4"
+    delayBetweenObjects: 5
+    minimumStage: 6
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 7
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 7 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 8"
+    delayBetweenObjects: 5
+    minimumStage: 7
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 7
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 8
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 8 \u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1"
+    delayBetweenObjects: 5
+    minimumStage: 8
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 8
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 8 \u0423\u0440\u043E\u0434\u0446\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 9
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 8
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 7 \u0416\u0438\u0440\u0434\u044F\u0439 1"
+    delayBetweenObjects: 5
+    minimumStage: 12
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 7
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 7 \u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1"
+    delayBetweenObjects: 5
+    minimumStage: 18
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 7
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 7 \u0420\u043E\u0433\u0430\u0442\u044B\u0439 1"
+    delayBetweenObjects: 5
+    minimumStage: 23
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 7
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 10 \u0427\u0435\u043C\u043F\u0438\u043E\u043D 1"
+    delayBetweenObjects: 5
+    minimumStage: 10
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 10
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0423\u043F\u044B\u0440\u0438 7 \u041C\u0443\u0442\u0430\u043D\u0442 1"
+    delayBetweenObjects: 5
+    minimumStage: 28
+    objects:
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 7
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1"
+    delayBetweenObjects: 5
+    minimumStage: 6
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 6"
+    delayBetweenObjects: 5
+    minimumStage: 8
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 6
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 6"
+    delayBetweenObjects: 5
+    minimumStage: 9
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 6
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043C\u0435\u0447\u043D\u0438\u043A\u0438 3 \u0427\u0435\u043C\u043F\u0438\u043E\u043D 1"
+    delayBetweenObjects: 5
+    minimumStage: 10
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116938, guid: da9ef1c0a825d48d6adb9899685e4b57, type: 2}
+      count: 3
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0421\u043A\u0435\u043B\u0435\u0442\u044B \u043B\u0443\u0447\u043D\u0438\u043A\u0438 3 \u0427\u0435\u043C\u043F\u0438\u043E\u043D 1"
+    delayBetweenObjects: 5
+    minimumStage: 11
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117043, guid: cff7703e9452f46a282b69999293483d, type: 2}
+      count: 3
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0410\u0434\u0441\u043A\u0438\u0435 \u043F\u0441\u044B 4"
+    delayBetweenObjects: 5
+    minimumStage: 12
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117016, guid: 5835dea24a219a941bb44217a7400b37, type: 2}
+      count: 4
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0423\u043F\u044B\u0440\u0438 8"
+    delayBetweenObjects: 5
+    minimumStage: 13
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117127, guid: 9fe20845468c6e749b57a446d093631c, type: 2}
+      count: 8
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u041C\u0443\u0445\u0438-\u043C\u0443\u0442\u0430\u043D\u0442\u044B 8"
+    delayBetweenObjects: 5
+    minimumStage: 14
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116982, guid: 0218930eb08b3ca46ae1e1d40fa45d85, type: 2}
+      count: 8
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0423\u0440\u043E\u0434\u0446\u044B 3"
+    delayBetweenObjects: 5
+    minimumStage: 16
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117050, guid: a57d8b53de413e943af5fdc10e269a95, type: 2}
+      count: 3
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A 1"
+    delayBetweenObjects: 5
+    minimumStage: 18
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0416\u0438\u0440\u0434\u044F\u0439 1"
+    delayBetweenObjects: 5
+    minimumStage: 20
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446 1"
+    delayBetweenObjects: 5
+    minimumStage: 22
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0427\u0435\u043C\u043F\u0438\u043E\u043D 2"
+    delayBetweenObjects: 5
+    minimumStage: 24
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685116939, guid: 318939ac562822741a0c3f794301d2db, type: 2}
+      count: 2
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u0420\u043E\u0433\u0430\u0442\u044B\u0439 1"
+    delayBetweenObjects: 5
+    minimumStage: 26
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 1 \u041C\u0443\u0442\u0430\u043D\u0442 1"
+    delayBetweenObjects: 5
+    minimumStage: 28
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 1
+      spawnInterval: 1
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442 2"
+    delayBetweenObjects: 5
+    minimumStage: 31
+    objects:
+    - objectPrefab: {fileID: 1791239304685116937, guid: 3de1960b0afdfd948afbf883ad13e234, type: 2}
+      count: 2
+      spawnInterval: 1

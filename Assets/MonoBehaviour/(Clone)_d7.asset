@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ed8189ce7b040ae10622b193ddf540, type: 3}
+  m_Name: "(Clone)"
+  m_EditorClassIdentifier: 
+  id: 26
+  skillName: "Teleport (Amazonka)"
+  icon: {fileID: 0}
+  disabledIcon: {fileID: 0}
+  hasCoolDown: 1
+  _cooldownCharacteristic:
+    baseValue: 3
+  rotateToTarget: 0
+  objectsToSpawnOnStart: []
+  destroyObjectsOnFailStop: 1
+  maxDistance: 6
+  minDistance: 2
+  upOffset: 0.2
+  needsPath: 1
+  runOutFromTarget: 0
+  minimumTargetDistance: 3
+  oldPositionEffect: {fileID: 1791239302789290286, guid: a2b1ece388a82284e8f972c9320390a2, type: 2}
+  newPositionEffect: {fileID: 1791239302789290285, guid: 57a8d4d1f8f47f04f835ba69595ab082, type: 2}

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Menu fade"
+  m_Controller: {fileID: 9100000, guid: 5752ffe46f8c44cb968758f02fde281e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 679eb9c5d18b46748e4cc74757acc788, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cae177fdefa54f4a845972ce54cdba56, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5e5fd287ecff4fbba8d5d2289e0f660d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4509c03d214143a49987b589dc4b2e4e, type: 2}

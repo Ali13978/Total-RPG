@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b25894b521f49f2e86092a57b3fade59, type: 3}
+  m_Name: "Bosses Spawn info"
+  m_EditorClassIdentifier: 
+  groups:
+  - name: "\u0411\u043E\u0441\u0441 \u0417\u0434\u043E\u0440\u043E\u0432\u044F\u043A"
+    delayBetweenObjects: 1
+    minimumStage: 5
+    objects:
+    - objectPrefab: {fileID: 1791239304685117084, guid: d3c4ce64b71ad7244ae0bea92d702e87, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0411\u043E\u0441\u0441 \u0416\u0438\u0440\u0434\u044F\u0439"
+    delayBetweenObjects: 1
+    minimumStage: 10
+    objects:
+    - objectPrefab: {fileID: 1791239304685116972, guid: 846b3edda500c49498e4d0672f57c13a, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0411\u043E\u0441\u0441 \u041F\u043B\u0430\u0432\u0443\u043D\u0435\u0446"
+    delayBetweenObjects: 1
+    minimumStage: 15
+    objects:
+    - objectPrefab: {fileID: 1791239304685117163, guid: 3249bf2dbcded7e47a06e8a79f535785, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0411\u043E\u0441\u0441 \u0420\u043E\u0433\u0430\u0442\u044B\u0439"
+    delayBetweenObjects: 1
+    minimumStage: 20
+    objects:
+    - objectPrefab: {fileID: 1791239304685117139, guid: c8071b47b2017b8449705b102871abb9, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0411\u043E\u0441\u0441 \u041C\u0443\u0442\u0430\u043D\u0442"
+    delayBetweenObjects: 1
+    minimumStage: 25
+    objects:
+    - objectPrefab: {fileID: 1791239304685117131, guid: 0f4daed209b5a9547bde7226c334b435, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0411\u043E\u0441\u0441 \u041F\u0430\u0443\u043A-\u041C\u0443\u0442\u0430\u043D\u0442"
+    delayBetweenObjects: 1
+    minimumStage: 40
+    objects:
+    - objectPrefab: {fileID: 1791239304685114575, guid: e006745c640ebe541a26a62545ed0869, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0411\u043E\u0441\u0441 \u0413\u0440\u043E\u043C\u0438\u043B\u0430"
+    delayBetweenObjects: 1
+    minimumStage: 50
+    objects:
+    - objectPrefab: {fileID: 1791239304685114519, guid: 4ded5282722c00d49b44ab481342aa91, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0411\u043E\u0441\u0441 \u0422\u0438\u0442\u0430\u043D"
+    delayBetweenObjects: 1
+    minimumStage: 70
+    objects:
+    - objectPrefab: {fileID: 1791239304685114475, guid: 8979833ae79bd1c4aad7e7d31eb6f907, type: 2}
+      count: 1
+      spawnInterval: 1
+  - name: "\u0411\u043E\u0441\u0441 \u0428\u0438\u043F\u0430\u0441\u0442\u044B\u0439"
+    delayBetweenObjects: 1
+    minimumStage: 30
+    objects:
+    - objectPrefab: {fileID: 1791239304685114505, guid: 8a2b61bed1aeb3c4da42c15c217fc3f2, type: 2}
+      count: 1
+      spawnInterval: 1

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada66c5066dfbfb3cf7fade41b05cc0, type: 3}
+  m_Name: "\u041C\u0430\u0441\u043A\u0430 15"
+  m_EditorClassIdentifier: 
+  id: 239
+  UniqueInstanceIdRequired: 1
+  itemName: "\u041C\u0430\u0441\u043A\u0430 15"
+  localizedName: {fileID: 11400000, guid: b121d694a4fa408a89cdd80272f94079, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators:
+    - ModificationMode: 0
+      valueToModify: 1.01
+      Operator: 2
+      EffectTime: 0
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789290844, guid: 8564e62a08a31964c9b6f3aa37e83925, type: 2}
+  autoPickup: 0
+  destroyOnPickUp: 1
+  _attributes:
+  - {fileID: 11400000, guid: d2551860449646f39ef7c6186928f2e8, type: 2}
+  - {fileID: 11400000, guid: c1195f64f70d4a188dc786c0e5605239, type: 2}
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300028, guid: d105b47baa2a46d4b942472743838594, type: 3}
+  ConsumptionType: 1
+  Cost: 0
+  PremiumCost: 0
+  MinimumLevel: 0
+  inactiveIcon: {fileID: 21300028, guid: 30daf00d6bc44f6995d545212e95a186, type: 3}
+  addBlockChance: 0
+  blockChanceModificator:
+    ModificationMode: 0
+    valueToModify: 0
+    Operator: 0
+    EffectTime: 0

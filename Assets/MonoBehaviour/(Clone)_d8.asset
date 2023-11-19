@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a30c8035dc6ea85384206b243e326be, type: 3}
+  m_Name: "(Clone)"
+  m_EditorClassIdentifier: 
+  id: 26
+  characterName: "\u0421\u043A\u0435\u043B\u0435\u0442 \u041A\u043E\u043C\u0430\u043D\u0434\u0438\u0440"
+  localizedName: {fileID: 11400000, guid: c8f4035d98f3419ebbd5a2ac2a368d27, type: 2}
+  group: {fileID: 11400000, guid: 03629cb480574a46a10c54bc5835b938, type: 2}
+  tags: []
+  hitPoints:
+    baseValue: 35
+  hitPointsRegenerationSpeed:
+    baseValue: 0.1
+  damage:
+    baseValue: 1.6
+  attackSpeed:
+    baseValue: 1.5
+  defence:
+    baseValue: 1
+  walkingSpeed:
+    baseValue: 3.2
+  xpRate:
+    baseValue: 0
+  critChance:
+    baseValue: 3
+  critMultiplier:
+    baseValue: 1.5
+  hitPointsCoefficient: 0.22
+  hitPointRegenSpeedCoefficient: 0.33
+  damageCoefficient: 0.47
+  attackSpeedCoefficient: 0.004
+  defenceCoefficient: 0.12
+  walkingSpeedCoefficient: 0.002
+  critChanceCoefficient: 0
+  critMultiplierCoefficient: 0.025
+  enableUpdateStats: 1
+  loot: {fileID: 11400000, guid: 9f64648f09244bb4beb4fed3c74f950f, type: 2}
+  additionalLoot:
+  - Name: "Gold"
+    Chance: 4
+    Item: {fileID: 11400000, guid: ae9898332f3c461889259dd261ec1f1c, type: 2}
+  - Name: "Skeleton Champ Sword"
+    Chance: 60
+    Item: {fileID: 11400000, guid: 208dbd47057d4b5fa10dc661065e86bd, type: 2}
+  additionalLootInfos: []
+  skills: []

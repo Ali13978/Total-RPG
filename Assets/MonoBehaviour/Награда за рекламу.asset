@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30b822d16610f36d6749917da8636ec9, type: 3}
+  m_Name: "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 \u0437\u0430 \u0440\u0435\u043A\u043B\u0430\u043C\u0443"
+  m_EditorClassIdentifier: 
+  id: 120
+  _name: "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 \u0437\u0430 \u0440\u0435\u043A\u043B\u0430\u043C\u0443"
+  goldRewardStageMultiplier: 150
+  goldRewardRandomPercent: 20
+  itemRewards:
+  - item: {fileID: 11400000, guid: 874bc1837c2c41df8e5811e4fdd2ab21, type: 2}
+    chancePercent: 3
+  - item: {fileID: 11400000, guid: 5f54c5e1f19b48a1ba6346321bcc5b28, type: 2}
+    chancePercent: 5
+  - item: {fileID: 11400000, guid: 9a592eeed6594100a9f7d1c85b7f822b, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: 6753096714504d4aa536bf8bf63d79c4, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: 8f04bf900f6d42ccb30c6b99b55d909c, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: 2cd46611c9a44cb4a04073cf3faa1666, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: 0f3b3c3a67b44327a720e98201e45213, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: f4c12b80b7c340d9827bcb47c1477457, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: b915ffbd59e84d7192ed751dbefc3296, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: d34db92dbe6f4202aff89bf9d634adeb, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: d4d6fe33f7eb409182208a049501afc7, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: 0c8e82239e364c28841fe5a11f95e5b2, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: 48f47fafab6f4907bb6cf9d8d1f4eaff, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: aed5db3e5e804cc3a34cea4415e86ef9, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: 8bf9efa770724c6d8695036c9dd6a9e7, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: cc9a71ed7fee4f54afb397a7df77bdd4, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: fd5a1d75215143a1bcb94d838a17508c, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: c2d091df92f04bf98762ebdf2f21f85a, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: b943fc4626a14612a1026ce4020040ab, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: d9c847f844b341f99c636cba72cb0eb5, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: b8d44ce89df64604969b060e752d2517, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: 3c3397713d4948b7a219a0b3157f5691, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: 934717371dec4691b0909d6e76465fe0, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: b70fa475e9e44996b40c84e2d3c21754, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: efad0c975d814d3aafb86a51df2da67b, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: 6c0ebb33fc7d4fdaa309ec51487df70c, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: 85b71b78655e497b8fab29b53eb78ffc, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: 6d321e8ee54347c680c80ab4f3543f0d, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: a1d7de7914f342e5a0843e92475a99eb, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: 7a7adf0c90cc48cfb9b12d85b7406df8, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: 3b07efcf6250482091bdc422a54b2ac7, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: 2321786caf8e42ce9a540575444c9a45, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: f55f08af0a2641b2a1f80b4b605a65ad, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: a54758484536478b8c78c1951b603817, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: 9895b3808b9548edb2a33d80d0e42fab, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: aa34c21d3a0a4131b544d849227ecd11, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: c7e75b90c7a546f98b47c4a5e101e2d1, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: f8a000d7f07b460793f076d0872e21ea, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: ace3c20a49ca47ed8e78fe2798f82ae6, type: 2}
+    chancePercent: 0.4
+  - item: {fileID: 11400000, guid: ccf7bada45794c16a59ce64e17192755, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: b798d6da866444eeb6a8b693491b6277, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: bd5c6f9dfc244fde9729cd698b44e3ab, type: 2}
+    chancePercent: 0.05
+  - item: {fileID: 11400000, guid: 328d154a79824e97aeda0ad29f7dd1f9, type: 2}
+    chancePercent: 0.3
+  - item: {fileID: 11400000, guid: c63d1465195a4ba3a1b10cebe843972c, type: 2}
+    chancePercent: 2
+  - item: {fileID: 11400000, guid: a7cc4c2a3c81450ebce0d4238771728f, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: 7cb75dc3f3fd4f2bad022a30d759011c, type: 2}
+    chancePercent: 2
+  - item: {fileID: 11400000, guid: 0015790331cd4571be4783679ac5b9c0, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: 73019d84f61b47d6920e9d5643e6cfb1, type: 2}
+    chancePercent: 2
+  - item: {fileID: 11400000, guid: 1090f78da45d42f88fbfc5b0dd293c7a, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: 35037857fcda42c083eb75abe5037154, type: 2}
+    chancePercent: 2
+  - item: {fileID: 11400000, guid: 3d97976f37474d14822bc74563e5377b, type: 2}
+    chancePercent: 0.2
+  - item: {fileID: 11400000, guid: df8c9310719f4d61afbfce9fd85609d6, type: 2}
+    chancePercent: 0.06
+  - item: {fileID: 11400000, guid: d60b803595ba4d7ea28f6d01942a4e18, type: 2}
+    chancePercent: 0.06
+  - item: {fileID: 11400000, guid: 47c1a1306780468ebcfa803e3a61814d, type: 2}
+    chancePercent: 0.6
+  - item: {fileID: 11400000, guid: f23c3330f0054404a8bfa3a1078b259b, type: 2}
+    chancePercent: 2
+  - item: {fileID: 11400000, guid: 1631c5ed83da48109a01e6cb50db5883, type: 2}
+    chancePercent: 0.06
+  - item: {fileID: 11400000, guid: 20f47cd2d6bf4070af68a1fb038e43ca, type: 2}
+    chancePercent: 0.02
+  - item: {fileID: 11400000, guid: 22dceaac49ea44c395665936e25fc850, type: 2}
+    chancePercent: 0.08
+  - item: {fileID: 11400000, guid: 041e6eaf91274ca8899b3eb1ff54050d, type: 2}
+    chancePercent: 0.02
+  - item: {fileID: 11400000, guid: b0b909cb3df24b449663f9670b2dc75a, type: 2}
+    chancePercent: 0.08
+  - item: {fileID: 11400000, guid: 0283f01f091045daa2bfb121cd1b7e0f, type: 2}
+    chancePercent: 0.08
+  - item: {fileID: 11400000, guid: 901466756ba140d9a7981e72551f4106, type: 2}
+    chancePercent: 0.02
+  - item: {fileID: 11400000, guid: 4980f0985937436eba6b7558c1ba1dd6, type: 2}
+    chancePercent: 0.08
+  - item: {fileID: 11400000, guid: f0e6150709d342b0961a717de2f71751, type: 2}
+    chancePercent: 0.02
+  - item: {fileID: 11400000, guid: b59a7169f25c483b8bcbf74ea21603a6, type: 2}
+    chancePercent: 0.08
+  - item: {fileID: 11400000, guid: 98b2311c34244d2785ecf526c745ddd5, type: 2}
+    chancePercent: 0.02

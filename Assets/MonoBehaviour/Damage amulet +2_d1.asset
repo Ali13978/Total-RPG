@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 845662630ff3620d630adea5f746d96b, type: 3}
+  m_Name: "Damage amulet +2"
+  m_EditorClassIdentifier: 
+  id: 174
+  UniqueInstanceIdRequired: 1
+  itemName: "Damage amulet +2"
+  localizedName: {fileID: 11400000, guid: 7bfd9c79d3054b51848d742d9af58c8c, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789289931, guid: 14f59c463f00a7d40b71cbcb59e54099, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes:
+  - {fileID: 11400000, guid: bd7e2be9699c4dd090486df9354f28e8, type: 2}
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300000, guid: 5cbf5f8856724c1ebd911211c37dcf39, type: 3}
+  ConsumptionType: 1
+  Cost: 15000
+  PremiumCost: 0
+  MinimumLevel: 0
+  bonus:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 231
+      b2: 133
+      b3: 3
+      b4: 64
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 2
+    fakeValueActive: 1
+  modificatorOperator: 0

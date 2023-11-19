@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "EnemyCocon"
+  m_Controller: {fileID: 9100000, guid: 4a96075ca9a14f2091e52d55ce162e96, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bf5cec7066164604860a440e78261393, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ce626e7cc8d4710bc9e9c637d7dc2a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8d757951552d4f15b9c1fce59357b780, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ce626e7cc8d4710bc9e9c637d7dc2a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f993c5290c744d729e235e36a5c091fc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ce626e7cc8d4710bc9e9c637d7dc2a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ee9bd8218b54da2afefbfb2996760ea, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ce626e7cc8d4710bc9e9c637d7dc2a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e9b499f6791a4a769b4ddc6d2d3792d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ce626e7cc8d4710bc9e9c637d7dc2a9, type: 2}

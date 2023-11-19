@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab3a9651fcdfa26b55f0d39d9bc5f71e, type: 3}
+  m_Name: "\u041C\u0430\u0441\u043A\u0438 \u0438 \u0438\u0445 \u0433\u0440\u0443\u043F\u043F\u044B"
+  m_EditorClassIdentifier: 
+  id: 83
+  _name: "\u041C\u0430\u0441\u043A\u0438 \u0438 \u0438\u0445 \u0433\u0440\u0443\u043F\u043F\u044B"
+  maskGroups:
+  - Masks:
+    - {fileID: 11400000, guid: f47983c95b3e448f98035a66fbad439b, type: 2}
+    - {fileID: 11400000, guid: 8d176f1907f8436b8ac9be4469c1eaa8, type: 2}
+    - {fileID: 11400000, guid: e48824fe27674a9ba9784c32a03ddee5, type: 2}
+    - {fileID: 11400000, guid: e6da33989e94429aac45fdf2e0af3853, type: 2}
+    - {fileID: 11400000, guid: 9a8be67b5b484ad392a1e69cad429983, type: 2}
+    - {fileID: 11400000, guid: 8e4b947bbd8247b08eb4a9ce72302bf2, type: 2}
+    HiddenRewardItem: {fileID: 11400000, guid: 5a91a54e96d34179b269f79aea93ca91, type: 2}
+  - Masks:
+    - {fileID: 11400000, guid: 5ec4cc688d7449fab8c4799ee9d05c89, type: 2}
+    - {fileID: 11400000, guid: 7cdf82267b9d4895859ecd3924891644, type: 2}
+    - {fileID: 11400000, guid: 770fa40c8f9d4efd8fc404ca3ee502d4, type: 2}
+    - {fileID: 11400000, guid: cf45cf665840490a9923b4301756441f, type: 2}
+    - {fileID: 11400000, guid: 5a556552823d4f51ad3035b9760f39d4, type: 2}
+    - {fileID: 11400000, guid: 3d669820794344e4b7cdd9fbbf6d3280, type: 2}
+    HiddenRewardItem: {fileID: 11400000, guid: 1116013f57314bcab5f80dec48f3b7a2, type: 2}
+  - Masks:
+    - {fileID: 11400000, guid: 40e62632bc3c4453b5778516b8483044, type: 2}
+    - {fileID: 11400000, guid: f119b09d5b2242e7983c6a5ce7a1c870, type: 2}
+    - {fileID: 11400000, guid: af1a2c6b000d467fb38e3f7301861d8d, type: 2}
+    - {fileID: 11400000, guid: f8bd333ffa884fb5856462996941f880, type: 2}
+    - {fileID: 11400000, guid: 26fa359b2d014462b2cdad70492caac6, type: 2}
+    - {fileID: 11400000, guid: 0bf22e49dd23421e8d2e07eefab7ac7d, type: 2}
+    HiddenRewardItem: {fileID: 11400000, guid: bc871a387bfe4513a84a7b6cd357bd42, type: 2}
+  - Masks:
+    - {fileID: 11400000, guid: 0445bb428ae6447ca0fae232815397aa, type: 2}
+    - {fileID: 11400000, guid: ae2edb734287481898ae15f0b7ca45aa, type: 2}
+    - {fileID: 11400000, guid: 1cae66d8881448beb2b1259e53e34f0a, type: 2}
+    - {fileID: 11400000, guid: 725a7f7f42cc44a982992a56463ac75a, type: 2}
+    - {fileID: 11400000, guid: d4067e0445944c3eadefcab83bc1cf20, type: 2}
+    - {fileID: 11400000, guid: 73f9885850ad4379a44ca9b44eae1c74, type: 2}
+    HiddenRewardItem: {fileID: 11400000, guid: 65618b5868f248ccb5cccd69519b5f1c, type: 2}
+  - Masks:
+    - {fileID: 11400000, guid: d352ff5fdba44d86a8e2f50590875808, type: 2}
+    - {fileID: 11400000, guid: f2024d1a011a463a9a58cf11bb42ab32, type: 2}
+    - {fileID: 11400000, guid: ffc5109852a04bc894276d814b56c504, type: 2}
+    - {fileID: 11400000, guid: 42f1347358794a66b9516bcc590fb0c7, type: 2}
+    - {fileID: 11400000, guid: 2bf52f809e8c439f8e5b275a0673a7a6, type: 2}
+    - {fileID: 11400000, guid: 259e24ed7f3147d190d9566282f5904e, type: 2}
+    HiddenRewardItem: {fileID: 11400000, guid: 8dc3e824e9734a7a968653c0f1cd0dd6, type: 2}
+  - Masks:
+    - {fileID: 11400000, guid: dd63cd11d0a24cc992e4ce872224486d, type: 2}
+    - {fileID: 11400000, guid: 33213477812040c2adf38646c317e7c7, type: 2}
+    - {fileID: 11400000, guid: 0d0502ed5fcd4934b91b106be10b2401, type: 2}
+    - {fileID: 11400000, guid: 9e2811bb06ce4cc8a64a444e7d5157f0, type: 2}
+    - {fileID: 11400000, guid: aeee5ea917624029acb68be4ef92fd87, type: 2}
+    - {fileID: 11400000, guid: a194fa5fa21f4a0dba88f6376789c139, type: 2}
+    HiddenRewardItem: {fileID: 11400000, guid: c9fd9b7944104b609b6dfad09033136b, type: 2}
+  - Masks:
+    - {fileID: 11400000, guid: bf09ea30b5824a0aaca6f076b153c3a0, type: 2}
+    - {fileID: 11400000, guid: 26c982caa28d489f998b3d4c33fb099d, type: 2}
+    - {fileID: 11400000, guid: 4518afbd0b564cf9b23e01fe00e0efc7, type: 2}
+    - {fileID: 11400000, guid: eb5ea7cec2f54540896c009fb17e0196, type: 2}
+    - {fileID: 11400000, guid: 13dd6970bc82436b8a6cc448a5e2c21f, type: 2}
+    - {fileID: 11400000, guid: e4e871bc6ee64b85aa24a90ecbf3f1fb, type: 2}
+    HiddenRewardItem: {fileID: 11400000, guid: c3b2c21a04624ce8ac4c7b89f349234b, type: 2}
+  - Masks:
+    - {fileID: 11400000, guid: 0512425c5d5a4464bd640faf8ce9b9cd, type: 2}
+    - {fileID: 11400000, guid: f9bc62a3ed854ab8b0aee22a7f0da5fa, type: 2}
+    - {fileID: 11400000, guid: 0739260532774cb1bebc1bc3c821c51f, type: 2}
+    - {fileID: 11400000, guid: 833dd426c96f4aa89ad1d13baa2b7bca, type: 2}
+    - {fileID: 11400000, guid: aa94a9d4dd8a4b22962b3ddf608ccfcb, type: 2}
+    - {fileID: 11400000, guid: 3693dfbcbcb14dd99708b0ca3f8bd85b, type: 2}
+    HiddenRewardItem: {fileID: 11400000, guid: 10ee36c2a2ae4a01b9584f6e61049c1a, type: 2}

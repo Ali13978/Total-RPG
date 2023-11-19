@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PrefabPools
+  - Loot
+  - BloodDecals
+  - RenderCam
+  - TH_UILight
+  - UI Window
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TH_PlayerWalkable
+  - TH_Obstacle
+  - Ragdoll
+  - TH_Characters
+  - TH_GUI
+  - TH_Player
+  - TH_DroppedLoot
+  - TH_3DGUI
+  - TH_PlayerBlockArea
+  - TH_LoadingUI
+  - TH_Projectile
+  - Gameplay Trigger
+  - _helper
+  - NPC
+  - Particles Trigger
+  - Enemies Trigger
+  - Ignore characters
+  - Player Only
+  - Map
+  - Characters only
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0

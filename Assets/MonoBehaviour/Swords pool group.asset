@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76f0c7a6c5efc67e0aa7e37fe7653432, type: 3}
+  m_Name: "Swords pool group"
+  m_EditorClassIdentifier: 
+  id: 85
+  _name: "Swords pool group"
+  initialCount: 0
+  prefabs:
+  - {fileID: 1791239302789289237, guid: 1e16a26b14745432fa7e17106dde7046, type: 2}
+  - {fileID: 1791239302789289281, guid: 6f70f991327d16e44825fe665b153f90, type: 2}
+  - {fileID: 1791239302789289289, guid: aace4f51958d1cc4c914278bac6e5672, type: 2}
+  - {fileID: 1791239302789289297, guid: 9635292720c6fd14d9aad8dfcba62d24, type: 2}
+  - {fileID: 1791239302789289304, guid: 8f704dac985a53e4d9636bfe0cd68abc, type: 2}
+  - {fileID: 1791239302789289305, guid: e5775ffc69b322242911b72be9892580, type: 2}
+  - {fileID: 1791239302789289306, guid: 88a87d638e2ad424f98b4a2d34e77eb8, type: 2}
+  - {fileID: 1791239302789289307, guid: 658855e8702369c449e9fd537c71a903, type: 2}
+  - {fileID: 1791239302789289275, guid: ab098850e27d1554d9ac966ccc3518a5, type: 2}
+  - {fileID: 1791239302789289276, guid: b8d718af68a868c4e97e859defbce01b, type: 2}
+  - {fileID: 1791239302789289277, guid: ddf379ea441edc249a635796e7c57ac3, type: 2}
+  - {fileID: 1791239302789289278, guid: 8c4783fafca424747899824a9f4cca26, type: 2}
+  - {fileID: 1791239302789289279, guid: 07d03dedc992425488469207fd4b0bf2, type: 2}
+  - {fileID: 1791239302789289280, guid: 61ba823d214b94c4690630bdbe5a9efb, type: 2}
+  - {fileID: 1791239302789289282, guid: 4f5bfe911fc100d48b8cb088c93e316b, type: 2}
+  - {fileID: 1791239302789289283, guid: da000c87e43e52c4a8df4f9a76a5689d, type: 2}
+  - {fileID: 1791239302789289284, guid: cd38a3736688984448a8c738ae5d97f5, type: 2}
+  - {fileID: 1791239302789289285, guid: 478eda8f55ec1eb41a4079aea4ddb019, type: 2}
+  - {fileID: 1791239302789289286, guid: 462dca3ccb1668b41be96e996202f1aa, type: 2}
+  - {fileID: 1791239302789289287, guid: 1c14d0a9e6e3920478d0235bbdb8643e, type: 2}
+  - {fileID: 1791239302789289288, guid: a3269ffb41eec0e47a84d92f84d2676d, type: 2}
+  - {fileID: 1791239302789289290, guid: cc8c7b71296b8344284ca4201d07ac4a, type: 2}
+  - {fileID: 1791239302789289291, guid: 45eee8391c3e7ef4eaca95a7a3843f2d, type: 2}
+  - {fileID: 1791239302789289292, guid: d9dcf0d7090cb4b44bf4ee9050fc0b05, type: 2}
+  - {fileID: 1791239302789289293, guid: f548b84c894f9424f999424135965f84, type: 2}
+  - {fileID: 1791239302789289294, guid: 8e9dc66212dc9f14c90fd305f85348a3, type: 2}
+  - {fileID: 1791239302789289295, guid: b7fcf9e8c0574c54a8c7562ee0e21447, type: 2}
+  - {fileID: 1791239302789289296, guid: 6813eff6362c77148aad2fb519ae01c0, type: 2}
+  - {fileID: 1791239302789289298, guid: 05e1dc5f878a7cc4f80f7522b67c12b4, type: 2}
+  - {fileID: 1791239302789289299, guid: c3e7d3efd2edc394c8f41c7575516927, type: 2}
+  - {fileID: 1791239302789289300, guid: 2cfd263bc9192454e9bd3f65667d7207, type: 2}
+  - {fileID: 1791239302789289301, guid: d9ccdf27c3f9d7e48880827cc8370270, type: 2}
+  - {fileID: 1791239302789289302, guid: 1f960f28f007f0a4c9acdc1d431510e1, type: 2}
+  - {fileID: 1791239302789289303, guid: 768b331f0fff1704b8bcd9a153596a89, type: 2}
+  - {fileID: 1791239302789289308, guid: 7de21ad076eae2d47851f8f33f66d596, type: 2}

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f406e93e0f596af63ced65c6529b9792, type: 3}
+  m_Name: "\u0411\u043B\u0435\u0432\u043E\u0442\u043D\u044B\u0439 \u0432\u0443\u043B\u043A\u0430\u043D (Fat)"
+  m_EditorClassIdentifier: 
+  id: 213
+  UniqueInstanceIdRequired: 1
+  itemName: "\u0411\u043B\u0435\u0432\u043E\u0442\u043D\u044B\u0439 \u0432\u0443\u043B\u043A\u0430\u043D (Fat)"
+  localizedName: {fileID: 0}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators:
+    - ModificationMode: 0
+      valueToModify: 10
+      Operator: 0
+      EffectTime: 0
+    CritMultipliierModificators:
+    - ModificationMode: 0
+      valueToModify: 3
+      Operator: 1
+      EffectTime: 0
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 0}
+  autoPickup: 0
+  destroyOnPickUp: 0
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 0}
+  ConsumptionType: 1
+  Cost: 0
+  PremiumCost: 0
+  MinimumLevel: 0
+  _attackRange: 10
+  damageModificator:
+    ModificationMode: 0
+    valueToModify: 2
+    Operator: 1
+    EffectTime: 0
+  attackSpeedModificator:
+    ModificationMode: 0
+    valueToModify: 1
+    Operator: 1
+    EffectTime: 0
+  type: 1
+  surfaceTypeName: "Metal"
+  projectilePrefab: {fileID: 1791239302789290023, guid: 483fb7e07dee3644f9e619f18976e7e2, type: 2}
+  damageForceMultiplier: 1
+  HitModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  rangeAttackThrowTime: 0
+  hideProjectileBeforeLaunch: 1
+  useUniqueNetworkIDForProjectiles: 0

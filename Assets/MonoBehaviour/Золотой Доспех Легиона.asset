@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50995a346249a6413478e425bb0ef51a, type: 3}
+  m_Name: "\u0417\u043E\u043B\u043E\u0442\u043E\u0439 \u0414\u043E\u0441\u043F\u0435\u0445 \u041B\u0435\u0433\u0438\u043E\u043D\u0430"
+  m_EditorClassIdentifier: 
+  id: 127
+  UniqueInstanceIdRequired: 1
+  itemName: "\u0417\u043E\u043B\u043E\u0442\u043E\u0439 \u0414\u043E\u0441\u043F\u0435\u0445 \u041B\u0435\u0433\u0438\u043E\u043D\u0430"
+  localizedName: {fileID: 11400000, guid: 63d58ca19f164f76ba76e59ebd337368, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators:
+    - ModificationMode: 0
+      valueToModify: 1.2
+      Operator: 2
+      EffectTime: 0
+    HitPointsModificators:
+    - ModificationMode: 0
+      valueToModify: 1.25
+      Operator: 1
+      EffectTime: 0
+    HitPointsRegenModificators:
+    - ModificationMode: 0
+      valueToModify: 1.25
+      Operator: 2
+      EffectTime: 0
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 1
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 0}
+  autoPickup: 0
+  destroyOnPickUp: 1
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300010, guid: d1383396f5974f87887ab85e29f3e296, type: 3}
+  ConsumptionType: 1
+  Cost: 0
+  PremiumCost: 200
+  MinimumLevel: 20
+  defence:
+    ModificationMode: 0
+    valueToModify: 25
+    Operator: 0
+    EffectTime: 0
+  surfaceTypeName: "Metal"
+  armorSetPrefab: {fileID: 1791239304685119814, guid: 6eb9cffe1adb0414ca7d3419f7ebdcfa, type: 2}

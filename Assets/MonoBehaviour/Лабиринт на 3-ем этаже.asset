@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83eb67af05cacf66dbf6a50eb782657, type: 3}
+  m_Name: "\u041B\u0430\u0431\u0438\u0440\u0438\u043D\u0442 \u043D\u0430 3-\u0435\u043C \u044D\u0442\u0430\u0436\u0435"
+  m_EditorClassIdentifier: 
+  id: 115
+  _name: "\u041B\u0430\u0431\u0438\u0440\u0438\u043D\u0442 \u043D\u0430 3-\u0435\u043C \u044D\u0442\u0430\u0436\u0435"
+  localizedName: {fileID: 11400000, guid: daf30f80af41429c9ecd9f4dcd0b6d5b, type: 2}
+  description: {fileID: 11400000, guid: 74e525de6a2f4db1b9d907c22fd3dae9, type: 2}
+  sceneNames:
+  - "Random_Maze"
+  minimumStage: 0
+  raisesStage: 1
+  gold: 800
+  goldGrowRate: 0.6
+  xp: 70
+  xpGrowRate: 0.5
+  rewardItems:
+  - Item: {fileID: 11400000, guid: 874bc1837c2c41df8e5811e4fdd2ab21, type: 2}
+    Chance: 2
+  - Item: {fileID: 11400000, guid: 5f54c5e1f19b48a1ba6346321bcc5b28, type: 2}
+    Chance: 12
+  horizontalCells: 10
+  verticalCells: 10
+  limitEnemyCount: 1
+  enemyLimit: 5

@@ -1,0 +1,3165 @@
+fileFormatVersion: 2
+guid: d105b47baa2a46d4b942472743838594
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Masks_0
+  - first:
+      213: 21300002
+    second: Masks_1
+  - first:
+      213: 21300004
+    second: Masks_2
+  - first:
+      213: 21300006
+    second: Masks_3
+  - first:
+      213: 21300008
+    second: Masks_4
+  - first:
+      213: 21300010
+    second: Masks_5
+  - first:
+      213: 21300012
+    second: Masks_6
+  - first:
+      213: 21300014
+    second: Masks_7
+  - first:
+      213: 21300016
+    second: Masks_8
+  - first:
+      213: 21300018
+    second: Masks_10
+  - first:
+      213: 21300020
+    second: Masks_11
+  - first:
+      213: 21300022
+    second: Masks_12
+  - first:
+      213: 21300024
+    second: Masks_13
+  - first:
+      213: 21300026
+    second: Masks_14
+  - first:
+      213: 21300028
+    second: Masks_15
+  - first:
+      213: 21300030
+    second: Masks_16
+  - first:
+      213: 21300032
+    second: Masks_17
+  - first:
+      213: 21300034
+    second: Masks_18
+  - first:
+      213: 21300036
+    second: Masks_19
+  - first:
+      213: 21300038
+    second: Masks_20
+  - first:
+      213: 21300040
+    second: Masks_21
+  - first:
+      213: 21300042
+    second: Masks_22
+  - first:
+      213: 21300044
+    second: Masks_23
+  - first:
+      213: 21300046
+    second: Masks_24
+  - first:
+      213: 21300048
+    second: Masks_25
+  - first:
+      213: 21300050
+    second: Masks_26
+  - first:
+      213: 21300052
+    second: Masks_27
+  - first:
+      213: 21300054
+    second: Masks_28
+  - first:
+      213: 21300056
+    second: Masks_29
+  - first:
+      213: 21300058
+    second: Masks_30
+  - first:
+      213: 21300060
+    second: Masks_31
+  - first:
+      213: 21300062
+    second: Masks_32
+  - first:
+      213: 21300064
+    second: Masks_33
+  - first:
+      213: 21300066
+    second: Masks_34
+  - first:
+      213: 21300068
+    second: Masks_35
+  - first:
+      213: 21300070
+    second: Masks_36
+  - first:
+      213: 21300072
+    second: Masks_37
+  - first:
+      213: 21300074
+    second: Masks_38
+  - first:
+      213: 21300076
+    second: Masks_39
+  - first:
+      213: 21300078
+    second: Masks_40
+  - first:
+      213: 21300080
+    second: Masks_41
+  - first:
+      213: 21300082
+    second: Masks_42
+  - first:
+      213: 21300084
+    second: Masks_43
+  - first:
+      213: 21300086
+    second: Masks_44
+  - first:
+      213: 21300088
+    second: Masks_45
+  - first:
+      213: 21300090
+    second: Masks_46
+  - first:
+      213: 21300092
+    second: Masks_47
+  - first:
+      213: 21300094
+    second: Masks_48
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 65
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Masks_40
+      rect:
+        serializedVersion: 2
+        x: 591.5
+        y: 152
+        width: 134
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.75, y: -41.5}
+        - {x: -66.75, y: 57.5}
+        - {x: -59.75, y: -68.5}
+      - - {x: -53.75, y: 68.5}
+        - {x: -59.75, y: -68.5}
+        - {x: -66.75, y: 57.5}
+      - - {x: 54.25, y: -68.5}
+        - {x: -59.75, y: -68.5}
+        - {x: -53.75, y: 68.5}
+      - - {x: 28.25, y: 68.5}
+        - {x: 54.25, y: -68.5}
+        - {x: -53.75, y: 68.5}
+      - - {x: 67.25, y: 52.5}
+        - {x: 54.25, y: -68.5}
+        - {x: 28.25, y: 68.5}
+      - - {x: 67.25, y: -42.5}
+        - {x: 54.25, y: -68.5}
+        - {x: 67.25, y: 52.5}
+      physicsShape:
+      - - {x: 38.25, y: 17.5}
+        - {x: 37.25, y: 24.5}
+        - {x: 29.25, y: 44.5}
+        - {x: 20.25, y: 52.5}
+        - {x: 13.25, y: 58.5}
+        - {x: 8.25, y: 59.5}
+        - {x: -20.75, y: 59.5}
+        - {x: -35.75, y: 41.5}
+        - {x: -40.75, y: 1.5}
+        - {x: -43.75, y: -2.5}
+        - {x: -43.75, y: -13.5}
+        - {x: -41.75, y: -19.5}
+        - {x: -19.75, y: -50.5}
+        - {x: -12.75, y: -56.5}
+        - {x: 3.25, y: -56.5}
+        - {x: 9.25, y: -53.5}
+        - {x: 26.25, y: -34.5}
+        - {x: 38.25, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_45
+      rect:
+        serializedVersion: 2
+        x: 298.5
+        y: 0
+        width: 135
+        height: 141
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.4982269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -50.75}
+        - {x: -67.5, y: 36.25}
+        - {x: -22.5, y: -70.75}
+      - - {x: -53.5, y: 70.25}
+        - {x: -22.5, y: -70.75}
+        - {x: -67.5, y: 36.25}
+      - - {x: 52.5, y: 70.25}
+        - {x: -22.5, y: -70.75}
+        - {x: -53.5, y: 70.25}
+      - - {x: 46.5, y: -70.75}
+        - {x: -22.5, y: -70.75}
+        - {x: 52.5, y: 70.25}
+      - - {x: 67.5, y: -52.75}
+        - {x: 46.5, y: -70.75}
+        - {x: 52.5, y: 70.25}
+      - - {x: 67.5, y: 49.25}
+        - {x: 67.5, y: -52.75}
+        - {x: 52.5, y: 70.25}
+      physicsShape:
+      - - {x: 33.5, y: 33.25}
+        - {x: 30.5, y: 44.25}
+        - {x: 10.5, y: 58.25}
+        - {x: -8.5, y: 58.25}
+        - {x: -20.5, y: 53.25}
+        - {x: -27.5, y: 49.25}
+        - {x: -33.5, y: 43.25}
+        - {x: -37.5, y: 34.25}
+        - {x: -43.5, y: 12.25}
+        - {x: -43.5, y: -11.75}
+        - {x: -31.5, y: -36.75}
+        - {x: -12.5, y: -61.75}
+        - {x: 10.5, y: -61.75}
+        - {x: 18.5, y: -59.75}
+        - {x: 28.5, y: -34.75}
+        - {x: 37.5, y: -9.75}
+        - {x: 37.5, y: 6.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 6
+        width: 136
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -54.5}
+        - {x: -68, y: 34.5}
+        - {x: -39, y: -68.5}
+      - - {x: -42, y: 68.5}
+        - {x: -39, y: -68.5}
+        - {x: -68, y: 34.5}
+      - - {x: 37, y: 68.5}
+        - {x: -39, y: -68.5}
+        - {x: -42, y: 68.5}
+      - - {x: 53, y: -68.5}
+        - {x: -39, y: -68.5}
+        - {x: 37, y: 68.5}
+      - - {x: 68, y: 57.5}
+        - {x: 53, y: -68.5}
+        - {x: 37, y: 68.5}
+      - - {x: 68, y: -56.5}
+        - {x: 53, y: -68.5}
+        - {x: 68, y: 57.5}
+      physicsShape:
+      - - {x: 39, y: 7.5}
+        - {x: 32, y: 38.5}
+        - {x: 23, y: 50.5}
+        - {x: 8, y: 58.5}
+        - {x: -11, y: 58.5}
+        - {x: -14, y: 57.5}
+        - {x: -21, y: 54.5}
+        - {x: -34, y: 40.5}
+        - {x: -39, y: 28.5}
+        - {x: -44, y: 1.5}
+        - {x: -44, y: -11.5}
+        - {x: -42, y: -21.5}
+        - {x: -29, y: -34.5}
+        - {x: -21, y: -52.5}
+        - {x: -14, y: -57.5}
+        - {x: 4, y: -57.5}
+        - {x: 21, y: -41.5}
+        - {x: 28, y: -30.5}
+        - {x: 39, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_26
+      rect:
+        serializedVersion: 2
+        x: 591.5
+        y: 444
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -20.5}
+        - {x: -67.25, y: 29.5}
+        - {x: -61.25, y: -46.5}
+      - - {x: -44.25, y: 66.5}
+        - {x: -61.25, y: -46.5}
+        - {x: -67.25, y: 29.5}
+      - - {x: -44.25, y: -67.5}
+        - {x: -61.25, y: -46.5}
+        - {x: -44.25, y: 66.5}
+      - - {x: 40.75, y: -67.5}
+        - {x: -44.25, y: -67.5}
+        - {x: -44.25, y: 66.5}
+      - - {x: -40.25, y: 67.5}
+        - {x: 40.75, y: -67.5}
+        - {x: -44.25, y: 66.5}
+      - - {x: 27.75, y: 67.5}
+        - {x: 40.75, y: -67.5}
+        - {x: -40.25, y: 67.5}
+      - - {x: 66.75, y: 43.5}
+        - {x: 40.75, y: -67.5}
+        - {x: 27.75, y: 67.5}
+      - - {x: 67.75, y: -56.5}
+        - {x: 40.75, y: -67.5}
+        - {x: 66.75, y: 43.5}
+      - - {x: 67.75, y: 35.5}
+        - {x: 67.75, y: -56.5}
+        - {x: 66.75, y: 43.5}
+      physicsShape:
+      - - {x: 30.75, y: 24.5}
+        - {x: 37.75, y: 32.5}
+        - {x: 37.75, y: 39.5}
+        - {x: 35.75, y: 43.5}
+        - {x: 7.75, y: 56.5}
+        - {x: -10.25, y: 56.5}
+        - {x: -21.25, y: 51.5}
+        - {x: -32.25, y: 40.5}
+        - {x: -40.25, y: 15.5}
+        - {x: -40.25, y: -7.5}
+        - {x: -36.25, y: -23.5}
+        - {x: -30.25, y: -33.5}
+        - {x: -7.25, y: -55.5}
+        - {x: -2.25, y: -58.5}
+        - {x: 11.75, y: -58.5}
+        - {x: 20.75, y: -47.5}
+        - {x: 27.75, y: -18.5}
+        - {x: 30.75, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_14
+      rect:
+        serializedVersion: 2
+        x: 883.5
+        y: 736.5
+        width: 134
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.4981618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.75, y: -50.75}
+        - {x: -66.75, y: 53.25}
+        - {x: -55.75, y: -67.75}
+      - - {x: -37.75, y: 68.25}
+        - {x: -55.75, y: -67.75}
+        - {x: -66.75, y: 53.25}
+      - - {x: 19.25, y: -67.75}
+        - {x: -55.75, y: -67.75}
+        - {x: -37.75, y: 68.25}
+      - - {x: 51.25, y: 68.25}
+        - {x: 19.25, y: -67.75}
+        - {x: -37.75, y: 68.25}
+      - - {x: 67.25, y: -47.75}
+        - {x: 19.25, y: -67.75}
+        - {x: 51.25, y: 68.25}
+      - - {x: 67.25, y: 52.25}
+        - {x: 67.25, y: -47.75}
+        - {x: 51.25, y: 68.25}
+      physicsShape:
+      - - {x: 31.25, y: 25.25}
+        - {x: 38.25, y: 33.25}
+        - {x: 38.25, y: 40.25}
+        - {x: 36.25, y: 44.25}
+        - {x: 18.25, y: 54.25}
+        - {x: 7.25, y: 56.25}
+        - {x: -13.75, y: 56.25}
+        - {x: -20.75, y: 52.25}
+        - {x: -32.75, y: 40.25}
+        - {x: -39.75, y: 15.25}
+        - {x: -39.75, y: -12.75}
+        - {x: -27.75, y: -35.75}
+        - {x: -5.75, y: -56.75}
+        - {x: 0.25, y: -57.75}
+        - {x: 10.25, y: -57.75}
+        - {x: 16.25, y: -53.75}
+        - {x: 21.25, y: -40.75}
+        - {x: 32.25, y: -6.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_12
+      rect:
+        serializedVersion: 2
+        x: 591.5
+        y: 737
+        width: 134
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.75, y: -29.5}
+        - {x: -66.75, y: 51.5}
+        - {x: -51.75, y: -67.5}
+      - - {x: -54.75, y: 67.5}
+        - {x: -51.75, y: -67.5}
+        - {x: -66.75, y: 51.5}
+      - - {x: 46.25, y: 67.5}
+        - {x: -51.75, y: -67.5}
+        - {x: -54.75, y: 67.5}
+      - - {x: 32.25, y: -67.5}
+        - {x: -51.75, y: -67.5}
+        - {x: 46.25, y: 67.5}
+      - - {x: 67.25, y: -40.5}
+        - {x: 32.25, y: -67.5}
+        - {x: 46.25, y: 67.5}
+      - - {x: 67.25, y: 54.5}
+        - {x: 67.25, y: -40.5}
+        - {x: 46.25, y: 67.5}
+      physicsShape:
+      - - {x: 25.25, y: 15.5}
+        - {x: 24.25, y: 24.5}
+        - {x: 17.25, y: 41.5}
+        - {x: 7.25, y: 50.5}
+        - {x: -6.75, y: 50.5}
+        - {x: -12.75, y: 48.5}
+        - {x: -29.75, y: 24.5}
+        - {x: -29.75, y: -12.5}
+        - {x: -26.75, y: -32.5}
+        - {x: -18.75, y: -45.5}
+        - {x: -5.75, y: -57.5}
+        - {x: 4.25, y: -57.5}
+        - {x: 11.25, y: -55.5}
+        - {x: 17.25, y: -39.5}
+        - {x: 25.25, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_35
+      rect:
+        serializedVersion: 2
+        x: 883.5
+        y: 298
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.4981481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -26.75}
+        - {x: -67.25, y: 21.25}
+        - {x: -54.25, y: -61.75}
+      - - {x: -61.25, y: 40.25}
+        - {x: -54.25, y: -61.75}
+        - {x: -67.25, y: 21.25}
+      - - {x: -24.25, y: 67.25}
+        - {x: -54.25, y: -61.75}
+        - {x: -61.25, y: 40.25}
+      - - {x: -38.25, y: -67.75}
+        - {x: -54.25, y: -61.75}
+        - {x: -24.25, y: 67.25}
+      - - {x: 44.75, y: -67.75}
+        - {x: -38.25, y: -67.75}
+        - {x: -24.25, y: 67.25}
+      - - {x: 16.75, y: 67.25}
+        - {x: 44.75, y: -67.75}
+        - {x: -24.25, y: 67.25}
+      - - {x: 39.75, y: 59.25}
+        - {x: 44.75, y: -67.75}
+        - {x: 16.75, y: 67.25}
+      - - {x: 63.75, y: 40.25}
+        - {x: 44.75, y: -67.75}
+        - {x: 39.75, y: 59.25}
+      - - {x: 67.75, y: -34.75}
+        - {x: 44.75, y: -67.75}
+        - {x: 63.75, y: 40.25}
+      - - {x: 67.75, y: 25.25}
+        - {x: 67.75, y: -34.75}
+        - {x: 63.75, y: 40.25}
+      physicsShape:
+      - - {x: 38.75, y: -10.75}
+        - {x: 38.75, y: 6.25}
+        - {x: 33.75, y: 21.25}
+        - {x: 28.75, y: 31.25}
+        - {x: 19.75, y: 41.25}
+        - {x: 7.75, y: 44.25}
+        - {x: -7.25, y: 44.25}
+        - {x: -8.25, y: 43.25}
+        - {x: -17.25, y: 37.25}
+        - {x: -24.25, y: 31.25}
+        - {x: -33.25, y: 6.25}
+        - {x: -37.25, y: -24.75}
+        - {x: -37.25, y: -46.75}
+        - {x: -33.25, y: -53.75}
+        - {x: -29.25, y: -52.75}
+        - {x: -5.25, y: -33.75}
+        - {x: 6.75, y: -31.75}
+        - {x: 26.75, y: -20.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_18
+      rect:
+        serializedVersion: 2
+        x: 444.5
+        y: 590
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.4981481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -67.75}
+        - {x: -67.25, y: 31.25}
+        - {x: 67.75, y: -67.75}
+      - - {x: -43.25, y: 66.25}
+        - {x: 67.75, y: -67.75}
+        - {x: -67.25, y: 31.25}
+      - - {x: -41.25, y: 67.25}
+        - {x: 67.75, y: -67.75}
+        - {x: -43.25, y: 66.25}
+      - - {x: 42.75, y: 67.25}
+        - {x: 67.75, y: -67.75}
+        - {x: -41.25, y: 67.25}
+      - - {x: 67.75, y: 51.25}
+        - {x: 67.75, y: -67.75}
+        - {x: 42.75, y: 67.25}
+      physicsShape:
+      - - {x: 22.75, y: -20.75}
+        - {x: 24.75, y: -7.75}
+        - {x: 24.75, y: 31.25}
+        - {x: 12.75, y: 51.25}
+        - {x: -8.25, y: 51.25}
+        - {x: -27.25, y: 34.25}
+        - {x: -30.25, y: 7.25}
+        - {x: -30.25, y: -20.75}
+        - {x: -28.25, y: -32.75}
+        - {x: -10.25, y: -57.75}
+        - {x: 5.75, y: -57.75}
+        - {x: 9.749999, y: -53.75}
+        - {x: 15.75, y: -41.75}
+        - {x: 20.75, y: -28.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_1
+      rect:
+        serializedVersion: 2
+        x: 152.5
+        y: 883
+        width: 134
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.75, y: -47.5}
+        - {x: -66.75, y: 42.5}
+        - {x: -41.75, y: -67.5}
+      - - {x: -54.75, y: 67.5}
+        - {x: -41.75, y: -67.5}
+        - {x: -66.75, y: 42.5}
+      - - {x: 54.25, y: 67.5}
+        - {x: -41.75, y: -67.5}
+        - {x: -54.75, y: 67.5}
+      - - {x: 39.25, y: -67.5}
+        - {x: -41.75, y: -67.5}
+        - {x: 54.25, y: 67.5}
+      - - {x: 67.25, y: -42.5}
+        - {x: 39.25, y: -67.5}
+        - {x: 54.25, y: 67.5}
+      - - {x: 67.25, y: 42.5}
+        - {x: 67.25, y: -42.5}
+        - {x: 54.25, y: 67.5}
+      physicsShape:
+      - - {x: 37.25, y: 43.5}
+        - {x: 24.25, y: 45.5}
+        - {x: 10.25, y: 55.5}
+        - {x: -9.75, y: 55.5}
+        - {x: -22.75, y: 50.5}
+        - {x: -32.75, y: 39.5}
+        - {x: -36.75, y: 26.5}
+        - {x: -40.75, y: 12.5}
+        - {x: -40.75, y: -3.5}
+        - {x: -39.75, y: -13.5}
+        - {x: -30.75, y: -35.5}
+        - {x: -3.75, y: -58.5}
+        - {x: 13.25, y: -58.5}
+        - {x: 20.25, y: -44.5}
+        - {x: 32.25, y: -7.5}
+        - {x: 37.25, y: 26.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_43
+      rect:
+        serializedVersion: 2
+        x: 6.5
+        y: 6
+        width: 135
+        height: 134
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -63}
+        - {x: -67.5, y: 38}
+        - {x: -47.5, y: -67}
+      - - {x: -54.5, y: 67}
+        - {x: -47.5, y: -67}
+        - {x: -67.5, y: 38}
+      - - {x: 59.5, y: 67}
+        - {x: -47.5, y: -67}
+        - {x: -54.5, y: 67}
+      - - {x: 65.5, y: -67}
+        - {x: -47.5, y: -67}
+        - {x: 59.5, y: 67}
+      - - {x: 67.5, y: 43}
+        - {x: 65.5, y: -67}
+        - {x: 59.5, y: 67}
+      - - {x: 67.5, y: -62}
+        - {x: 65.5, y: -67}
+        - {x: 67.5, y: 43}
+      physicsShape:
+      - - {x: 29.5, y: -9.999999}
+        - {x: 29.5, y: 3}
+        - {x: 27.5, y: 18}
+        - {x: 23.5, y: 32}
+        - {x: 12.5, y: 51}
+        - {x: 6.5, y: 53}
+        - {x: -7.5, y: 53}
+        - {x: -25.5, y: 43}
+        - {x: -29.5, y: 31}
+        - {x: -36.5, y: 7}
+        - {x: -37.5, y: 2}
+        - {x: -37.5, y: -13}
+        - {x: -28.5, y: -37}
+        - {x: -20.5, y: -45}
+        - {x: -3.5, y: -56}
+        - {x: 8.5, y: -56}
+        - {x: 16.5, y: -50}
+        - {x: 17.5, y: -45}
+        - {x: 28.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 876.5
+        width: 135
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.4982394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.75, y: -70.75}
+        - {x: -67.75, y: 71.25}
+        - {x: 35.25, y: -70.75}
+      - - {x: 58.25, y: 71.25}
+        - {x: 35.25, y: -70.75}
+        - {x: -67.75, y: 71.25}
+      - - {x: 67.25, y: -47.75}
+        - {x: 35.25, y: -70.75}
+        - {x: 58.25, y: 71.25}
+      - - {x: 67.25, y: 56.25}
+        - {x: 67.25, y: -47.75}
+        - {x: 58.25, y: 71.25}
+      physicsShape:
+      - - {x: 37.25, y: -5.75}
+        - {x: 37.25, y: 8.25}
+        - {x: 33.25, y: 34.25}
+        - {x: 31.25, y: 41.25}
+        - {x: 19.25, y: 55.25}
+        - {x: 9.25, y: 60.25}
+        - {x: -16.75, y: 60.25}
+        - {x: -35.75, y: 46.25}
+        - {x: -43.75, y: 12.25}
+        - {x: -43.75, y: -5.75}
+        - {x: -39.75, y: -17.75}
+        - {x: -33.75, y: -29.75}
+        - {x: -18.75, y: -50.75}
+        - {x: -13.75, y: -56.75}
+        - {x: -4.75, y: -60.75}
+        - {x: 7.25, y: -60.75}
+        - {x: 15.25, y: -54.75}
+        - {x: 27.25, y: -32.75}
+        - {x: 33.25, y: -18.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_19
+      rect:
+        serializedVersion: 2
+        x: 591.5
+        y: 591
+        width: 134
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4962687, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -44.5}
+        - {x: -67, y: 52.5}
+        - {x: -54, y: -66.5}
+      - - {x: -47, y: 66.5}
+        - {x: -54, y: -66.5}
+        - {x: -67, y: 52.5}
+      - - {x: 62, y: -66.5}
+        - {x: -54, y: -66.5}
+        - {x: -47, y: 66.5}
+      - - {x: 45, y: 66.5}
+        - {x: 62, y: -66.5}
+        - {x: -47, y: 66.5}
+      - - {x: 67, y: 45.5}
+        - {x: 62, y: -66.5}
+        - {x: 45, y: 66.5}
+      - - {x: 67, y: -49.5}
+        - {x: 62, y: -66.5}
+        - {x: 67, y: 45.5}
+      physicsShape:
+      - - {x: 27, y: -6.5}
+        - {x: 25, y: 4.5}
+        - {x: 27, y: 17.5}
+        - {x: 27, y: 18.5}
+        - {x: 21, y: 34.5}
+        - {x: 17, y: 47.5}
+        - {x: 8, y: 52.5}
+        - {x: -8, y: 52.5}
+        - {x: -24, y: 42.5}
+        - {x: -29, y: 29.5}
+        - {x: -36, y: 9.5}
+        - {x: -36, y: -8.5}
+        - {x: -34, y: -24.5}
+        - {x: -26, y: -37.5}
+        - {x: -4, y: -56.5}
+        - {x: 9, y: -56.5}
+        - {x: 12, y: -55.5}
+        - {x: 19, y: -45.5}
+        - {x: 27, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 444
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.75, y: -60.5}
+        - {x: -67.75, y: 38.5}
+        - {x: -46.75, y: -67.5}
+      - - {x: -51.75, y: 67.5}
+        - {x: -46.75, y: -67.5}
+        - {x: -67.75, y: 38.5}
+      - - {x: 45.25, y: 67.5}
+        - {x: -46.75, y: -67.5}
+        - {x: -51.75, y: 67.5}
+      - - {x: 43.25, y: -67.5}
+        - {x: -46.75, y: -67.5}
+        - {x: 45.25, y: 67.5}
+      - - {x: 67.25, y: -45.5}
+        - {x: 43.25, y: -67.5}
+        - {x: 45.25, y: 67.5}
+      - - {x: 67.25, y: 24.5}
+        - {x: 67.25, y: -45.5}
+        - {x: 45.25, y: 67.5}
+      physicsShape:
+      - - {x: 17.25, y: 46.5}
+        - {x: 10.25, y: 51.5}
+        - {x: 7.25, y: 52.5}
+        - {x: -10.75, y: 52.5}
+        - {x: -25.75, y: 40.5}
+        - {x: -28.75, y: 32.5}
+        - {x: -36.75, y: 9.5}
+        - {x: -36.75, y: -14.5}
+        - {x: -33.75, y: -23.5}
+        - {x: -26.75, y: -35.5}
+        - {x: -17.75, y: -45.5}
+        - {x: -5.75, y: -54.5}
+        - {x: 0.25, y: -56.5}
+        - {x: 6.25, y: -56.5}
+        - {x: 16.25, y: -52.5}
+        - {x: 27.25, y: -18.5}
+        - {x: 27.25, y: 19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 444.5
+        width: 133
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: -55.5}
+        - {x: -66.5, y: 46.5}
+        - {x: -33.5, y: -67.5}
+      - - {x: -44.5, y: 67.5}
+        - {x: -33.5, y: -67.5}
+        - {x: -66.5, y: 46.5}
+      - - {x: 47.5, y: 67.5}
+        - {x: -33.5, y: -67.5}
+        - {x: -44.5, y: 67.5}
+      - - {x: 44.5, y: -67.5}
+        - {x: -33.5, y: -67.5}
+        - {x: 47.5, y: 67.5}
+      - - {x: 66.5, y: -51.5}
+        - {x: 44.5, y: -67.5}
+        - {x: 47.5, y: 67.5}
+      - - {x: 66.5, y: 61.5}
+        - {x: 66.5, y: -51.5}
+        - {x: 47.5, y: 67.5}
+      physicsShape:
+      - - {x: 24.5, y: 17.5}
+        - {x: 20.5, y: 34.5}
+        - {x: 9.5, y: 51.5}
+        - {x: -8.5, y: 51.5}
+        - {x: -27.5, y: 32.5}
+        - {x: -29.5, y: 20.5}
+        - {x: -29.5, y: -22.5}
+        - {x: -20.5, y: -44.5}
+        - {x: -10.5, y: -56.5}
+        - {x: -5.5, y: -57.5}
+        - {x: 6.5, y: -57.5}
+        - {x: 16.5, y: -44.5}
+        - {x: 23.5, y: -19.5}
+        - {x: 24.5, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_32
+      rect:
+        serializedVersion: 2
+        x: 444.5
+        y: 296
+        width: 135
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.4981752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -37.75}
+        - {x: -67.25, y: 51.25}
+        - {x: -37.25, y: -68.75}
+      - - {x: -24.25, y: 68.25}
+        - {x: -37.25, y: -68.75}
+        - {x: -67.25, y: 51.25}
+      - - {x: 28.75, y: -68.75}
+        - {x: -37.25, y: -68.75}
+        - {x: -24.25, y: 68.25}
+      - - {x: 48.75, y: 68.25}
+        - {x: 28.75, y: -68.75}
+        - {x: -24.25, y: 68.25}
+      - - {x: 41.75, y: -62.75}
+        - {x: 28.75, y: -68.75}
+        - {x: 48.75, y: 68.25}
+      - - {x: 67.75, y: -49.75}
+        - {x: 41.75, y: -62.75}
+        - {x: 48.75, y: 68.25}
+      - - {x: 67.75, y: 58.25}
+        - {x: 67.75, y: -49.75}
+        - {x: 48.75, y: 68.25}
+      physicsShape:
+      - - {x: 35.75, y: 31.25}
+        - {x: 37.75, y: 36.25}
+        - {x: 37.75, y: 42.25}
+        - {x: 32.75, y: 43.25}
+        - {x: 19.75, y: 49.25}
+        - {x: 6.75, y: 56.25}
+        - {x: -10.25, y: 56.25}
+        - {x: -22.25, y: 51.25}
+        - {x: -31.25, y: 41.25}
+        - {x: -39.25, y: 26.25}
+        - {x: -40.25, y: 11.25}
+        - {x: -40.25, y: -11.75}
+        - {x: -34.25, y: -27.75}
+        - {x: -10.25, y: -55.75}
+        - {x: -3.25, y: -57.75}
+        - {x: 11.75, y: -57.75}
+        - {x: 16.75, y: -52.75}
+        - {x: 32.75, y: -6.75}
+        - {x: 30.75, y: 24.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_20
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 589.5
+        width: 134
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.4963235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -46}
+        - {x: -67.25, y: 41}
+        - {x: -45.25, y: -68}
+      - - {x: -54.25, y: 68}
+        - {x: -45.25, y: -68}
+        - {x: -67.25, y: 41}
+      - - {x: 30.75, y: 68}
+        - {x: -45.25, y: -68}
+        - {x: -54.25, y: 68}
+      - - {x: 36.75, y: -68}
+        - {x: -45.25, y: -68}
+        - {x: 30.75, y: 68}
+      - - {x: 65.75, y: 46}
+        - {x: 36.75, y: -68}
+        - {x: 30.75, y: 68}
+      - - {x: 66.75, y: -33}
+        - {x: 36.75, y: -68}
+        - {x: 65.75, y: 46}
+      - - {x: 66.75, y: 43}
+        - {x: 66.75, y: -33}
+        - {x: 65.75, y: 46}
+      physicsShape:
+      - - {x: 35.75, y: 34}
+        - {x: 35.75, y: 43}
+        - {x: 24.75, y: 44}
+        - {x: 9.749999, y: 56}
+        - {x: -11.25, y: 56}
+        - {x: -22.25, y: 52}
+        - {x: -30.25, y: 45}
+        - {x: -36.25, y: 36}
+        - {x: -42.25, y: 9}
+        - {x: -42.25, y: -4}
+        - {x: -38.25, y: -21}
+        - {x: -30.25, y: -37}
+        - {x: -5.25, y: -58}
+        - {x: 7.75, y: -58}
+        - {x: 10.75, y: -57}
+        - {x: 14.75, y: -51}
+        - {x: 30.75, y: -6}
+        - {x: 30.75, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_5
+      rect:
+        serializedVersion: 2
+        x: 737.5
+        y: 883
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.4981481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -42.75}
+        - {x: -67.25, y: 30.25}
+        - {x: -39.25, y: -67.75}
+      - - {x: -50.25, y: 67.25}
+        - {x: -39.25, y: -67.75}
+        - {x: -67.25, y: 30.25}
+      - - {x: 53.75, y: 67.25}
+        - {x: -39.25, y: -67.75}
+        - {x: -50.25, y: 67.25}
+      - - {x: 34.75, y: -67.75}
+        - {x: -39.25, y: -67.75}
+        - {x: 53.75, y: 67.25}
+      - - {x: 67.75, y: -55.75}
+        - {x: 34.75, y: -67.75}
+        - {x: 53.75, y: 67.25}
+      - - {x: 67.75, y: 56.25}
+        - {x: 67.75, y: -55.75}
+        - {x: 53.75, y: 67.25}
+      physicsShape:
+      - - {x: 24.75, y: 16.25}
+        - {x: 19.75, y: 36.25}
+        - {x: 8.75, y: 50.25}
+        - {x: -6.25, y: 50.25}
+        - {x: -14.25, y: 46.25}
+        - {x: -27.25, y: 29.25}
+        - {x: -30.25, y: 12.25}
+        - {x: -30.25, y: -18.75}
+        - {x: -20.25, y: -48.75}
+        - {x: -4.25, y: -58.75}
+        - {x: 7.75, y: -58.75}
+        - {x: 23.75, y: -28.75}
+        - {x: 25.75, y: -8.75}
+        - {x: 25.75, y: 1.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_22
+      rect:
+        serializedVersion: 2
+        x: 6.5
+        y: 444
+        width: 134
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.75, y: -45.5}
+        - {x: -66.75, y: 51.5}
+        - {x: -54.75, y: -68.5}
+      - - {x: -49.75, y: 68.5}
+        - {x: -54.75, y: -68.5}
+        - {x: -66.75, y: 51.5}
+      - - {x: 58.25, y: -68.5}
+        - {x: -54.75, y: -68.5}
+        - {x: -49.75, y: 68.5}
+      - - {x: 67.25, y: 68.5}
+        - {x: 58.25, y: -68.5}
+        - {x: -49.75, y: 68.5}
+      - - {x: 67.25, y: -37.5}
+        - {x: 58.25, y: -68.5}
+        - {x: 67.25, y: 68.5}
+      physicsShape:
+      - - {x: 38.25, y: 8.5}
+        - {x: 33.25, y: 32.5}
+        - {x: 30.25, y: 43.5}
+        - {x: 10.25, y: 59.5}
+        - {x: -10.75, y: 59.5}
+        - {x: -23.75, y: 55.5}
+        - {x: -33.75, y: 40.5}
+        - {x: -37.75, y: 28.5}
+        - {x: -43.75, y: -1.5}
+        - {x: -43.75, y: -14.5}
+        - {x: -31.75, y: -31.5}
+        - {x: -15.75, y: -56.5}
+        - {x: 4.25, y: -56.5}
+        - {x: 17.25, y: -44.5}
+        - {x: 32.25, y: -24.5}
+        - {x: 38.25, y: -10.5}
+        - {x: -26.75, y: 12.5}
+        - {x: -22.75, y: 10.5}
+        - {x: -25.75, y: 10.5}
+        - {x: -26.75, y: 11.5}
+        - {x: 16.25, y: 14.5}
+        - {x: 15.25, y: 12.5}
+        - {x: 13.25, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_28
+      rect:
+        serializedVersion: 2
+        x: 883.5
+        y: 444.5
+        width: 135
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.4981884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -31.75}
+        - {x: -67.5, y: 49.25}
+        - {x: -49.5, y: -68.75}
+      - - {x: -30.5, y: 69.25}
+        - {x: -49.5, y: -68.75}
+        - {x: -67.5, y: 49.25}
+      - - {x: 52.5, y: -68.75}
+        - {x: -49.5, y: -68.75}
+        - {x: -30.5, y: 69.25}
+      - - {x: 36.5, y: 69.25}
+        - {x: 52.5, y: -68.75}
+        - {x: -30.5, y: 69.25}
+      - - {x: 65.5, y: 42.25}
+        - {x: 52.5, y: -68.75}
+        - {x: 36.5, y: 69.25}
+      - - {x: 67.5, y: -35.75}
+        - {x: 52.5, y: -68.75}
+        - {x: 65.5, y: 42.25}
+      - - {x: 67.5, y: 31.25}
+        - {x: 67.5, y: -35.75}
+        - {x: 65.5, y: 42.25}
+      physicsShape:
+      - - {x: 38.5, y: 15.25}
+        - {x: 30.5, y: 44.25}
+        - {x: 17.5, y: 54.25}
+        - {x: 6.5, y: 59.25}
+        - {x: -14.5, y: 59.25}
+        - {x: -30.5, y: 47.25}
+        - {x: -38.5, y: 30.25}
+        - {x: -43.5, y: 2.25}
+        - {x: -43.5, y: -12.75}
+        - {x: -42.5, y: -17.75}
+        - {x: -30.5, y: -30.75}
+        - {x: -20.5, y: -48.75}
+        - {x: -16.5, y: -53.75}
+        - {x: -11.5, y: -56.75}
+        - {x: 4.5, y: -56.75}
+        - {x: 11.5, y: -52.75}
+        - {x: 33.5, y: -25.75}
+        - {x: 38.5, y: -9.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_21
+      rect:
+        serializedVersion: 2
+        x: 883.5
+        y: 584.5
+        width: 135
+        height: 141
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.4964539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -28.5}
+        - {x: -67.5, y: 37.5}
+        - {x: -30.5, y: -70.5}
+      - - {x: -65.5, y: 45.5}
+        - {x: -30.5, y: -70.5}
+        - {x: -67.5, y: 37.5}
+      - - {x: -43.5, y: 70.5}
+        - {x: -30.5, y: -70.5}
+        - {x: -65.5, y: 45.5}
+      - - {x: 35.5, y: 70.5}
+        - {x: -30.5, y: -70.5}
+        - {x: -43.5, y: 70.5}
+      - - {x: 22.5, y: -70.5}
+        - {x: -30.5, y: -70.5}
+        - {x: 35.5, y: 70.5}
+      - - {x: 67.5, y: -38.5}
+        - {x: 22.5, y: -70.5}
+        - {x: 35.5, y: 70.5}
+      - - {x: 67.5, y: 55.5}
+        - {x: 67.5, y: -38.5}
+        - {x: 35.5, y: 70.5}
+      physicsShape:
+      - - {x: 37.5, y: 5.5}
+        - {x: 35.5, y: 23.5}
+        - {x: 31.5, y: 40.5}
+        - {x: 19.5, y: 54.5}
+        - {x: 7.5, y: 59.5}
+        - {x: -14.5, y: 59.5}
+        - {x: -34.5, y: 45.5}
+        - {x: -37.5, y: 34.5}
+        - {x: -43.5, y: 10.5}
+        - {x: -43.5, y: -5.5}
+        - {x: -40.5, y: -18.5}
+        - {x: -29.5, y: -36.5}
+        - {x: -18.5, y: -51.5}
+        - {x: -8.5, y: -60.5}
+        - {x: 7.5, y: -60.5}
+        - {x: 10.5, y: -59.5}
+        - {x: 19.5, y: -49.5}
+        - {x: 37.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_42
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 153
+        width: 134
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -58.5}
+        - {x: -67.25, y: 67.5}
+        - {x: -54.25, y: -67.5}
+      - - {x: 52.75, y: 67.5}
+        - {x: -54.25, y: -67.5}
+        - {x: -67.25, y: 67.5}
+      - - {x: 52.75, y: -67.5}
+        - {x: -54.25, y: -67.5}
+        - {x: 52.75, y: 67.5}
+      - - {x: 66.75, y: -38.5}
+        - {x: 52.75, y: -67.5}
+        - {x: 52.75, y: 67.5}
+      - - {x: 66.75, y: 51.5}
+        - {x: 66.75, y: -38.5}
+        - {x: 52.75, y: 67.5}
+      physicsShape:
+      - - {x: 28.75, y: 2.5}
+        - {x: 27.75, y: 6.5}
+        - {x: 26.75, y: 17.5}
+        - {x: 15.75, y: 42.5}
+        - {x: 7.75, y: 50.5}
+        - {x: -4.25, y: 50.5}
+        - {x: -9.25, y: 49.5}
+        - {x: -20.25, y: 38.5}
+        - {x: -26.25, y: 27.5}
+        - {x: -30.25, y: 18.5}
+        - {x: -32.25, y: 7.5}
+        - {x: -32.25, y: -8.5}
+        - {x: -30.25, y: -19.5}
+        - {x: -25.25, y: -33.5}
+        - {x: -18.25, y: -47.5}
+        - {x: -5.25, y: -58.5}
+        - {x: 2.75, y: -58.5}
+        - {x: 5.75, y: -57.5}
+        - {x: 10.75, y: -51.5}
+        - {x: 21.75, y: -30.5}
+        - {x: 28.75, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_17
+      rect:
+        serializedVersion: 2
+        x: 298.5
+        y: 590.5
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.4962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -36.5}
+        - {x: -67.5, y: 37.5}
+        - {x: -58.5, y: -67.5}
+      - - {x: -42.5, y: 66.5}
+        - {x: -58.5, y: -67.5}
+        - {x: -67.5, y: 37.5}
+      - - {x: 61.5, y: -67.5}
+        - {x: -58.5, y: -67.5}
+        - {x: -42.5, y: 66.5}
+      - - {x: -39.5, y: 67.5}
+        - {x: 61.5, y: -67.5}
+        - {x: -42.5, y: 66.5}
+      - - {x: 38.5, y: 67.5}
+        - {x: 61.5, y: -67.5}
+        - {x: -39.5, y: 67.5}
+      - - {x: 67.5, y: 45.5}
+        - {x: 61.5, y: -67.5}
+        - {x: 38.5, y: 67.5}
+      - - {x: 67.5, y: -49.5}
+        - {x: 61.5, y: -67.5}
+        - {x: 67.5, y: 45.5}
+      physicsShape:
+      - - {x: 38.5, y: 8.5}
+        - {x: 29.5, y: 32.5}
+        - {x: 13.5, y: 43.5}
+        - {x: 10.5, y: 44.5}
+        - {x: -8.5, y: 44.5}
+        - {x: -14.5, y: 43.5}
+        - {x: -29.5, y: 18.5}
+        - {x: -28.5, y: -4.5}
+        - {x: -34.5, y: -16.5}
+        - {x: -37.5, y: -24.5}
+        - {x: -37.5, y: -51.5}
+        - {x: -33.5, y: -52.5}
+        - {x: -29.5, y: -52.5}
+        - {x: -8.5, y: -33.5}
+        - {x: 33.5, y: -14.5}
+        - {x: 38.5, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_27
+      rect:
+        serializedVersion: 2
+        x: 737.5
+        y: 437
+        width: 135.9239
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4966015, y: 0.4982394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.96194, y: -44.25}
+        - {x: -67.96194, y: 43.75}
+        - {x: -20.96194, y: -71.25}
+      - - {x: -48.96194, y: 70.75}
+        - {x: -20.96194, y: -71.25}
+        - {x: -67.96194, y: 43.75}
+      - - {x: 49.03806, y: 70.75}
+        - {x: -20.96194, y: -71.25}
+        - {x: -48.96194, y: 70.75}
+      - - {x: 28.03806, y: -71.25}
+        - {x: -20.96194, y: -71.25}
+        - {x: 49.03806, y: 70.75}
+      - - {x: 68.03806, y: -32.25}
+        - {x: 28.03806, y: -71.25}
+        - {x: 49.03806, y: 70.75}
+      - - {x: 68.03806, y: 50.75}
+        - {x: 68.03806, y: -32.25}
+        - {x: 49.03806, y: 70.75}
+      physicsShape:
+      - - {x: 37.03806, y: 13.75}
+        - {x: 30.03806, y: 41.75}
+        - {x: 20.03806, y: 52.75}
+        - {x: 9.038063, y: 59.75}
+        - {x: -15.96194, y: 59.75}
+        - {x: -26.96194, y: 51.75}
+        - {x: -36.96193, y: 39.75}
+        - {x: -43.96194, y: 7.75}
+        - {x: -43.96194, y: -7.25}
+        - {x: -34.96194, y: -30.25}
+        - {x: -30.96194, y: -36.25}
+        - {x: -10.96194, y: -60.25}
+        - {x: -7.961936, y: -61.25}
+        - {x: 12.03806, y: -61.25}
+        - {x: 22.03806, y: -46.25}
+        - {x: 35.03806, y: -18.25}
+        - {x: 37.03806, y: -5.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_39
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 146
+        width: 135
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4982394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -59.25}
+        - {x: -67.5, y: 57.75}
+        - {x: -46.5, y: -71.25}
+      - - {x: -49.5, y: 70.75}
+        - {x: -46.5, y: -71.25}
+        - {x: -67.5, y: 57.75}
+      - - {x: 44.5, y: 70.75}
+        - {x: -46.5, y: -71.25}
+        - {x: -49.5, y: 70.75}
+      - - {x: 20.5, y: -71.25}
+        - {x: -46.5, y: -71.25}
+        - {x: 44.5, y: 70.75}
+      - - {x: 67.5, y: -50.25}
+        - {x: 20.5, y: -71.25}
+        - {x: 44.5, y: 70.75}
+      - - {x: 67.5, y: 63.75}
+        - {x: 67.5, y: -50.25}
+        - {x: 44.5, y: 70.75}
+      physicsShape:
+      - - {x: 37.5, y: 9.749999}
+        - {x: 34.5, y: 29.75}
+        - {x: 30.5, y: 40.75}
+        - {x: 18.5, y: 53.75}
+        - {x: 7.5, y: 58.75}
+        - {x: -13.5, y: 58.75}
+        - {x: -35.5, y: 44.75}
+        - {x: -38.5, y: 34.75}
+        - {x: -43.5, y: 9.749999}
+        - {x: -43.5, y: -5.25}
+        - {x: -40.5, y: -21.25}
+        - {x: -19.5, y: -54.25}
+        - {x: -8.5, y: -61.25}
+        - {x: 8.5, y: -61.25}
+        - {x: 15.5, y: -56.25}
+        - {x: 33.5, y: -18.25}
+        - {x: 37.5, y: -10.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_36
+      rect:
+        serializedVersion: 2
+        x: 5.5
+        y: 153
+        width: 135
+        height: 134
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -58}
+        - {x: -67.5, y: 62}
+        - {x: -52.5, y: -67}
+      - - {x: -48.5, y: 67}
+        - {x: -52.5, y: -67}
+        - {x: -67.5, y: 62}
+      - - {x: 42.5, y: -67}
+        - {x: -52.5, y: -67}
+        - {x: -48.5, y: 67}
+      - - {x: 50.5, y: 67}
+        - {x: 42.5, y: -67}
+        - {x: -48.5, y: 67}
+      - - {x: 67.5, y: -58}
+        - {x: 42.5, y: -67}
+        - {x: 50.5, y: 67}
+      - - {x: 67.5, y: 56}
+        - {x: 67.5, y: -58}
+        - {x: 50.5, y: 67}
+      physicsShape:
+      - - {x: 29.5, y: -12}
+        - {x: 29.5, y: 5}
+        - {x: 27.5, y: 18}
+        - {x: 21.5, y: 31}
+        - {x: 14.5, y: 45}
+        - {x: 6.5, y: 51}
+        - {x: -6.5, y: 51}
+        - {x: -22.5, y: 39}
+        - {x: -30.5, y: 20}
+        - {x: -32.5, y: 4}
+        - {x: -32.5, y: -9}
+        - {x: -30.5, y: -20}
+        - {x: -25.5, y: -34}
+        - {x: -17.5, y: -46}
+        - {x: -7.5, y: -57}
+        - {x: -2.5, y: -58}
+        - {x: 4.5, y: -58}
+        - {x: 11.5, y: -52}
+        - {x: 21.5, y: -29}
+        - {x: 27.5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_30
+      rect:
+        serializedVersion: 2
+        x: 152.5
+        y: 296.0363
+        width: 135
+        height: 136.9637
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.4980422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -41.76814}
+        - {x: -67.5, y: 54.23186}
+        - {x: -36.5, y: -68.76814}
+      - - {x: -27.5, y: 68.23186}
+        - {x: -36.5, y: -68.76814}
+        - {x: -67.5, y: 54.23186}
+      - - {x: 31.5, y: -68.76814}
+        - {x: -36.5, y: -68.76814}
+        - {x: -27.5, y: 68.23186}
+      - - {x: 35.5, y: 68.23186}
+        - {x: 31.5, y: -68.76814}
+        - {x: -27.5, y: 68.23186}
+      - - {x: 43.5, y: -63.76814}
+        - {x: 31.5, y: -68.76814}
+        - {x: 35.5, y: 68.23186}
+      - - {x: 41.5, y: 63.23186}
+        - {x: 43.5, y: -63.76814}
+        - {x: 35.5, y: 68.23186}
+      - - {x: 67.5, y: 27.23186}
+        - {x: 43.5, y: -63.76814}
+        - {x: 41.5, y: 63.23186}
+      - - {x: 63.5, y: -35.76814}
+        - {x: 43.5, y: -63.76814}
+        - {x: 67.5, y: 27.23186}
+      - - {x: 67.5, y: -18.76814}
+        - {x: 63.5, y: -35.76814}
+        - {x: 67.5, y: 27.23186}
+      physicsShape:
+      - - {x: 25.5, y: 18.23186}
+        - {x: 16.5, y: 44.23186}
+        - {x: 5.5, y: 51.23186}
+        - {x: -5.5, y: 51.23186}
+        - {x: -14.5, y: 46.23186}
+        - {x: -24.5, y: 34.23186}
+        - {x: -30.5, y: 19.23186}
+        - {x: -31.5, y: -5.768143}
+        - {x: -30.5, y: -22.76814}
+        - {x: -20.5, y: -43.76814}
+        - {x: -9.5, y: -53.76814}
+        - {x: -3.5, y: -57.76814}
+        - {x: 5.5, y: -57.76814}
+        - {x: 10.5, y: -50.76814}
+        - {x: 17.5, y: -38.76814}
+        - {x: 25.5, y: -16.76814}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_29
+      rect:
+        serializedVersion: 2
+        x: 5.5
+        y: 298
+        width: 135
+        height: 134
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -67}
+        - {x: -67.5, y: 60}
+        - {x: 44.5, y: -67}
+      - - {x: -43.5, y: 67}
+        - {x: 44.5, y: -67}
+        - {x: -67.5, y: 60}
+      - - {x: 51.5, y: 67}
+        - {x: 44.5, y: -67}
+        - {x: -43.5, y: 67}
+      - - {x: 67.5, y: -49}
+        - {x: 44.5, y: -67}
+        - {x: 51.5, y: 67}
+      - - {x: 67.5, y: 40}
+        - {x: 67.5, y: -49}
+        - {x: 51.5, y: 67}
+      physicsShape:
+      - - {x: 38.5, y: 4}
+        - {x: 34.5, y: 23}
+        - {x: 21.5, y: 40}
+        - {x: 11.5, y: 45}
+        - {x: -6.5, y: 45}
+        - {x: -13.5, y: 44}
+        - {x: -19.5, y: 36}
+        - {x: -28.5, y: 18}
+        - {x: -31.5, y: -6}
+        - {x: -37.5, y: -23}
+        - {x: -37.5, y: -47}
+        - {x: -35.5, y: -53}
+        - {x: -31.5, y: -53}
+        - {x: -21.5, y: -47}
+        - {x: -4.5, y: -33}
+        - {x: 25.5, y: -21}
+        - {x: 38.5, y: -9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_3
+      rect:
+        serializedVersion: 2
+        x: 444.5
+        y: 883.5
+        width: 135
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.4963768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -36}
+        - {x: -67.25, y: 54}
+        - {x: -57.25, y: -69}
+      - - {x: -43.25, y: 69}
+        - {x: -57.25, y: -69}
+        - {x: -67.25, y: 54}
+      - - {x: 35.75, y: -69}
+        - {x: -57.25, y: -69}
+        - {x: -43.25, y: 69}
+      - - {x: 55.75, y: 69}
+        - {x: 35.75, y: -69}
+        - {x: -43.25, y: 69}
+      - - {x: 67.75, y: -39}
+        - {x: 35.75, y: -69}
+        - {x: 55.75, y: 69}
+      - - {x: 67.75, y: 37}
+        - {x: 67.75, y: -39}
+        - {x: 55.75, y: 69}
+      physicsShape:
+      - - {x: 38.75, y: 8}
+        - {x: 31.75, y: 36}
+        - {x: 28.75, y: 43}
+        - {x: 18.75, y: 52}
+        - {x: 7.75, y: 58}
+        - {x: -16.25, y: 58}
+        - {x: -31.25, y: 46}
+        - {x: -40.25, y: 28}
+        - {x: -40.25, y: 7}
+        - {x: -43.25, y: -6}
+        - {x: -43.25, y: -15}
+        - {x: -21.25, y: -51}
+        - {x: -15.25, y: -57}
+        - {x: 2.75, y: -57}
+        - {x: 7.75, y: -56}
+        - {x: 24.75, y: -37}
+        - {x: 31.75, y: -26}
+        - {x: 38.75, y: -10}
+        - {x: -28.25, y: 13}
+        - {x: -24.25, y: 10}
+        - {x: -24.25, y: 11}
+        - {x: -25.25, y: 10}
+        - {x: -25.25, y: 11}
+        - {x: 16.75, y: 13}
+        - {x: 16.75, y: 14}
+        - {x: 15.75, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_13
+      rect:
+        serializedVersion: 2
+        x: 737.5
+        y: 737.5
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.4981481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -28.25}
+        - {x: -67.5, y: 42.75}
+        - {x: -49.5, y: -67.25}
+      - - {x: -44.5, y: 67.75}
+        - {x: -49.5, y: -67.25}
+        - {x: -67.5, y: 42.75}
+      - - {x: 42.5, y: -67.25}
+        - {x: -49.5, y: -67.25}
+        - {x: -44.5, y: 67.75}
+      - - {x: 42.5, y: 67.75}
+        - {x: 42.5, y: -67.25}
+        - {x: -44.5, y: 67.75}
+      - - {x: 67.5, y: -37.25}
+        - {x: 42.5, y: -67.25}
+        - {x: 42.5, y: 67.75}
+      - - {x: 67.5, y: 55.75}
+        - {x: 67.5, y: -37.25}
+        - {x: 42.5, y: 67.75}
+      physicsShape:
+      - - {x: 27.5, y: -7.25}
+        - {x: 26.5, y: 3.75}
+        - {x: 26.5, y: 16.75}
+        - {x: 21.5, y: 33.75}
+        - {x: 16.5, y: 44.75}
+        - {x: 9.499999, y: 52.75}
+        - {x: -10.5, y: 52.75}
+        - {x: -24.5, y: 41.75}
+        - {x: -33.5, y: 19.75}
+        - {x: -36.5, y: 2.75}
+        - {x: -36.5, y: -11.25}
+        - {x: -33.5, y: -25.25}
+        - {x: -21.5, y: -43.25}
+        - {x: -12.5, y: -49.25}
+        - {x: -1.5, y: -56.25}
+        - {x: 10.5, y: -56.25}
+        - {x: 17.5, y: -50.25}
+        - {x: 21.5, y: -37.25}
+        - {x: 27.5, y: -18.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_41
+      rect:
+        serializedVersion: 2
+        x: 736.0761
+        y: 152
+        width: 136.9239
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4978963, y: 0.4981618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.78805, y: -46.25}
+        - {x: -68.78805, y: 31.75}
+        - {x: -57.78805, y: -62.25}
+      - - {x: -52.78805, y: 67.75}
+        - {x: -57.78805, y: -62.25}
+        - {x: -68.78805, y: 31.75}
+      - - {x: -44.78805, y: -68.25}
+        - {x: -57.78805, y: -62.25}
+        - {x: -52.78805, y: 67.75}
+      - - {x: 59.21195, y: 67.75}
+        - {x: -44.78805, y: -68.25}
+        - {x: -52.78805, y: 67.75}
+      - - {x: 48.21195, y: -68.25}
+        - {x: -44.78805, y: -68.25}
+        - {x: 59.21195, y: 67.75}
+      - - {x: 68.21195, y: -48.25}
+        - {x: 48.21195, y: -68.25}
+        - {x: 59.21195, y: 67.75}
+      - - {x: 68.21195, y: 63.75}
+        - {x: 68.21195, y: -48.25}
+        - {x: 59.21195, y: 67.75}
+      physicsShape:
+      - - {x: 26.21195, y: -22.25}
+        - {x: 37.21195, y: -13.25}
+        - {x: 38.21195, y: -10.25}
+        - {x: 38.21195, y: 7.75}
+        - {x: 32.21195, y: 22.75}
+        - {x: 25.21195, y: 36.75}
+        - {x: 10.21195, y: 44.75}
+        - {x: -8.788048, y: 44.75}
+        - {x: -19.78805, y: 35.75}
+        - {x: -29.78805, y: 16.75}
+        - {x: -30.78805, y: 4.75}
+        - {x: -37.78805, y: -22.25}
+        - {x: -37.78805, y: -50.25}
+        - {x: -33.78804, y: -52.25}
+        - {x: -30.78805, y: -52.25}
+        - {x: -7.788047, y: -34.25}
+        - {x: -3.788048, y: -34.25}
+        - {x: 7.211952, y: -30.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 883.5
+        width: 134
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -53.75}
+        - {x: -67, y: 50.25}
+        - {x: -49, y: -66.75}
+      - - {x: -28, y: 67.25}
+        - {x: -49, y: -66.75}
+        - {x: -67, y: 50.25}
+      - - {x: 60, y: -66.75}
+        - {x: -49, y: -66.75}
+        - {x: -28, y: 67.25}
+      - - {x: 59, y: 67.25}
+        - {x: 60, y: -66.75}
+        - {x: -28, y: 67.25}
+      - - {x: 67, y: 63.25}
+        - {x: 60, y: -66.75}
+        - {x: 59, y: 67.25}
+      - - {x: 67, y: -58.75}
+        - {x: 60, y: -66.75}
+        - {x: 67, y: 63.25}
+      physicsShape:
+      - - {x: 27, y: 19.25}
+        - {x: 17, y: 46.25}
+        - {x: 7, y: 53.25}
+        - {x: -5, y: 53.25}
+        - {x: -16, y: 48.25}
+        - {x: -25, y: 42.25}
+        - {x: -37, y: 12.25}
+        - {x: -37, y: -8.75}
+        - {x: -31, y: -29.75}
+        - {x: -19, y: -44.75}
+        - {x: -4, y: -55.75}
+        - {x: 9, y: -55.75}
+        - {x: 15, y: -50.75}
+        - {x: 21, y: -35.75}
+        - {x: 27, y: -21.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_6
+      rect:
+        serializedVersion: 2
+        x: 883.5
+        y: 883.5
+        width: 134
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.4962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.75, y: -46.5}
+        - {x: -66.75, y: 31.5}
+        - {x: -28.75, y: -67.5}
+      - - {x: -41.75, y: 63.5}
+        - {x: -28.75, y: -67.5}
+        - {x: -66.75, y: 31.5}
+      - - {x: -33.75, y: 67.5}
+        - {x: -28.75, y: -67.5}
+        - {x: -41.75, y: 63.5}
+      - - {x: 23.25, y: 67.5}
+        - {x: -28.75, y: -67.5}
+        - {x: -33.75, y: 67.5}
+      - - {x: 30.25, y: -67.5}
+        - {x: -28.75, y: -67.5}
+        - {x: 23.25, y: 67.5}
+      - - {x: 67.25, y: 51.5}
+        - {x: 30.25, y: -67.5}
+        - {x: 23.25, y: 67.5}
+      - - {x: 39.25, y: -66.5}
+        - {x: 30.25, y: -67.5}
+        - {x: 67.25, y: 51.5}
+      - - {x: 61.25, y: -40.5}
+        - {x: 39.25, y: -66.5}
+        - {x: 67.25, y: 51.5}
+      - - {x: 67.25, y: -31.5}
+        - {x: 61.25, y: -40.5}
+        - {x: 67.25, y: 51.5}
+      physicsShape:
+      - - {x: 28.25, y: -10.5}
+        - {x: 26.25, y: 3.5}
+        - {x: 28.25, y: 12.5}
+        - {x: 28.25, y: 19.5}
+        - {x: 17.25, y: 45.5}
+        - {x: 10.25, y: 52.5}
+        - {x: -8.75, y: 52.5}
+        - {x: -17.75, y: 46.5}
+        - {x: -28.75, y: 32.5}
+        - {x: -35.75, y: 7.5}
+        - {x: -35.75, y: -9.5}
+        - {x: -31.75, y: -26.5}
+        - {x: -24.75, y: -38.5}
+        - {x: -7.75, y: -55.5}
+        - {x: 0.25, y: -56.5}
+        - {x: 10.25, y: -56.5}
+        - {x: 17.25, y: -51.5}
+        - {x: 25.25, y: -28.5}
+        - {x: 28.25, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_7
+      rect:
+        serializedVersion: 2
+        x: 5.5
+        y: 736.5
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.4981481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.25, y: -42.25}
+        - {x: -67.25, y: 57.75}
+        - {x: -49.25, y: -67.25}
+      - - {x: -51.25, y: 67.75}
+        - {x: -49.25, y: -67.25}
+        - {x: -67.25, y: 57.75}
+      - - {x: 40.75, y: 67.75}
+        - {x: -49.25, y: -67.25}
+        - {x: -51.25, y: 67.75}
+      - - {x: 53.75, y: -67.25}
+        - {x: -49.25, y: -67.25}
+        - {x: 40.75, y: 67.75}
+      - - {x: 43.75, y: 66.75}
+        - {x: 53.75, y: -67.25}
+        - {x: 40.75, y: 67.75}
+      - - {x: 67.75, y: 40.75}
+        - {x: 53.75, y: -67.25}
+        - {x: 43.75, y: 66.75}
+      - - {x: 67.75, y: -31.25}
+        - {x: 53.75, y: -67.25}
+        - {x: 67.75, y: 40.75}
+      physicsShape:
+      - - {x: 30.75, y: 25.75}
+        - {x: 37.75, y: 33.75}
+        - {x: 37.75, y: 40.75}
+        - {x: 35.75, y: 44.75}
+        - {x: 24.75, y: 41.75}
+        - {x: 14.75, y: 54.75}
+        - {x: 10.75, y: 56.75}
+        - {x: -14.25, y: 56.75}
+        - {x: -32.25, y: 42.75}
+        - {x: -41.25, y: 15.75}
+        - {x: -41.25, y: -3.25}
+        - {x: -39.25, y: -13.25}
+        - {x: -32.25, y: -32.25}
+        - {x: -4.25, y: -57.25}
+        - {x: 10.75, y: -57.25}
+        - {x: 13.75, y: -56.25}
+        - {x: 18.75, y: -46.25}
+        - {x: 27.75, y: -16.25}
+        - {x: 30.75, y: -1.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_11
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 737.5
+        width: 134
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -39.25}
+        - {x: -67, y: 59.75}
+        - {x: -61, y: -67.25}
+      - - {x: -46, y: 67.75}
+        - {x: -61, y: -67.25}
+        - {x: -67, y: 59.75}
+      - - {x: 31, y: -67.25}
+        - {x: -61, y: -67.25}
+        - {x: -46, y: 67.75}
+      - - {x: 31, y: 67.75}
+        - {x: 31, y: -67.25}
+        - {x: -46, y: 67.75}
+      - - {x: 67, y: -54.25}
+        - {x: 31, y: -67.25}
+        - {x: 31, y: 67.75}
+      - - {x: 41, y: 65.75}
+        - {x: 67, y: -54.25}
+        - {x: 31, y: 67.75}
+      - - {x: 67, y: 53.75}
+        - {x: 67, y: -54.25}
+        - {x: 41, y: 65.75}
+      physicsShape:
+      - - {x: 35, y: 24.75}
+        - {x: 23, y: 38.75}
+        - {x: 7, y: 44.75}
+        - {x: -9, y: 44.75}
+        - {x: -20, y: 36.75}
+        - {x: -29, y: 14.75}
+        - {x: -29, y: -4.25}
+        - {x: -35, y: -14.25}
+        - {x: -38, y: -26.25}
+        - {x: -38, y: -43.25}
+        - {x: -37, y: -48.25}
+        - {x: -34, y: -52.25}
+        - {x: -31, y: -52.25}
+        - {x: 32, y: -16.25}
+        - {x: 38, y: -10.25}
+        - {x: 38, y: 3.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 152
+        width: 134
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -46.25}
+        - {x: -67, y: 35.75}
+        - {x: -35, y: -68.25}
+      - - {x: -35, y: 67.75}
+        - {x: -35, y: -68.25}
+        - {x: -67, y: 35.75}
+      - - {x: 38, y: -68.25}
+        - {x: -35, y: -68.25}
+        - {x: -35, y: 67.75}
+      - - {x: 44, y: 67.75}
+        - {x: 38, y: -68.25}
+        - {x: -35, y: 67.75}
+      - - {x: 60, y: -63.25}
+        - {x: 38, y: -68.25}
+        - {x: 44, y: 67.75}
+      - - {x: 67, y: 26.75}
+        - {x: 60, y: -63.25}
+        - {x: 44, y: 67.75}
+      - - {x: 67, y: -20.25}
+        - {x: 60, y: -63.25}
+        - {x: 67, y: 26.75}
+      physicsShape:
+      - - {x: 34, y: 20.75}
+        - {x: 37, y: 30.75}
+        - {x: 37, y: 40.75}
+        - {x: 33, y: 42.75}
+        - {x: 20, y: 48.75}
+        - {x: 9, y: 55.75}
+        - {x: -13, y: 55.75}
+        - {x: -25, y: 49.75}
+        - {x: -37, y: 33.75}
+        - {x: -41, y: 16.75}
+        - {x: -41, y: -8.25}
+        - {x: -40, y: -14.25}
+        - {x: -34, y: -29.25}
+        - {x: -11, y: -56.25}
+        - {x: -1, y: -58.25}
+        - {x: 11, y: -58.25}
+        - {x: 16, y: -53.25}
+        - {x: 28, y: -21.25}
+        - {x: 35, y: -7.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_10
+      rect:
+        serializedVersion: 2
+        x: 298.5
+        y: 737
+        width: 135
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -69}
+        - {x: -67.5, y: 46}
+        - {x: 67.5, y: -69}
+      - - {x: -58.5, y: 69}
+        - {x: 67.5, y: -69}
+        - {x: -67.5, y: 46}
+      - - {x: 28.5, y: 69}
+        - {x: 67.5, y: -69}
+        - {x: -58.5, y: 69}
+      - - {x: 39.5, y: 58}
+        - {x: 67.5, y: -69}
+        - {x: 28.5, y: 69}
+      - - {x: 56.5, y: 39}
+        - {x: 67.5, y: -69}
+        - {x: 39.5, y: 58}
+      - - {x: 58.5, y: 37}
+        - {x: 67.5, y: -69}
+        - {x: 56.5, y: 39}
+      - - {x: 67.5, y: 26}
+        - {x: 67.5, y: -69}
+        - {x: 58.5, y: 37}
+      physicsShape:
+      - - {x: 32.5, y: 37}
+        - {x: 25.5, y: 48}
+        - {x: 9.499999, y: 58}
+        - {x: -15.5, y: 58}
+        - {x: -33.5, y: 44}
+        - {x: -39.5, y: 27}
+        - {x: -39.5, y: 7}
+        - {x: -44.5, y: -4}
+        - {x: -44.5, y: -15}
+        - {x: -20.5, y: -51}
+        - {x: -15.5, y: -57}
+        - {x: 2.5, y: -57}
+        - {x: 7.5, y: -56}
+        - {x: 21.5, y: -43}
+        - {x: 38.5, y: -14}
+        - {x: 38.5, y: 9}
+        - {x: -28.5, y: 13}
+        - {x: -25.5, y: 11}
+        - {x: -27.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_33
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 291.5
+        width: 134
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4964789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -24}
+        - {x: -67, y: 48}
+        - {x: -50, y: -68}
+      - - {x: -52, y: 71}
+        - {x: -50, y: -68}
+        - {x: -67, y: 48}
+      - - {x: 48, y: 71}
+        - {x: -50, y: -68}
+        - {x: -52, y: 71}
+      - - {x: -40, y: -71}
+        - {x: -50, y: -68}
+        - {x: 48, y: 71}
+      - - {x: 61, y: -71}
+        - {x: -40, y: -71}
+        - {x: 48, y: 71}
+      - - {x: 67, y: 64}
+        - {x: 61, y: -71}
+        - {x: 48, y: 71}
+      - - {x: 67, y: -39}
+        - {x: 61, y: -71}
+        - {x: 67, y: 64}
+      physicsShape:
+      - - {x: 38, y: 15}
+        - {x: 30, y: 45}
+        - {x: 19, y: 54}
+        - {x: 11, y: 59}
+        - {x: -9.999999, y: 59}
+        - {x: -18, y: 58}
+        - {x: -30, y: 49}
+        - {x: -38, y: 37}
+        - {x: -44, y: 11}
+        - {x: -44, y: -7}
+        - {x: -34, y: -31}
+        - {x: -17, y: -53}
+        - {x: -14, y: -61}
+        - {x: 13, y: -61}
+        - {x: 15, y: -55}
+        - {x: 30, y: -29}
+        - {x: 38, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_31
+      rect:
+        serializedVersion: 2
+        x: 298.5
+        y: 298.5
+        width: 135
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.4962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -49.5}
+        - {x: -67.5, y: 51.5}
+        - {x: -33.5, y: -67.5}
+      - - {x: -44.5, y: 67.5}
+        - {x: -33.5, y: -67.5}
+        - {x: -67.5, y: 51.5}
+      - - {x: 27.5, y: 67.5}
+        - {x: -33.5, y: -67.5}
+        - {x: -44.5, y: 67.5}
+      - - {x: 39.5, y: -67.5}
+        - {x: -33.5, y: -67.5}
+        - {x: 27.5, y: 67.5}
+      - - {x: 60.5, y: 60.5}
+        - {x: 39.5, y: -67.5}
+        - {x: 27.5, y: 67.5}
+      - - {x: 60.5, y: -39.5}
+        - {x: 39.5, y: -67.5}
+        - {x: 60.5, y: 60.5}
+      - - {x: 65.5, y: -31.5}
+        - {x: 60.5, y: -39.5}
+        - {x: 60.5, y: 60.5}
+      - - {x: 67.5, y: 41.5}
+        - {x: 65.5, y: -31.5}
+        - {x: 60.5, y: 60.5}
+      - - {x: 67.5, y: -23.5}
+        - {x: 65.5, y: -31.5}
+        - {x: 67.5, y: 41.5}
+      physicsShape:
+      - - {x: 29.5, y: 2.5}
+        - {x: 28.5, y: 6.5}
+        - {x: 27.5, y: 17.5}
+        - {x: 21.5, y: 36.5}
+        - {x: 16.5, y: 45.5}
+        - {x: 7.5, y: 52.5}
+        - {x: -9.5, y: 52.5}
+        - {x: -25.5, y: 39.5}
+        - {x: -29.5, y: 29.5}
+        - {x: -35.5, y: 8.5}
+        - {x: -37.5, y: -3.5}
+        - {x: -37.5, y: -9.5}
+        - {x: -34.5, y: -21.5}
+        - {x: -24.5, y: -38.5}
+        - {x: -8.5, y: -55.5}
+        - {x: -3.5, y: -56.5}
+        - {x: 9.499999, y: -56.5}
+        - {x: 16.5, y: -51.5}
+        - {x: 28.5, y: -18.5}
+        - {x: 29.5, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 731
+        width: 134
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -35}
+        - {x: -67, y: 37}
+        - {x: -22, y: -70}
+      - - {x: -51, y: 70}
+        - {x: -22, y: -70}
+        - {x: -67, y: 37}
+      - - {x: 28, y: 70}
+        - {x: -22, y: -70}
+        - {x: -51, y: 70}
+      - - {x: 32, y: -70}
+        - {x: -22, y: -70}
+        - {x: 28, y: 70}
+      - - {x: 67, y: 50}
+        - {x: 32, y: -70}
+        - {x: 28, y: 70}
+      - - {x: 67, y: -31}
+        - {x: 32, y: -70}
+        - {x: 67, y: 50}
+      physicsShape:
+      - - {x: 37, y: 13}
+        - {x: 35, y: 36}
+        - {x: 20, y: 55}
+        - {x: 13, y: 59}
+        - {x: -9, y: 59}
+        - {x: -21, y: 57}
+        - {x: -32, y: 48}
+        - {x: -41, y: 30}
+        - {x: -44, y: 8}
+        - {x: -44, y: -3}
+        - {x: -42, y: -17}
+        - {x: -19, y: -53}
+        - {x: -9, y: -61}
+        - {x: 9.999999, y: -61}
+        - {x: 16, y: -55}
+        - {x: 36, y: -12}
+        - {x: 37, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_16
+      rect:
+        serializedVersion: 2
+        x: 152.5
+        y: 590.5
+        width: 135
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.4981752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -51.25}
+        - {x: -67.5, y: 40.75}
+        - {x: -45.5, y: -68.25}
+      - - {x: -51.5, y: 68.75}
+        - {x: -45.5, y: -68.25}
+        - {x: -67.5, y: 40.75}
+      - - {x: 41.5, y: 68.75}
+        - {x: -45.5, y: -68.25}
+        - {x: -51.5, y: 68.75}
+      - - {x: 28.5, y: -68.25}
+        - {x: -45.5, y: -68.25}
+        - {x: 41.5, y: 68.75}
+      - - {x: 41.5, y: -65.25}
+        - {x: 28.5, y: -68.25}
+        - {x: 41.5, y: 68.75}
+      - - {x: 67.5, y: -30.25}
+        - {x: 41.5, y: -65.25}
+        - {x: 41.5, y: 68.75}
+      - - {x: 67.5, y: 53.75}
+        - {x: 67.5, y: -30.25}
+        - {x: 41.5, y: 68.75}
+      physicsShape:
+      - - {x: 37.5, y: 12.75}
+        - {x: 29.5, y: 43.75}
+        - {x: 11.5, y: 59.75}
+        - {x: -16.5, y: 59.75}
+        - {x: -23.5, y: 53.75}
+        - {x: -35.5, y: 40.75}
+        - {x: -38.5, y: 28.75}
+        - {x: -41.5, y: 4.75}
+        - {x: -44.5, y: -4.25}
+        - {x: -44.5, y: -14.25}
+        - {x: -22.5, y: -49.25}
+        - {x: -13.5, y: -56.25}
+        - {x: 2.5, y: -56.25}
+        - {x: 8.5, y: -53.25}
+        - {x: 25.5, y: -34.25}
+        - {x: 37.5, y: -10.25}
+        - {x: -27.5, y: 12.75}
+        - {x: -25.5, y: 10.75}
+        - {x: -25.5, y: 11.75}
+        - {x: -27.5, y: 11.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_4
+      rect:
+        serializedVersion: 2
+        x: 591.5
+        y: 883.5
+        width: 134
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.4962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.75, y: -58.5}
+        - {x: -66.75, y: 36.5}
+        - {x: -50.75, y: -67.5}
+      - - {x: -45.75, y: 67.5}
+        - {x: -50.75, y: -67.5}
+        - {x: -66.75, y: 36.5}
+      - - {x: 46.25, y: -67.5}
+        - {x: -50.75, y: -67.5}
+        - {x: -45.75, y: 67.5}
+      - - {x: 22.25, y: 67.5}
+        - {x: 46.25, y: -67.5}
+        - {x: -45.75, y: 67.5}
+      - - {x: 41.25, y: 63.5}
+        - {x: 46.25, y: -67.5}
+        - {x: 22.25, y: 67.5}
+      - - {x: 67.25, y: 26.5}
+        - {x: 46.25, y: -67.5}
+        - {x: 41.25, y: 63.5}
+      - - {x: 61.25, y: -35.5}
+        - {x: 46.25, y: -67.5}
+        - {x: 67.25, y: 26.5}
+      - - {x: 67.25, y: -21.5}
+        - {x: 61.25, y: -35.5}
+        - {x: 67.25, y: 26.5}
+      physicsShape:
+      - - {x: 38.25, y: 8.5}
+        - {x: 35.25, y: 21.5}
+        - {x: 23.25, y: 39.5}
+        - {x: 13.25, y: 44.5}
+        - {x: -6.75, y: 44.5}
+        - {x: -13.75, y: 43.5}
+        - {x: -22.75, y: 30.5}
+        - {x: -28.75, y: 19.5}
+        - {x: -27.75, y: 0.5}
+        - {x: -37.75, y: -20.5}
+        - {x: -37.75, y: -48.5}
+        - {x: -36.75, y: -52.5}
+        - {x: -29.75, y: -52.5}
+        - {x: -22.75, y: -49.5}
+        - {x: -11.75, y: -36.5}
+        - {x: 34.25, y: -14.5}
+        - {x: 38.25, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 135
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4981481, y: 0.4981618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.75, y: -51.25}
+        - {x: -67.75, y: 49.75}
+        - {x: -56.75, y: -68.25}
+      - - {x: -32.75, y: 67.75}
+        - {x: -56.75, y: -68.25}
+        - {x: -67.75, y: 49.75}
+      - - {x: 45.25, y: -68.25}
+        - {x: -56.75, y: -68.25}
+        - {x: -32.75, y: 67.75}
+      - - {x: 42.25, y: 67.75}
+        - {x: 45.25, y: -68.25}
+        - {x: -32.75, y: 67.75}
+      - - {x: 65.25, y: 43.75}
+        - {x: 45.25, y: -68.25}
+        - {x: 42.25, y: 67.75}
+      - - {x: 67.25, y: -33.25}
+        - {x: 45.25, y: -68.25}
+        - {x: 65.25, y: 43.75}
+      - - {x: 67.25, y: 32.75}
+        - {x: 67.25, y: -33.25}
+        - {x: 65.25, y: 43.75}
+      physicsShape:
+      - - {x: 31.25, y: 19.75}
+        - {x: 36.25, y: 33.75}
+        - {x: 36.25, y: 41.75}
+        - {x: 31.25, y: 42.75}
+        - {x: 23.25, y: 40.75}
+        - {x: 14.25, y: 54.75}
+        - {x: 6.25, y: 55.75}
+        - {x: -15.75, y: 55.75}
+        - {x: -34.75, y: 40.75}
+        - {x: -39.75, y: 27.75}
+        - {x: -41.75, y: 9.749999}
+        - {x: -41.75, y: -15.25}
+        - {x: -27.75, y: -39.25}
+        - {x: -10.75, y: -53.25}
+        - {x: -4.75, y: -57.25}
+        - {x: -1.75, y: -58.25}
+        - {x: 11.25, y: -58.25}
+        - {x: 20.25, y: -50.25}
+        - {x: 22.25, y: -31.25}
+        - {x: 33.25, y: -4.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_34
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 298
+        width: 135
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -36.25}
+        - {x: -67.5, y: 40.75}
+        - {x: -41.5, y: -66.25}
+      - - {x: -31.5, y: 68.75}
+        - {x: -41.5, y: -66.25}
+        - {x: -67.5, y: 40.75}
+      - - {x: -33.5, y: -69.25}
+        - {x: -41.5, y: -66.25}
+        - {x: -31.5, y: 68.75}
+      - - {x: 46.5, y: -69.25}
+        - {x: -33.5, y: -69.25}
+        - {x: -31.5, y: 68.75}
+      - - {x: 26.5, y: 68.75}
+        - {x: 46.5, y: -69.25}
+        - {x: -31.5, y: 68.75}
+      - - {x: 45.5, y: 63.75}
+        - {x: 46.5, y: -69.25}
+        - {x: 26.5, y: 68.75}
+      - - {x: 67.5, y: 24.75}
+        - {x: 46.5, y: -69.25}
+        - {x: 45.5, y: 63.75}
+      - - {x: 67.5, y: -26.25}
+        - {x: 46.5, y: -69.25}
+        - {x: 67.5, y: 24.75}
+      physicsShape:
+      - - {x: 38.5, y: 9.749999}
+        - {x: 32.5, y: 36.75}
+        - {x: 26.5, y: 47.75}
+        - {x: 8.5, y: 57.75}
+        - {x: -14.5, y: 57.75}
+        - {x: -20.5, y: 53.75}
+        - {x: -32.5, y: 42.75}
+        - {x: -40.5, y: 25.75}
+        - {x: -40.5, y: 5.75}
+        - {x: -43.5, y: -6.25}
+        - {x: -43.5, y: -16.25}
+        - {x: -32.5, y: -34.25}
+        - {x: -22.5, y: -52.25}
+        - {x: -12.5, y: -58.25}
+        - {x: 4.5, y: -58.25}
+        - {x: 27.5, y: -36.25}
+        - {x: 35.5, y: -19.25}
+        - {x: 38.5, y: -10.25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152.5
+        width: 135.9239
+        height: 136
+      alignment: 9
+      pivot: {x: 0.50028, y: 0.4981618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.96194, y: -54.75}
+        - {x: -67.96194, y: 36.25}
+        - {x: -53.96194, y: -67.75}
+      - - {x: -47.96194, y: 68.25}
+        - {x: -53.96194, y: -67.75}
+        - {x: -67.96194, y: 36.25}
+      - - {x: 54.03806, y: -67.75}
+        - {x: -53.96194, y: -67.75}
+        - {x: -47.96194, y: 68.25}
+      - - {x: 40.03806, y: 68.25}
+        - {x: 54.03806, y: -67.75}
+        - {x: -47.96194, y: 68.25}
+      - - {x: 68.03806, y: 35.25}
+        - {x: 54.03806, y: -67.75}
+        - {x: 40.03806, y: 68.25}
+      - - {x: 68.03806, y: -25.75}
+        - {x: 54.03806, y: -67.75}
+        - {x: 68.03806, y: 35.25}
+      physicsShape:
+      - - {x: 29.03806, y: 3.25}
+        - {x: 27.03806, y: 18.25}
+        - {x: 23.03806, y: 32.25}
+        - {x: 11.03806, y: 51.25}
+        - {x: 5.038063, y: 53.25}
+        - {x: -6.961937, y: 53.25}
+        - {x: -24.96194, y: 43.25}
+        - {x: -27.96194, y: 37.25}
+        - {x: -37.96194, y: 9.25}
+        - {x: -37.96194, y: -6.75}
+        - {x: -33.96194, y: -24.75}
+        - {x: -26.96194, y: -35.75}
+        - {x: -20.96194, y: -44.75}
+        - {x: -3.961937, y: -55.75}
+        - {x: 10.03806, y: -55.75}
+        - {x: 19.03806, y: -45.75}
+        - {x: 28.03806, y: -18.75}
+        - {x: 29.03806, y: -9.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_15
+      rect:
+        serializedVersion: 2
+        x: 6.5
+        y: 583.5
+        width: 134
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4981343, y: 0.4964789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.75, y: -49}
+        - {x: -66.75, y: 52}
+        - {x: -27.75, y: -70}
+      - - {x: -38.75, y: 71}
+        - {x: -27.75, y: -70}
+        - {x: -66.75, y: 52}
+      - - {x: 23.25, y: 71}
+        - {x: -27.75, y: -70}
+        - {x: -38.75, y: 71}
+      - - {x: -26.75, y: -71}
+        - {x: -27.75, y: -70}
+        - {x: 23.25, y: 71}
+      - - {x: 32.25, y: -71}
+        - {x: -26.75, y: -71}
+        - {x: 23.25, y: 71}
+      - - {x: 67.25, y: 57}
+        - {x: 32.25, y: -71}
+        - {x: 23.25, y: 71}
+      - - {x: 67.25, y: -37}
+        - {x: 32.25, y: -71}
+        - {x: 67.25, y: 57}
+      physicsShape:
+      - - {x: 30.25, y: 42}
+        - {x: 19.25, y: 54}
+        - {x: 11.25, y: 59}
+        - {x: -8.75, y: 59}
+        - {x: -17.75, y: 58}
+        - {x: -29.75, y: 51}
+        - {x: -41.75, y: 30}
+        - {x: -42.75, y: 10}
+        - {x: -42.75, y: -9}
+        - {x: -39.75, y: -17}
+        - {x: -32.75, y: -31}
+        - {x: -30.75, y: -38}
+        - {x: -9.75, y: -61}
+        - {x: 11.25, y: -61}
+        - {x: 37.25, y: -15}
+        - {x: 37.25, y: 15}
+        - {x: 34.25, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_48
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 6
+        width: 135
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -33}
+        - {x: -67.5, y: 45}
+        - {x: -53.5, y: -67}
+      - - {x: -29.5, y: 67}
+        - {x: -53.5, y: -67}
+        - {x: -67.5, y: 45}
+      - - {x: 63.5, y: -67}
+        - {x: -53.5, y: -67}
+        - {x: -29.5, y: 67}
+      - - {x: 67.5, y: 67}
+        - {x: 63.5, y: -67}
+        - {x: -29.5, y: 67}
+      - - {x: 67.5, y: -53}
+        - {x: 63.5, y: -67}
+        - {x: 67.5, y: 67}
+      physicsShape:
+      - - {x: 29.5, y: -11}
+        - {x: 29.5, y: 6}
+        - {x: 27.5, y: 18}
+        - {x: 19.5, y: 35}
+        - {x: 14.5, y: 44}
+        - {x: 6.5, y: 51}
+        - {x: -7.5, y: 51}
+        - {x: -20.5, y: 40}
+        - {x: -23.5, y: 33}
+        - {x: -30.5, y: 20}
+        - {x: -32.5, y: 6}
+        - {x: -32.5, y: -8}
+        - {x: -25.5, y: -34}
+        - {x: -17.5, y: -46}
+        - {x: -9.5, y: -56}
+        - {x: -1.5, y: -58}
+        - {x: 6.5, y: -58}
+        - {x: 9.5, y: -55}
+        - {x: 22.5, y: -30}
+        - {x: 28.5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_47
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 6
+        width: 134
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -46}
+        - {x: -67, y: 45}
+        - {x: -58, y: -67}
+      - - {x: -43, y: 64}
+        - {x: -58, y: -67}
+        - {x: -67, y: 45}
+      - - {x: 29, y: -67}
+        - {x: -58, y: -67}
+        - {x: -43, y: 64}
+      - - {x: -32, y: 67}
+        - {x: 29, y: -67}
+        - {x: -43, y: 64}
+      - - {x: 45, y: 67}
+        - {x: 29, y: -67}
+        - {x: -32, y: 67}
+      - - {x: 67, y: -53}
+        - {x: 29, y: -67}
+        - {x: 45, y: 67}
+      - - {x: 67, y: 53}
+        - {x: 67, y: -53}
+        - {x: 45, y: 67}
+      physicsShape:
+      - - {x: 38, y: -9}
+        - {x: 38, y: 8}
+        - {x: 33, y: 21}
+        - {x: 27, y: 33}
+        - {x: 19, y: 40}
+        - {x: 13, y: 44}
+        - {x: 6, y: 45}
+        - {x: -8, y: 45}
+        - {x: -13, y: 43}
+        - {x: -22, y: 31}
+        - {x: -30, y: 19}
+        - {x: -32, y: -6}
+        - {x: -36, y: -17}
+        - {x: -38, y: -26}
+        - {x: -38, y: -49}
+        - {x: -34, y: -53}
+        - {x: -32, y: -53}
+        - {x: -7, y: -36}
+        - {x: 3, y: -30}
+        - {x: 7, y: -32}
+        - {x: 28, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Masks_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 445
+        width: 134
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4981343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -44.25}
+        - {x: -67, y: 30.75}
+        - {x: -45, y: -67.25}
+      - - {x: -50, y: 66.75}
+        - {x: -45, y: -67.25}
+        - {x: -67, y: 30.75}
+      - - {x: 31, y: 66.75}
+        - {x: -45, y: -67.25}
+        - {x: -50, y: 66.75}
+      - - {x: 40, y: -67.25}
+        - {x: -45, y: -67.25}
+        - {x: 31, y: 66.75}
+      - - {x: 41, y: 65.75}
+        - {x: 40, y: -67.25}
+        - {x: 31, y: 66.75}
+      - - {x: 67, y: -54.25}
+        - {x: 40, y: -67.25}
+        - {x: 41, y: 65.75}
+      - - {x: 67, y: 29.75}
+        - {x: 67, y: -54.25}
+        - {x: 41, y: 65.75}
+      physicsShape:
+      - - {x: 34, y: 22.75}
+        - {x: 22, y: 38.75}
+        - {x: 9.999999, y: 43.75}
+        - {x: -8, y: 43.75}
+        - {x: -14, y: 42.75}
+        - {x: -30, y: 18.75}
+        - {x: -30, y: -1.25}
+        - {x: -34, y: -16.25}
+        - {x: -37, y: -26.25}
+        - {x: -38, y: -28.25}
+        - {x: -38, y: -50.25}
+        - {x: -36, y: -53.25}
+        - {x: -31, y: -53.25}
+        - {x: 3, y: -31.25}
+        - {x: 29, y: -18.25}
+        - {x: 38, y: -12.25}
+        - {x: 38, y: 10.75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Masks_0: 21300000
+      Masks_1: 21300002
+      Masks_10: 21300018
+      Masks_11: 21300020
+      Masks_12: 21300022
+      Masks_13: 21300024
+      Masks_14: 21300026
+      Masks_15: 21300028
+      Masks_16: 21300030
+      Masks_17: 21300032
+      Masks_18: 21300034
+      Masks_19: 21300036
+      Masks_2: 21300004
+      Masks_20: 21300038
+      Masks_21: 21300040
+      Masks_22: 21300042
+      Masks_23: 21300044
+      Masks_24: 21300046
+      Masks_25: 21300048
+      Masks_26: 21300050
+      Masks_27: 21300052
+      Masks_28: 21300054
+      Masks_29: 21300056
+      Masks_3: 21300006
+      Masks_30: 21300058
+      Masks_31: 21300060
+      Masks_32: 21300062
+      Masks_33: 21300064
+      Masks_34: 21300066
+      Masks_35: 21300068
+      Masks_36: 21300070
+      Masks_37: 21300072
+      Masks_38: 21300074
+      Masks_39: 21300076
+      Masks_4: 21300008
+      Masks_40: 21300078
+      Masks_41: 21300080
+      Masks_42: 21300082
+      Masks_43: 21300084
+      Masks_44: 21300086
+      Masks_45: 21300088
+      Masks_46: 21300090
+      Masks_47: 21300092
+      Masks_48: 21300094
+      Masks_5: 21300010
+      Masks_6: 21300012
+      Masks_7: 21300014
+      Masks_8: 21300016
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

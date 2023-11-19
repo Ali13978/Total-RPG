@@ -1,0 +1,3382 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Cocoon@Idle 01"
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+        inSlope: {x: 7.152557E-06, y: 0.01651509, z: 0.01651509, w: -7.152557E-06}
+        outSlope: {x: 7.152557E-06, y: 0.01651509, z: 0.01651509, w: -7.152557E-06}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: {x: -0.7065924, y: 0.02696811, z: 0.02696811, w: 0.7065924}
+        inSlope: {x: 0.0006294256, y: 0.01650314, z: 0.01650314, w: -0.0006294256}
+        outSlope: {x: 0.0006294256, y: 0.01650314, z: 0.01650314, w: -0.0006294256}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: {x: -0.7050498, y: 0.05389697, z: 0.05389697, w: 0.7050498}
+        inSlope: {x: 0.001258851, y: 0.0164671, z: 0.0164671, w: -0.001258851}
+        outSlope: {x: 0.001258851, y: 0.0164671, z: 0.0164671, w: -0.001258851}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: -0.7049649, y: 0.0549947, z: 0.0549947, w: 0.7049649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Plane001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.331581E-07, y: 1, z: -1.331581E-07, w: -1.766984E-14}
+        inSlope: {x: -9.848122E-11, y: 0, z: 9.848122E-11, w: -0.0007390272}
+        outSlope: {x: -9.848122E-11, y: 0, z: 9.848122E-11, w: -0.0007390272}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: {x: 1.303659E-07, y: 0.9997846, z: -1.303659E-07, w: -0.02075346}
+        inSlope: {x: -1.978153E-10, y: -3.03984E-05, z: 1.978153E-10, w: -0.00145577}
+        outSlope: {x: -1.978153E-10, y: -3.03984E-05, z: 1.978153E-10, w: -0.00145577}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: {x: 1.331451E-07, y: 1, z: -1.331451E-07, w: -9.707222E-05}
+        inSlope: {x: 3.811355E-10, y: 0, z: -3.811355E-10, w: 0.002862235}
+        outSlope: {x: 3.811355E-10, y: 0, z: -3.811355E-10, w: 0.002862235}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 1.331581E-07, y: 1, z: -1.331581E-07, w: -1.766984E-14}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 2.84216E-14, y: -9.92089E-10, z: 2.842171E-14, w: 1}
+        inSlope: {x: -6.963638E-13, y: -0.00279898, z: 8.526659E-13, w: 0}
+        outSlope: {x: -6.963638E-13, y: -0.00279898, z: 8.526659E-13, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: {x: -2.665211E-15, y: -0.01294202, z: -3.463162E-17, w: 0.9999163}
+        inSlope: {x: -7.534356E-14, y: 0.03443331, z: -1.70627E-12, w: 0.0004452471}
+        outSlope: {x: -7.534356E-14, y: 0.03443331, z: -1.70627E-12, w: 0.0004452471}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: {x: 1.039515E-10, y: -3.72789E-09, z: -0.01896218, w: 0.9998202}
+        inSlope: {x: -3.450306E-09, y: 2.65518E-07, z: -0.03407096, w: -0.0006455189}
+        outSlope: {x: -3.450306E-09, y: 2.65518E-07, z: -0.03407096, w: -0.0006455189}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.1
+        value: {x: -7.736036E-11, y: 9.197564E-09, z: -0.007212861, w: 0.999974}
+        inSlope: {x: 3.824018E-09, y: -3.143833E-07, z: 0.05222354, w: 0.00037998}
+        outSlope: {x: 3.824018E-09, y: -3.143833E-07, z: 0.05222354, w: 0.00037998}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 2.84216E-14, y: -9.92089E-10, z: 2.842171E-14, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 2.911937E-14, y: 8.276223E-28, z: 2.842171E-14, w: 1}
+        inSlope: {x: 7.925112E-13, y: -0.006297668, z: -1.704953E-12, w: 0}
+        outSlope: {x: 7.925112E-13, y: -0.006297668, z: -1.704953E-12, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: {x: 1.173747E-05, y: -0.06396466, z: 0.0006223369, w: 0.997952}
+        inSlope: {x: 0.0002218437, y: 0.008012643, z: 0.01208346, w: 0.0005042547}
+        outSlope: {x: 0.0002218437, y: 0.008012643, z: 0.01208346, w: 0.0005042547}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.733334
+        value: {x: -0.0009100172, y: -0.009304214, z: 0.02526609, w: 0.9996371}
+        inSlope: {x: 0.001311497, y: 0.02801746, z: -0.05600983, w: 0.001676376}
+        outSlope: {x: 0.001311497, y: 0.02801746, z: -0.05600983, w: 0.001676376}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 2.911937E-14, y: 8.276223E-28, z: 2.842171E-14, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.1227877, y: 0.6963642, z: 0.1227877, w: 0.6963643}
+        inSlope: {x: 0.008685663, y: 0.03253877, z: 0.0241781, w: -0.03841102}
+        outSlope: {x: 0.008685663, y: 0.03253877, z: 0.0241781, w: -0.03841102}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: {x: 0.1202224, y: 0.7613766, z: 0.146276, w: 0.6200449}
+        inSlope: {x: -0.09959792, y: 0.3162656, z: 0.01445823, w: -0.3722334}
+        outSlope: {x: -0.09959792, y: 0.3162656, z: 0.01445823, w: -0.3722334}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: {x: 0.1050604, y: 0.7943942, z: 0.142877, w: 0.5809357}
+        inSlope: {x: 0.1029338, y: -0.1717776, z: 0.04164644, w: 0.2050478}
+        outSlope: {x: 0.1029338, y: -0.1717776, z: 0.04164644, w: 0.2050478}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: {x: 0.125019, y: 0.7067872, z: 0.1297985, w: 0.6840866}
+        inSlope: {x: -0.02939232, y: -0.1973632, z: -0.1159852, w: 0.2319807}
+        outSlope: {x: -0.02939232, y: -0.1973632, z: -0.1159852, w: 0.2319807}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.233333
+        value: {x: 0.1260195, y: 0.7155699, z: 0.1345647, w: 0.6737738}
+        inSlope: {x: 0.009335201, y: 0.1339959, z: 0.06527552, w: -0.1571898}
+        outSlope: {x: 0.009335201, y: 0.1339959, z: 0.06527552, w: -0.1571898}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.833333
+        value: {x: 0.1014429, y: 0.8000511, z: 0.1412852, w: 0.5741656}
+        inSlope: {x: -0.01710366, y: 0.02574831, z: -0.007855967, w: -0.03086686}
+        outSlope: {x: -0.01710366, y: 0.02574831, z: -0.007855967, w: -0.03086686}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.066667
+        value: {x: 0.1215882, y: 0.7567871, z: 0.1459834, w: 0.6254427}
+        inSlope: {x: 0.09536525, y: -0.3433883, z: -0.02938206, w: 0.4036916}
+        outSlope: {x: 0.09536525, y: -0.3433883, z: -0.02938206, w: 0.4036916}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: {x: 0.1227878, y: 0.6963642, z: 0.1227877, w: 0.6963643}
+        inSlope: {x: -0.004955609, y: -0.01862707, z: -0.01381697, w: 0.02198698}
+        outSlope: {x: -0.004955609, y: -0.01862707, z: -0.01381697, w: 0.02198698}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.233334
+        value: {x: 0.1227878, y: 0.6963642, z: 0.1227878, w: 0.6963643}
+        inSlope: {x: 7.823116E-07, y: 8.940705E-07, z: -5.587938E-07, w: 0}
+        outSlope: {x: 7.823116E-07, y: 8.940705E-07, z: -5.587938E-07, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 0.1227877, y: 0.6963642, z: 0.1227877, w: 0.6963643}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.05221703, y: 0.2961373, z: -0.1656113, w: 0.9392279}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 0.05221703, y: 0.2961373, z: -0.1656113, w: 0.9392279}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.291627, y: 0, z: -7.219114E-16}
+        inSlope: {x: 0.003189312, y: 0, z: 9.074877E-07}
+        outSlope: {x: 0.003189312, y: 0, z: 9.074877E-07}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: {x: -0.2915208, y: 0, z: 3.024959E-08}
+        inSlope: {x: 0.006207157, y: 0, z: 3.630661E-06}
+        outSlope: {x: 0.006207157, y: 0, z: 3.630661E-06}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: -0.2912134, y: 0, z: 2.42044E-07}
+        inSlope: {x: 0.01196982, y: -2.344601E-15, z: 1.179795E-05}
+        outSlope: {x: 0.01196982, y: -2.344601E-15, z: 1.179795E-05}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: -0.2907228, y: 0, z: 8.167803E-07}
+        inSlope: {x: 0.01720257, y: 2.270935E-08, z: 2.541319E-05}
+        outSlope: {x: 0.01720257, y: 2.270935E-08, z: 2.541319E-05}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: {x: -0.2892612, y: 1.513958E-09, z: 3.781867E-06}
+        inSlope: {x: 0.02612167, y: -4.541902E-08, z: 6.898709E-05}
+        outSlope: {x: 0.02612167, y: -4.541902E-08, z: 6.898709E-05}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8
+        value: {x: -0.2689867, y: 0, z: 0.000418246}
+        inSlope: {x: 0.006205745, y: -2.270947E-08, z: 0.001569369}
+        outSlope: {x: 0.006205745, y: -2.270947E-08, z: 0.001569369}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: {x: -0.2688803, y: -1.513958E-09, z: 0.0004727364}
+        inSlope: {x: 6.817514E-06, y: -2.270928E-08, z: 0.003513996}
+        outSlope: {x: 6.817514E-06, y: -2.270928E-08, z: 0.003513996}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: {x: -0.2689861, y: -1.513958E-09, z: 0.0006525159}
+        inSlope: {x: -0.006181555, y: 2.270945E-08, z: 0.008880793}
+        outSlope: {x: -0.006181555, y: 2.270945E-08, z: 0.008880793}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: {x: -0.2914824, y: 0, z: 0.02763706}
+        inSlope: {x: -0.006248309, y: 2.270932E-08, z: 0.007314106}
+        outSlope: {x: -0.006248309, y: 2.270932E-08, z: 0.007314106}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.866667
+        value: {x: -0.2916022, y: 0, z: 0.02665898}
+        inSlope: {x: -4.972707E-05, y: 0, z: -0.01054058}
+        outSlope: {x: -4.972707E-05, y: 0, z: -0.01054058}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: {x: -0.291627, y: 0, z: 3.287192E-05}
+        inSlope: {x: -5.639938E-15, y: 0, z: -0.001945549}
+        outSlope: {x: -5.639938E-15, y: 0, z: -0.001945549}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: -0.291627, y: 0, z: -7.219114E-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.3726986, y: 0, z: -7.219114E-16}
+        inSlope: {x: -0.1076974, y: -9.346174E-16, z: -0.003919397}
+        outSlope: {x: -0.1076974, y: -9.346174E-16, z: -0.003919397}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: {x: -0.3762884, y: 0, z: -0.0001306466}
+        inSlope: {x: -0.1108244, y: 2.27094E-08, z: -0.007660645}
+        outSlope: {x: -0.1108244, y: 2.27094E-08, z: -0.007660645}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7
+        value: {x: -0.4610685, y: 1.81675E-08, z: -0.03142644}
+        inSlope: {x: -0.09690532, y: 6.812753E-08, z: -0.05041702}
+        outSlope: {x: -0.09690532, y: 6.812753E-08, z: -0.05041702}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9666666
+        value: {x: -0.4768035, y: 4.844665E-08, z: -0.03995409}
+        inSlope: {x: -0.01344864, y: 1.365613E-07, z: -0.007660836}
+        outSlope: {x: -0.01344864, y: 1.365613E-07, z: -0.007660836}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -0.4770316, y: 5.147457E-08, z: -0.04008475}
+        inSlope: {x: 0.0009922566, y: 0.000101057, z: -0.001515262}
+        outSlope: {x: 0.0009922566, y: 0.000101057, z: -0.001515262}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.033333
+        value: {x: -0.4767375, y: 6.785559E-06, z: -0.04005509}
+        inSlope: {x: 0.01732766, y: 0.0003970397, z: 0.001759344}
+        outSlope: {x: 0.01732766, y: 0.0003970397, z: 0.001759344}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.3
+        value: {x: -0.3178742, y: 0.003642849, z: -0.01401137}
+        inSlope: {x: 0.01734357, y: 0.0003970142, z: 0.02507424}
+        outSlope: {x: 0.01734357, y: 0.0003970142, z: 0.02507424}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.7
+        value: {x: -0.3296838, y: 0.0025374, z: -0.005672549}
+        inSlope: {x: -0.05854544, y: -0.005076869, z: 0.01654692}
+        outSlope: {x: -0.05854544, y: -0.005076869, z: 0.01654692}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.166667
+        value: {x: -0.3622362, y: 0.0002703414, z: -0.0004532094}
+        inSlope: {x: -0.06883389, y: -0.003033377, z: 0.005261233}
+        outSlope: {x: -0.06883389, y: -0.003033377, z: 0.005261233}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: {x: -0.3708021, y: 1.189517E-05, z: -1.913361E-05}
+        inSlope: {x: -0.05854721, y: -0.0006974925, z: 0.00113187}
+        outSlope: {x: -0.05854721, y: -0.0006974925, z: 0.00113187}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: -0.3726986, y: 0, z: -7.219114E-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.1049068, y: 0.01446037, z: -2.183456E-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 0.1049068, y: 0.01446037, z: -2.183456E-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.5099855, y: 7.56979E-09, z: 0.04294553}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: -0.5099855, y: 7.56979E-09, z: 0.04294553}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.2454582, y: -0.2041902, z: 0.2061641}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: -0.2454582, y: -0.2041902, z: 0.2061641}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9333334
+        value: {x: 1, y: 1, z: 0.9999999}
+        inSlope: {x: -1.788138E-06, y: 0, z: -8.940689E-07}
+        outSlope: {x: -1.788138E-06, y: 0, z: -8.940689E-07}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: {x: 1.056791, y: 1.056791, z: 1.05679}
+        inSlope: {x: 0.7350676, y: 0.7350676, z: 0.7350712}
+        outSlope: {x: 0.7350676, y: 0.7350676, z: 0.7350712}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4
+        value: {x: 1.25155, y: 1.25155, z: 1.25155}
+        inSlope: {x: 0.04945461, y: 0.04945461, z: 0.04945461}
+        outSlope: {x: 0.04945461, y: 0.04945461, z: 0.04945461}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.2
+        value: {x: 1.013934, y: 1.013934, z: 1.013934}
+        inSlope: {x: -0.1973196, y: -0.1973214, z: -0.1973196}
+        outSlope: {x: -0.1973196, y: -0.1973214, z: -0.1973196}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.433333
+        value: {x: 1.034006, y: 1.034006, z: 1.034006}
+        inSlope: {x: 0.6114137, y: 0.6114155, z: 0.6114155}
+        outSlope: {x: 0.6114137, y: 0.6114155, z: 0.6114155}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.766667
+        value: {x: 1.25155, y: 1.25155, z: 1.25155}
+        inSlope: {x: 0.02591731, y: 0.02591731, z: 0.02591553}
+        outSlope: {x: 0.02591731, y: 0.02591731, z: 0.02591553}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: {x: 1.002509, y: 1.002509, z: 1.002509}
+        inSlope: {x: -0.1443888, y: -0.1443888, z: -0.1443852}
+        outSlope: {x: -0.1443888, y: -0.1443888, z: -0.1443852}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.9999999, y: 1, z: 1}
+        inSlope: {x: 0.1567411, y: 0.1567447, z: 0.1567411}
+        outSlope: {x: 0.1567411, y: 0.1567447, z: 0.1567411}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 1.144351, y: 1.144351, z: 1.144351}
+        inSlope: {x: 1.173759, y: 1.173758, z: 1.173761}
+        outSlope: {x: 1.173759, y: 1.173758, z: 1.173761}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: {x: 1.387371, y: 1.387371, z: 1.387371}
+        inSlope: {x: -0.6366457, y: -0.6366475, z: -0.6366528}
+        outSlope: {x: -0.6366457, y: -0.6366475, z: -0.6366528}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9666667
+        value: {x: 0.9999998, y: 1, z: 1}
+        inSlope: {x: -0.06497747, y: -0.06498283, z: -0.06497747}
+        outSlope: {x: -0.06497747, y: -0.06498283, z: -0.06497747}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 1.261349, y: 1.261349, z: 1.261349}
+        inSlope: {x: 0.6587875, y: 0.6587929, z: 0.6587839}
+        outSlope: {x: 0.6587875, y: 0.6587929, z: 0.6587839}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.866667
+        value: {x: 1.410087, y: 1.410087, z: 1.410087}
+        inSlope: {x: -0.06498471, y: -0.06497934, z: -0.06498471}
+        outSlope: {x: -0.06498471, y: -0.06497934, z: -0.06498471}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: {x: 0.9999999, y: 1, z: 1}
+        inSlope: {x: -0.08966901, y: -0.08967169, z: -0.08967348}
+        outSlope: {x: -0.08966901, y: -0.08967169, z: -0.08967348}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.7
+        value: {x: 0.9999999, y: 1, z: 1}
+        inSlope: {x: 2.682205E-06, y: 1.788154E-06, z: 1.788141E-06}
+        outSlope: {x: 2.682205E-06, y: 1.788154E-06, z: 1.788141E-06}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 0.9999999, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.011382, y: 1.011382, z: 1.011382}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 1.011382, y: 1.011382, z: 1.011382}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Plane001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+  m_FloatCurves:
+  m_PPtrCurves:
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_MuscleClipSize: 8764
+  m_MuscleClip:
+    serializedVersion: 3
+    m_DeltaPose:
+      m_RootX:
+        t: {x: 0, y: 0, z: 0}
+        q: {x: 0, y: 0, z: 0, w: 1}
+        s: {x: 1, y: 1, z: 1}
+      m_LookAtPosition: {x: 0, y: 0, z: 0}
+      m_LookAtWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_GoalArray:
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      m_LeftHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_RightHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      m_TDoFArray:
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+    m_StartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_StopX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_LeftFootStartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RightFootStartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_AverageSpeed: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 3344119758
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3169318875
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1068747653
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3974558754
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3344119758
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3169318875
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2126296259
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3887457657
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2126296259
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3974558754
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3887457657
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2126296259
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3887457657
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1068747653
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2951079958
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3974558754
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3344119758
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3169318875
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping:
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 
+    m_StartTime: 0
+    m_StopTime: 3.333333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+    m_HasGenericRootTransform: 0
+    m_HasMotionFloatCurves: 0
+    m_GenerateMotionCurves: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.291627
+        inSlope: 0.003189312
+        outSlope: 0.003189312
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.2915208
+        inSlope: 0.006207157
+        outSlope: 0.006207157
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.2912134
+        inSlope: 0.01196982
+        outSlope: 0.01196982
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.2907228
+        inSlope: 0.01720257
+        outSlope: 0.01720257
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.2892612
+        inSlope: 0.02612167
+        outSlope: 0.02612167
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8
+        value: -0.2689867
+        inSlope: 0.006205745
+        outSlope: 0.006205745
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: -0.2688803
+        inSlope: 6.817514E-06
+        outSlope: 6.817514E-06
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.2689861
+        inSlope: -0.006181555
+        outSlope: -0.006181555
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: -0.2914824
+        inSlope: -0.006248309
+        outSlope: -0.006248309
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.866667
+        value: -0.2916022
+        inSlope: -4.972707E-05
+        outSlope: -4.972707E-05
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: -0.291627
+        inSlope: -5.639938E-15
+        outSlope: -5.639938E-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -0.291627
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0
+        inSlope: -2.344601E-15
+        outSlope: -2.344601E-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0
+        inSlope: 2.270935E-08
+        outSlope: 2.270935E-08
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 1.513958E-09
+        inSlope: -4.541902E-08
+        outSlope: -4.541902E-08
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8
+        value: 0
+        inSlope: -2.270947E-08
+        outSlope: -2.270947E-08
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: -1.513958E-09
+        inSlope: -2.270928E-08
+        outSlope: -2.270928E-08
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.513958E-09
+        inSlope: 2.270945E-08
+        outSlope: 2.270945E-08
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: 0
+        inSlope: 2.270932E-08
+        outSlope: 2.270932E-08
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.866667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -7.219114E-16
+        inSlope: 9.074877E-07
+        outSlope: 9.074877E-07
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 3.024959E-08
+        inSlope: 3.630661E-06
+        outSlope: 3.630661E-06
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 2.42044E-07
+        inSlope: 1.179795E-05
+        outSlope: 1.179795E-05
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 8.167803E-07
+        inSlope: 2.541319E-05
+        outSlope: 2.541319E-05
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 3.781867E-06
+        inSlope: 6.898709E-05
+        outSlope: 6.898709E-05
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8
+        value: 0.000418246
+        inSlope: 0.001569369
+        outSlope: 0.001569369
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: 0.0004727364
+        inSlope: 0.003513996
+        outSlope: 0.003513996
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.0006525159
+        inSlope: 0.008880793
+        outSlope: 0.008880793
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: 0.02763706
+        inSlope: 0.007314106
+        outSlope: 0.007314106
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.866667
+        value: 0.02665898
+        inSlope: -0.01054058
+        outSlope: -0.01054058
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: 3.287192E-05
+        inSlope: -0.001945549
+        outSlope: -0.001945549
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -7.219114E-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.3726986
+        inSlope: -0.1076974
+        outSlope: -0.1076974
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.3762884
+        inSlope: -0.1108244
+        outSlope: -0.1108244
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7
+        value: -0.4610685
+        inSlope: -0.09690532
+        outSlope: -0.09690532
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9666666
+        value: -0.4768035
+        inSlope: -0.01344864
+        outSlope: -0.01344864
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: -0.4770316
+        inSlope: 0.0009922566
+        outSlope: 0.0009922566
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.033333
+        value: -0.4767375
+        inSlope: 0.01732766
+        outSlope: 0.01732766
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.3
+        value: -0.3178742
+        inSlope: 0.01734357
+        outSlope: 0.01734357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.7
+        value: -0.3296838
+        inSlope: -0.05854544
+        outSlope: -0.05854544
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.166667
+        value: -0.3622362
+        inSlope: -0.06883389
+        outSlope: -0.06883389
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: -0.3708021
+        inSlope: -0.05854721
+        outSlope: -0.05854721
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -0.3726986
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -9.346174E-16
+        outSlope: -9.346174E-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0
+        inSlope: 2.27094E-08
+        outSlope: 2.27094E-08
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7
+        value: 1.81675E-08
+        inSlope: 6.812753E-08
+        outSlope: 6.812753E-08
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9666666
+        value: 4.844665E-08
+        inSlope: 1.365613E-07
+        outSlope: 1.365613E-07
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 5.147457E-08
+        inSlope: 0.000101057
+        outSlope: 0.000101057
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.033333
+        value: 6.785559E-06
+        inSlope: 0.0003970397
+        outSlope: 0.0003970397
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.3
+        value: 0.003642849
+        inSlope: 0.0003970142
+        outSlope: 0.0003970142
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.7
+        value: 0.0025374
+        inSlope: -0.005076869
+        outSlope: -0.005076869
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.166667
+        value: 0.0002703414
+        inSlope: -0.003033377
+        outSlope: -0.003033377
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: 1.189517E-05
+        inSlope: -0.0006974925
+        outSlope: -0.0006974925
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -7.219114E-16
+        inSlope: -0.003919397
+        outSlope: -0.003919397
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.0001306466
+        inSlope: -0.007660645
+        outSlope: -0.007660645
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7
+        value: -0.03142644
+        inSlope: -0.05041702
+        outSlope: -0.05041702
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9666666
+        value: -0.03995409
+        inSlope: -0.007660836
+        outSlope: -0.007660836
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: -0.04008475
+        inSlope: -0.001515262
+        outSlope: -0.001515262
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.033333
+        value: -0.04005509
+        inSlope: 0.001759344
+        outSlope: 0.001759344
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.3
+        value: -0.01401137
+        inSlope: 0.02507424
+        outSlope: 0.02507424
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.7
+        value: -0.005672549
+        inSlope: 0.01654692
+        outSlope: 0.01654692
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.166667
+        value: -0.0004532094
+        inSlope: 0.005261233
+        outSlope: 0.005261233
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: -1.913361E-05
+        inSlope: 0.00113187
+        outSlope: 0.00113187
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -7.219114E-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.7071068
+        inSlope: 7.152557E-06
+        outSlope: 7.152557E-06
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: -0.7065924
+        inSlope: 0.0006294256
+        outSlope: 0.0006294256
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: -0.7050498
+        inSlope: 0.001258851
+        outSlope: 0.001258851
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -0.7049649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Plane001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0.01651509
+        outSlope: 0.01651509
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: 0.02696811
+        inSlope: 0.01650314
+        outSlope: 0.01650314
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: 0.05389697
+        inSlope: 0.0164671
+        outSlope: 0.0164671
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.0549947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Plane001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0.01651509
+        outSlope: 0.01651509
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: 0.02696811
+        inSlope: 0.01650314
+        outSlope: 0.01650314
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: 0.05389697
+        inSlope: 0.0164671
+        outSlope: 0.0164671
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.0549947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Plane001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7071068
+        inSlope: -7.152557E-06
+        outSlope: -7.152557E-06
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: 0.7065924
+        inSlope: -0.0006294256
+        outSlope: -0.0006294256
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: 0.7050498
+        inSlope: -0.001258851
+        outSlope: -0.001258851
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.7049649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Plane001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.331581E-07
+        inSlope: -9.848122E-11
+        outSlope: -9.848122E-11
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: 1.303659E-07
+        inSlope: -1.978153E-10
+        outSlope: -1.978153E-10
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: 1.331451E-07
+        inSlope: 3.811355E-10
+        outSlope: 3.811355E-10
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1.331581E-07
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: 0.9997846
+        inSlope: -3.03984E-05
+        outSlope: -3.03984E-05
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.331581E-07
+        inSlope: 9.848122E-11
+        outSlope: 9.848122E-11
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: -1.303659E-07
+        inSlope: 1.978153E-10
+        outSlope: 1.978153E-10
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: -1.331451E-07
+        inSlope: -3.811355E-10
+        outSlope: -3.811355E-10
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -1.331581E-07
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.766984E-14
+        inSlope: -0.0007390272
+        outSlope: -0.0007390272
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.633333
+        value: -0.02075346
+        inSlope: -0.00145577
+        outSlope: -0.00145577
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.266667
+        value: -9.707222E-05
+        inSlope: 0.002862235
+        outSlope: 0.002862235
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -1.766984E-14
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.84216E-14
+        inSlope: -6.963638E-13
+        outSlope: -6.963638E-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: -2.665211E-15
+        inSlope: -7.534356E-14
+        outSlope: -7.534356E-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 1.039515E-10
+        inSlope: -3.450306E-09
+        outSlope: -3.450306E-09
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.1
+        value: -7.736036E-11
+        inSlope: 3.824018E-09
+        outSlope: 3.824018E-09
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 2.84216E-14
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -9.92089E-10
+        inSlope: -0.00279898
+        outSlope: -0.00279898
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: -0.01294202
+        inSlope: 0.03443331
+        outSlope: 0.03443331
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: -3.72789E-09
+        inSlope: 2.65518E-07
+        outSlope: 2.65518E-07
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.1
+        value: 9.197564E-09
+        inSlope: -3.143833E-07
+        outSlope: -3.143833E-07
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -9.92089E-10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.842171E-14
+        inSlope: 8.526659E-13
+        outSlope: 8.526659E-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: -3.463162E-17
+        inSlope: -1.70627E-12
+        outSlope: -1.70627E-12
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: -0.01896218
+        inSlope: -0.03407096
+        outSlope: -0.03407096
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.1
+        value: -0.007212861
+        inSlope: 0.05222354
+        outSlope: 0.05222354
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 2.842171E-14
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 0.9999163
+        inSlope: 0.0004452471
+        outSlope: 0.0004452471
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 0.9998202
+        inSlope: -0.0006455189
+        outSlope: -0.0006455189
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.1
+        value: 0.999974
+        inSlope: 0.00037998
+        outSlope: 0.00037998
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.911937E-14
+        inSlope: 7.925112E-13
+        outSlope: 7.925112E-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: 1.173747E-05
+        inSlope: 0.0002218437
+        outSlope: 0.0002218437
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.733334
+        value: -0.0009100172
+        inSlope: 0.001311497
+        outSlope: 0.001311497
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 2.911937E-14
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 8.276223E-28
+        inSlope: -0.006297668
+        outSlope: -0.006297668
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: -0.06396466
+        inSlope: 0.008012643
+        outSlope: 0.008012643
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.733334
+        value: -0.009304214
+        inSlope: 0.02801746
+        outSlope: 0.02801746
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 8.276223E-28
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.842171E-14
+        inSlope: -1.704953E-12
+        outSlope: -1.704953E-12
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: 0.0006223369
+        inSlope: 0.01208346
+        outSlope: 0.01208346
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.733334
+        value: 0.02526609
+        inSlope: -0.05600983
+        outSlope: -0.05600983
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 2.842171E-14
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: 0.997952
+        inSlope: 0.0005042547
+        outSlope: 0.0005042547
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.733334
+        value: 0.9996371
+        inSlope: 0.001676376
+        outSlope: 0.001676376
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1227877
+        inSlope: 0.008685663
+        outSlope: 0.008685663
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.1202224
+        inSlope: -0.09959792
+        outSlope: -0.09959792
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: 0.1050604
+        inSlope: 0.1029338
+        outSlope: 0.1029338
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.125019
+        inSlope: -0.02939232
+        outSlope: -0.02939232
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.233333
+        value: 0.1260195
+        inSlope: 0.009335201
+        outSlope: 0.009335201
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.833333
+        value: 0.1014429
+        inSlope: -0.01710366
+        outSlope: -0.01710366
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.066667
+        value: 0.1215882
+        inSlope: 0.09536525
+        outSlope: 0.09536525
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 0.1227878
+        inSlope: -0.004955609
+        outSlope: -0.004955609
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.233334
+        value: 0.1227878
+        inSlope: 7.823116E-07
+        outSlope: 7.823116E-07
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.1227877
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6963642
+        inSlope: 0.03253877
+        outSlope: 0.03253877
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.7613766
+        inSlope: 0.3162656
+        outSlope: 0.3162656
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: 0.7943942
+        inSlope: -0.1717776
+        outSlope: -0.1717776
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.7067872
+        inSlope: -0.1973632
+        outSlope: -0.1973632
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.233333
+        value: 0.7155699
+        inSlope: 0.1339959
+        outSlope: 0.1339959
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.833333
+        value: 0.8000511
+        inSlope: 0.02574831
+        outSlope: 0.02574831
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.066667
+        value: 0.7567871
+        inSlope: -0.3433883
+        outSlope: -0.3433883
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 0.6963642
+        inSlope: -0.01862707
+        outSlope: -0.01862707
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.233334
+        value: 0.6963642
+        inSlope: 8.940705E-07
+        outSlope: 8.940705E-07
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.6963642
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1227877
+        inSlope: 0.0241781
+        outSlope: 0.0241781
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.146276
+        inSlope: 0.01445823
+        outSlope: 0.01445823
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: 0.142877
+        inSlope: 0.04164644
+        outSlope: 0.04164644
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.1297985
+        inSlope: -0.1159852
+        outSlope: -0.1159852
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.233333
+        value: 0.1345647
+        inSlope: 0.06527552
+        outSlope: 0.06527552
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.833333
+        value: 0.1412852
+        inSlope: -0.007855967
+        outSlope: -0.007855967
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.066667
+        value: 0.1459834
+        inSlope: -0.02938206
+        outSlope: -0.02938206
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 0.1227877
+        inSlope: -0.01381697
+        outSlope: -0.01381697
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.233334
+        value: 0.1227878
+        inSlope: -5.587938E-07
+        outSlope: -5.587938E-07
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.1227877
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6963643
+        inSlope: -0.03841102
+        outSlope: -0.03841102
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.6200449
+        inSlope: -0.3722334
+        outSlope: -0.3722334
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: 0.5809357
+        inSlope: 0.2050478
+        outSlope: 0.2050478
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.6840866
+        inSlope: 0.2319807
+        outSlope: 0.2319807
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.233333
+        value: 0.6737738
+        inSlope: -0.1571898
+        outSlope: -0.1571898
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.833333
+        value: 0.5741656
+        inSlope: -0.03086686
+        outSlope: -0.03086686
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.066667
+        value: 0.6254427
+        inSlope: 0.4036916
+        outSlope: 0.4036916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 0.6963643
+        inSlope: 0.02198698
+        outSlope: 0.02198698
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.233334
+        value: 0.6963643
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.6963643
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9333334
+        value: 1
+        inSlope: -1.788138E-06
+        outSlope: -1.788138E-06
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: 1.056791
+        inSlope: 0.7350676
+        outSlope: 0.7350676
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4
+        value: 1.25155
+        inSlope: 0.04945461
+        outSlope: 0.04945461
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.2
+        value: 1.013934
+        inSlope: -0.1973196
+        outSlope: -0.1973196
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.433333
+        value: 1.034006
+        inSlope: 0.6114137
+        outSlope: 0.6114137
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.766667
+        value: 1.25155
+        inSlope: 0.02591731
+        outSlope: 0.02591731
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: 1.002509
+        inSlope: -0.1443888
+        outSlope: -0.1443888
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: 1.056791
+        inSlope: 0.7350676
+        outSlope: 0.7350676
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4
+        value: 1.25155
+        inSlope: 0.04945461
+        outSlope: 0.04945461
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.2
+        value: 1.013934
+        inSlope: -0.1973214
+        outSlope: -0.1973214
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.433333
+        value: 1.034006
+        inSlope: 0.6114155
+        outSlope: 0.6114155
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.766667
+        value: 1.25155
+        inSlope: 0.02591731
+        outSlope: 0.02591731
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: 1.002509
+        inSlope: -0.1443888
+        outSlope: -0.1443888
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9333334
+        value: 0.9999999
+        inSlope: -8.940689E-07
+        outSlope: -8.940689E-07
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.1
+        value: 1.05679
+        inSlope: 0.7350712
+        outSlope: 0.7350712
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4
+        value: 1.25155
+        inSlope: 0.04945461
+        outSlope: 0.04945461
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.2
+        value: 1.013934
+        inSlope: -0.1973196
+        outSlope: -0.1973196
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.433333
+        value: 1.034006
+        inSlope: 0.6114155
+        outSlope: 0.6114155
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.766667
+        value: 1.25155
+        inSlope: 0.02591553
+        outSlope: 0.02591553
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.3
+        value: 1.002509
+        inSlope: -0.1443852
+        outSlope: -0.1443852
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999999
+        inSlope: 0.1567411
+        outSlope: 0.1567411
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.144351
+        inSlope: 1.173759
+        outSlope: 1.173759
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: 1.387371
+        inSlope: -0.6366457
+        outSlope: -0.6366457
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9666667
+        value: 0.9999998
+        inSlope: -0.06497747
+        outSlope: -0.06497747
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 1.261349
+        inSlope: 0.6587875
+        outSlope: 0.6587875
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.866667
+        value: 1.410087
+        inSlope: -0.06498471
+        outSlope: -0.06498471
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 0.9999999
+        inSlope: -0.08966901
+        outSlope: -0.08966901
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.7
+        value: 0.9999999
+        inSlope: 2.682205E-06
+        outSlope: 2.682205E-06
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0.1567447
+        outSlope: 0.1567447
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.144351
+        inSlope: 1.173758
+        outSlope: 1.173758
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: 1.387371
+        inSlope: -0.6366475
+        outSlope: -0.6366475
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9666667
+        value: 1
+        inSlope: -0.06498283
+        outSlope: -0.06498283
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 1.261349
+        inSlope: 0.6587929
+        outSlope: 0.6587929
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.866667
+        value: 1.410087
+        inSlope: -0.06497934
+        outSlope: -0.06497934
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 1
+        inSlope: -0.08967169
+        outSlope: -0.08967169
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.7
+        value: 1
+        inSlope: 1.788154E-06
+        outSlope: 1.788154E-06
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0.1567411
+        outSlope: 0.1567411
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.144351
+        inSlope: 1.173761
+        outSlope: 1.173761
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666667
+        value: 1.387371
+        inSlope: -0.6366528
+        outSlope: -0.6366528
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9666667
+        value: 1
+        inSlope: -0.06497747
+        outSlope: -0.06497747
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 1.261349
+        inSlope: 0.6587839
+        outSlope: 0.6587839
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.866667
+        value: 1.410087
+        inSlope: -0.06498471
+        outSlope: -0.06498471
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.333333
+        value: 1
+        inSlope: -0.08967348
+        outSlope: -0.08967348
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.7
+        value: 1
+        inSlope: 1.788141E-06
+        outSlope: 1.788141E-06
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1049068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.1049068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01446037
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.01446037
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.183456E-09
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -2.183456E-09
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5099855
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -0.5099855
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 7.56979E-09
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 7.56979E-09
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.04294553
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.04294553
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2454582
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -0.2454582
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2041902
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -0.2041902
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.2061641
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.2061641
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.05221703
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.05221703
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.2961373
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.2961373
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1656113
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: -0.1656113
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9392279
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 0.9392279
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.011382
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1.011382
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Plane001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.011382
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1.011382
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Plane001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.011382
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1.011382
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Plane001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CATRigHub001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CATRigHub001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CATRigHub001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CATRigHub001/CATRigHub001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3.333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+    classID: 4
+    script: {fileID: 0}
+  m_Events:

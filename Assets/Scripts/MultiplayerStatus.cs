@@ -1,0 +1,19 @@
+using UnityEngine;
+internal enum Status.MultiplayerStatus
+{
+    // Fields
+    VALID = 1
+    ,VALID_BUT_STALE = 2
+    ,ERROR_INTERNAL = -2
+    ,ERROR_NOT_AUTHORIZED = -3
+    ,ERROR_VERSION_UPDATE_REQUIRED = -4
+    ,ERROR_TIMEOUT = -5
+    ,ERROR_MATCH_ALREADY_REMATCHED = -7
+    ,ERROR_INACTIVE_MATCH = -8
+    ,ERROR_INVALID_RESULTS = -9
+    ,ERROR_INVALID_MATCH = -10
+    ,ERROR_MATCH_OUT_OF_DATE = -11
+    ,ERROR_REAL_TIME_ROOM_NOT_JOINED = -17
+    
+
+}

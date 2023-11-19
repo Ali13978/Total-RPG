@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29d3b795b84436262e8d5381e9c6e445, type: 3}
+  m_Name: "Attack Speed amulet +4%"
+  m_EditorClassIdentifier: 
+  id: 181
+  UniqueInstanceIdRequired: 1
+  itemName: "Attack Speed amulet +4%"
+  localizedName: {fileID: 11400000, guid: d6eefbb09f294feba057bb6d2785b295, type: 2}
+  localizedDescription: {fileID: 0}
+  AdditionalModificators:
+    DamageModificators: []
+    HitPointsModificators: []
+    HitPointsRegenModificators: []
+    AttackSpeedModificators: []
+    WalkingSpeedModificators: []
+    DefenceModificators: []
+    XpRateModificators: []
+    CritChanceModificators: []
+    CritMultipliierModificators: []
+  availableInShop: 0
+  Prefab: {fileID: 0}
+  DroppedPrefab: {fileID: 1791239302789289974, guid: 298f97476f7f9e54c99cda14546d9d04, type: 2}
+  autoPickup: 1
+  destroyOnPickUp: 1
+  _attributes: []
+  _components: []
+  Icon: {fileID: 0}
+  Sprite: {fileID: 21300010, guid: 5cbf5f8856724c1ebd911211c37dcf39, type: 3}
+  ConsumptionType: 1
+  Cost: 150000
+  PremiumCost: 0
+  MinimumLevel: 0
+  bonus:
+    currentCryptoKey: 230887
+    hiddenValue:
+      b1: 95
+      b2: 155
+      b3: 134
+      b4: 63
+    hiddenValueOld: 
+    inited: 1
+    fakeValue: 1.04
+    fakeValueActive: 1
+  modificatorOperator: 2
